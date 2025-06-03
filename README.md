@@ -1,5 +1,14 @@
 
-# MNW Benchmark Dataset
+![image](header_GitHub_repo.png)
+
+<div align="center"> 
+<font size="6"> MNW Benchmark Dataset </font>
+<br>
+<hr>
+<br><br>
+</div>
+
+
 
 ## 📣 Announcements
 
@@ -18,7 +27,7 @@ We have recently published a [summary paper on MNW](https://arxiv.org/abs/...). 
 ```
 @misc{MNW2025,
       title={MNW AI detection evaluation set}, 
-      author={Thomas Roca and Marco Postiglione and Shirin ANlen and Zuzanna Wojciak and Masah Alimardani and Kevin White and Juan Lavista and V.S. Subrahmanian and Sam Gregory},
+      author={Thomas Roca and Marco Postiglione and Shirin Anlen and Zuzanna Wojciak and Masah Alimardani and Kevin White and Juan Lavista and V.S. Subrahmanian and Sam Gregory},
       year={2025},
       eprint={......},
       archivePrefix={arXiv},
