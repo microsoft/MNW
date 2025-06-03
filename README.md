@@ -4,8 +4,6 @@
 <div align="center"> 
 <font size="6"> MNW Benchmark Dataset </font>
 <br>
-<hr>
-<br><br>
 </div>
 
 
