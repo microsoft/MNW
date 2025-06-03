@@ -2,7 +2,7 @@
 ![image](header_GitHub_repo.png)
 
 <div align="center"> 
-<font size="6"> MNW Benchmark Dataset </font>
+<font size="6"><b>MNW Benchmark Dataset</b></font>
 <br>
 </div>
 
