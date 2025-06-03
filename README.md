@@ -1,6 +1,5 @@
 
-<div align="center"> 
-<font size="6"> MNW Benchmark Dataset </font>
+# MNW Benchmark Dataset
 <br>
 <hr>
 
