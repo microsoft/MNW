@@ -1,12 +1,5 @@
 
 # MNW Benchmark Dataset
-<br>
-<hr>
-
-
-<br><br>
-</div>
-
 
 ## 📣 Announcements
 
