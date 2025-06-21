@@ -42,3 +42,8 @@ We have recently published a [summary paper on MNW](https://arxiv.org/abs/...). 
 ```
 
 ## 🤝 Existing Collaborators and Contributors
+
+**Founding collaborators:**
+- Microsoft AI for Good Lab: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/ 
+- Northwestern University Mc Cormick School of engineering: https://www.mccormick.northwestern.edu/computer-science/ 
+- Witness: https://www.witness.org/ 
