@@ -9,9 +9,7 @@
 
 ## 📣 Announcements
 
-### V 1.0
-
-- We have launched !
+### V 1.0: We have launched !
 
 
 ## 👋 Welcome to MNW Benchmark Dataset
