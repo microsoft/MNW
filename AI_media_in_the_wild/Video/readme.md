@@ -1,4 +1,4 @@
-# Video social media links
+# Video Social Media Links
 
 ## Likely authentic
 
