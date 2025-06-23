@@ -1,6 +1,6 @@
 # AI-videos generator list :movie_camera:
 
-| AI_Video           |
+| AI Video           |
 |--------------------|
 | Adobe Firefly video|
 | CogVideoX-2B       |
