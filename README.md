@@ -31,8 +31,8 @@ We have recently published a [summary paper on MNW](https://arxiv.org/abs/...). 
 
 ```
 @misc{MNW2025,
-      title={MNW AI detection evaluation set}, 
-      author={Thomas Roca and Marco Postiglione and Shirin Anlen and Zuzanna Wojciak and Masah Alimardani and Kevin White and Juan Lavista and V.S. Subrahmanian and Sam Gregory},
+      title={{Introducing the MNW benchmark for AI forensics}, 
+      author={Thomas Roca and Marco Postiglione and Shirin Anlen and Zuzanna Wojciak and Masah Alimardani and Pengce Wang and Kevin White and Juan Lavista and V.S. Subrahmanian and Sam Gregory},
       year={2025},
       eprint={......},
       archivePrefix={arXiv},
