@@ -1,6 +1,6 @@
 ### Intro
 
-The AI media *in-the-wild* examples were collected through the work of the [Deepfakes Rapid Response Force]([url](https://www.gen-ai.witness.org/deepfakes-rapid-response-force/)). This WITNESS initiative connects frontline fact-checkers, journalists, and civil society actors with leading media forensics and deepfake detection experts who provide a timely, evidence-based analysis of potentially AI-manipulated or generated content threatening democracy and human rights.
+The AI media *in-the-wild* examples were collected through the work of the [Deepfakes Rapid Response Force](https://www.gen-ai.witness.org/deepfakes-rapid-response-force/). This WITNESS initiative connects frontline fact-checkers, journalists, and civil society actors with leading media forensics and deepfake detection experts who provide a timely, evidence-based analysis of potentially AI-manipulated or generated content threatening democracy and human rights.
 
 Cases analysed by the Force demonstrate the challenges presented by the AI-manipulated media shared in real-world high-stakes context, including difficulties stemming from compressed or low-quality media, and the diversity of media types, and gaps in training data for local languages and representations.
 
