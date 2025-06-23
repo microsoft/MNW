@@ -1,8 +1,6 @@
 
 # Image generators list :framed_picture:
 
-
-
 | AI Images      |
 |-------------------------------|
 | Adobe Firefly v2              |
@@ -40,7 +38,6 @@
 | Pixart alpha XL               |
 | Playground-v2.5Ae             |
 | PlaygroundAI                  |
-| Readme.md                     |
 | Recraft v3                    |
 | Reve AI                       |
 | Stable diffusion XL img reference |

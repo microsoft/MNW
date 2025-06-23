@@ -14,5 +14,4 @@
 | Pika 1.5           |
 | Pika 2.1           |
 | Pika 2.2           |
-| Readme.md          |
 | Runway Gen4        |
