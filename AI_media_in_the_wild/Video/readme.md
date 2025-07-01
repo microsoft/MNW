@@ -27,3 +27,4 @@
 | :---- | :---- | :---- |
 | I043 | [https://www.youtube.com/watch?v=T8RE-8OfFp4\&t=624s](https://www.youtube.com/watch?v=T8RE-8OfFp4&t=624s)  | [https://web.archive.org/web/20250616135041/https://www.youtube.com/watch?v=T8RE-8OfFp4\&t=624s](https://web.archive.org/web/20250616135041/https://www.youtube.com/watch?v=T8RE-8OfFp4&t=624s)  |
 | I082 | [https://www.facebook.com/irak.li.zakareishvili.satadarigo.pb/videos/738168888779154](https://www.facebook.com/irak.li.zakareishvili.satadarigo.pb/videos/738168888779154)  | [https://web.archive.org/web/20250616134222/https://www.facebook.com/irak.li.zakareishvili.satadarigo.pb/videos/738168888779154](https://web.archive.org/web/20250616134222/https://www.facebook.com/irak.li.zakareishvili.satadarigo.pb/videos/738168888779154)  |
+| I085 | [https://x.com/gidonsaar/status/1937083300373541216 ](https://x.com/gidonsaar/status/1937083300373541216 )  | [https://archive.ph/ABfWs](https://archive.ph/ABfWs)  |
