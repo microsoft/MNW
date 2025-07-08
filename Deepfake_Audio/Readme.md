@@ -64,7 +64,7 @@ These simulate malicious modifications used to evade detection models.
 ---
 
 ## :fountain_pen: Cite us!
-This dataset is intended for evaluation purposes and cannot be used for training or for commercial purposes.
+This dataset cannot be used for commercial purposes.
 
 We have recently published a [summary paper on MNW](https://arxiv.org/abs/...). Please feel free to cite us!
 
