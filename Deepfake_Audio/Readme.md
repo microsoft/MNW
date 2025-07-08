@@ -1,22 +1,8 @@
-## 🧠 AI-Generated Audio (40,000 clips)
+## 🧠 AI-Generated Audio
 
 As part of the MNW Benchmark, the NSAIL lab at Northwestern University generated **40,000 synthetic audio clips** across **40 audio generation methods** spanning 2017–2025.
 
-Each method produced **250 samples**, synthesized from transcripts in the [VCTK corpus](https://datashare.ed.ac.uk/handle/10283/2651), a benchmark dataset in voice synthesis. When available, official voice identities from each toolkit were used; otherwise, a reference voice was randomly chosen from our curated set of 206 deceased individuals (\$DI\$). As these individuals are no longer living, they fall outside IRB jurisdiction.
-
-Each sample has:
-
-* 📄 A transcript (sampled from VCTK)
-* 🗣 A target speaker (from \$DI\$ or official release)
-* 🔊 A synthetic voice recording (WAV format)
-
-### 📁 Folder Structure
-
-```
-/Deepfake_Audio/
-├── not-perturbed/         
-├── perturbed/              
-```
+Each method produced **250 samples**, synthesized from transcripts in the [VCTK corpus](https://datashare.ed.ac.uk/handle/10283/2651), a benchmark dataset in voice synthesis. When available, official voice identities from each toolkit were used; otherwise, a reference voice was randomly chosen from our curated set of 206 deceased individuals (\$DI\$). 
 
 ### 🎛 Perturbations
 
@@ -30,7 +16,7 @@ These simulate malicious modifications used to evade detection models.
 
 ---
 
-### 🎤 Included Audio Generators (40 total)
+### 🎤 Included Audio Generators
 
 | AI Audio Generator                     | Folder Name                           |
 | -------------------------------------- | ------------------------------------- |
