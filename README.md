@@ -15,7 +15,7 @@
 ## 👋 Welcome to MNW Benchmark Dataset
 This repository contains the MNW dataset (*Microsoft-Northwestern-Witness*) and/or associated code for benchmarking AI-detection models across images, video, and audio.
 
-## :warning: Notice
+### :warning: Notice
 **This dataset is intended for evaluation purposes and cannot be used for training or for commercial purposes.**
 
 ### Why do we need a new benchmark?
