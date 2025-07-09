@@ -15,6 +15,9 @@
 ## 👋 Welcome to MNW Benchmark Dataset
 This repository contains the MNW dataset (*Microsoft-Northwestern-Witness*) and/or associated code for benchmarking AI-detection models across images, video, and audio.
 
+## :warning: Notice
+**This dataset is intended for evaluation purposes and cannot be used for training or for commercial purposes.**
+
 ### Why do we need a new benchmark?
 The detection of AI generated media and deepfake has been an active area of research for almost a decade. But in the past few years, a new paradigm has emerged with the diffusion architecture, showing impressive achievements in audio, image and video generation. Previous approaches to detection are now obsolete and the detection scene must re-invent itself. From only a few methods and models, we moved to a multitude of them pushing the state of the art constantly. With such a dynamic environment, detection models need to generalize better and stay up to date to maintain high performance across the board. 
 Historically, evaluation of deepfake models were based on large datasets opened up during ‘detection challenges’. These datasets (see Meta 2020, gov.uk 2024 ) typically had a lot of depth but almost no breadth. They were suitable for the previous era (the GAN era) but are not up to the challenge brought by the new generative AI landscape and the evolving type of harm it brings: scams, non-consensual intimate image generation, disinformation, etc.
