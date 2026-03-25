@@ -1,0 +1,2002 @@
+{
+  "p251_007_Q455818_22_0013.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-160563-A-48"
+    },
+    "output_file": "p251_007_Q455818_22_0013_BackgroundNoise_1-160563-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p306_239_unknown_11282_0005.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-219044-A-46"
+    },
+    "output_file": "p306_239_unknown_11282_0005_BackgroundNoise_5-219044-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p262_053_Q327053_131_0038.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-194930-B-1"
+    },
+    "output_file": "p262_053_Q327053_131_0038_BackgroundNoise_5-194930-B-1.wav",
+    "original_sample_rate": 22050
+  },
+  "p249_305_Q1181035_85_0058.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-197454-A-28"
+    },
+    "output_file": "p249_305_Q1181035_85_0058_BackgroundNoise_4-197454-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p243_168_unknown_2877_0094.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-103598-A-25"
+    },
+    "output_file": "p243_168_unknown_2877_0094_BackgroundNoise_3-103598-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p255_135_Q48280_11_0113.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-119120-A-48"
+    },
+    "output_file": "p255_135_Q48280_11_0113_BackgroundNoise_3-119120-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p271_268_unknown_10793_0002.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-26177-A-43"
+    },
+    "output_file": "p271_268_unknown_10793_0002_BackgroundNoise_1-26177-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p225_051_Q725520_32_0004.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-56380-A-5"
+    },
+    "output_file": "p225_051_Q725520_32_0004_BackgroundNoise_1-56380-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p334_072_unknown_2810_0052.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-195451-A-44"
+    },
+    "output_file": "p334_072_unknown_2810_0052_BackgroundNoise_4-195451-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p282_289_Q160157_20_0070.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-132839-A-33"
+    },
+    "output_file": "p282_289_Q160157_20_0070_BackgroundNoise_4-132839-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p304_023_Q55406_323_0145.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-87780-A-33"
+    },
+    "output_file": "p304_023_Q55406_323_0145_BackgroundNoise_2-87780-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_326_Q541114_1_0099.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-32318-A-0"
+    },
+    "output_file": "p287_326_Q541114_1_0099_BackgroundNoise_1-32318-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_371_Q182408_150_0079.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-167077-A-20"
+    },
+    "output_file": "p335_371_Q182408_150_0079_BackgroundNoise_4-167077-A-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_022_Q435060_15_0083.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-124600-A-19"
+    },
+    "output_file": "p308_022_Q435060_15_0083_BackgroundNoise_3-124600-A-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p302_300_unknown_8147_0063.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-29532-A-16"
+    },
+    "output_file": "p302_300_unknown_8147_0063_BackgroundNoise_1-29532-A-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_341_Q976445_18_0104.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-143119-A-21"
+    },
+    "output_file": "p228_341_Q976445_18_0104_BackgroundNoise_3-143119-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_139_Q115367_22_0064.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-87412-A-24"
+    },
+    "output_file": "p231_139_Q115367_22_0064_BackgroundNoise_2-87412-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p298_014_Q2344749_74_0029.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-213836-C-9"
+    },
+    "output_file": "p298_014_Q2344749_74_0029_BackgroundNoise_5-213836-C-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_199_Q348471_54_0028.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-202111-A-3"
+    },
+    "output_file": "p335_199_Q348471_54_0028_BackgroundNoise_1-202111-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p274_148_unknown_1867_0029.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-188390-A-6"
+    },
+    "output_file": "p274_148_unknown_1867_0029_BackgroundNoise_3-188390-A-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p277_299_Q575795_293_0137.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-101296-A-19"
+    },
+    "output_file": "p277_299_Q575795_293_0137_BackgroundNoise_1-101296-A-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p305_137_unknown_5551_0021.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-147240-A-2"
+    },
+    "output_file": "p305_137_unknown_5551_0021_BackgroundNoise_4-147240-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p229_145_Q809037_61_0009.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-153444-A-32"
+    },
+    "output_file": "p229_145_Q809037_61_0009_BackgroundNoise_3-153444-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p243_371_unknown_1240_0037.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-182039-A-30"
+    },
+    "output_file": "p243_371_unknown_1240_0037_BackgroundNoise_4-182039-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p240_231_Q6831466_9_0090.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-222894-A-32"
+    },
+    "output_file": "p240_231_Q6831466_9_0090_BackgroundNoise_5-222894-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p245_106_Q348471_64_0098.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-58846-A-34"
+    },
+    "output_file": "p245_106_Q348471_64_0098_BackgroundNoise_1-58846-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_088_unknown_250_0076.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-66637-A-20"
+    },
+    "output_file": "p231_088_unknown_250_0076_BackgroundNoise_2-66637-A-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_408_Q257881_84_0101.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-205526-B-23"
+    },
+    "output_file": "p273_408_Q257881_84_0101_BackgroundNoise_4-205526-B-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_380_unknown_9431_0138.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-78781-A-47"
+    },
+    "output_file": "p264_380_unknown_9431_0138_BackgroundNoise_2-78781-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p283_139_unknown_984_0077.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-100210-A-36"
+    },
+    "output_file": "p283_139_unknown_984_0077_BackgroundNoise_1-100210-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_020_unknown_9118_0059.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-151269-A-35"
+    },
+    "output_file": "p300_020_unknown_9118_0059_BackgroundNoise_3-151269-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p336_222_unknown_2472_0136.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-83934-A-5"
+    },
+    "output_file": "p336_222_unknown_2472_0136_BackgroundNoise_2-83934-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p298_351_Q1121211_70_0131.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-155670-A-26"
+    },
+    "output_file": "p298_351_Q1121211_70_0131_BackgroundNoise_4-155670-A-26.wav",
+    "original_sample_rate": 22050
+  },
+  "p341_294_unknown_6750_0039.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-128465-B-43"
+    },
+    "output_file": "p341_294_unknown_6750_0039_BackgroundNoise_2-128465-B-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_056_unknown_10053_0009.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-154688-A-31"
+    },
+    "output_file": "p273_056_unknown_10053_0009_BackgroundNoise_2-154688-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_121_Q575795_6_0092.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-9841-A-13"
+    },
+    "output_file": "p335_121_Q575795_6_0092_BackgroundNoise_1-9841-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_224_Q1305290_91_0135.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-38560-A-14"
+    },
+    "output_file": "p263_224_Q1305290_91_0135_BackgroundNoise_1-38560-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p256_207_Q3139446_93_0004.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-72547-C-14"
+    },
+    "output_file": "p256_207_Q3139446_93_0004_BackgroundNoise_2-72547-C-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_206_unknown_1958_0027.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-185579-B-41"
+    },
+    "output_file": "p279_206_unknown_1958_0027_BackgroundNoise_5-185579-B-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p305_399_unknown_10892_0096.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-165856-A-41"
+    },
+    "output_file": "p305_399_unknown_10892_0096_BackgroundNoise_3-165856-A-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p351_423_Q215847_58_0023.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-196672-A-8"
+    },
+    "output_file": "p351_423_Q215847_58_0023_BackgroundNoise_4-196672-A-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p260_207_Q57387_107_0069.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-119120-A-48"
+    },
+    "output_file": "p260_207_Q57387_107_0069_BackgroundNoise_3-119120-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p303_112_unknown_366_0084.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-101336-A-30"
+    },
+    "output_file": "p303_112_unknown_366_0084_BackgroundNoise_1-101336-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p232_332_Q575795_147_0009.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-62594-A-32"
+    },
+    "output_file": "p232_332_Q575795_147_0009_BackgroundNoise_1-62594-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_219_Q1350527_30_0096.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-195497-B-11"
+    },
+    "output_file": "p288_219_Q1350527_30_0096_BackgroundNoise_4-195497-B-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p238_202_Q347362_107_0001.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-7974-A-49"
+    },
+    "output_file": "p238_202_Q347362_107_0001_BackgroundNoise_1-7974-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_057_Q575795_231_0090.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-125070-A-19"
+    },
+    "output_file": "p264_057_Q575795_231_0090_BackgroundNoise_4-125070-A-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_101_Q128563_2_0080.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-30226-A-0"
+    },
+    "output_file": "p280_101_Q128563_2_0080_BackgroundNoise_1-30226-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p306_054_Q234293_66_0073.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-257349-A-15"
+    },
+    "output_file": "p306_054_Q234293_66_0073_BackgroundNoise_5-257349-A-15.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_106_Q709698_4_0008.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-47819-B-5"
+    },
+    "output_file": "p231_106_Q709698_4_0008_BackgroundNoise_1-47819-B-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p295_147_unknown_6695_0111.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-213836-A-9"
+    },
+    "output_file": "p295_147_unknown_6695_0111_BackgroundNoise_5-213836-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_393_Q575795_224_0082.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-47274-A-21"
+    },
+    "output_file": "p273_393_Q575795_224_0082_BackgroundNoise_1-47274-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p299_362_Q1927148_59_0089.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-161303-B-5"
+    },
+    "output_file": "p299_362_Q1927148_59_0089_BackgroundNoise_4-161303-B-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_201_unknown_1870_0014.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-263490-A-25"
+    },
+    "output_file": "p286_201_unknown_1870_0014_BackgroundNoise_5-263490-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p227_130_unknown_7851_0089.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-205898-A-40"
+    },
+    "output_file": "p227_130_unknown_7851_0089_BackgroundNoise_5-205898-A-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p347_081_unknown_9741_0115.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-122616-A-14"
+    },
+    "output_file": "p347_081_unknown_9741_0115_BackgroundNoise_2-122616-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p233_341_Q712882_69_0007.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-88574-A-8"
+    },
+    "output_file": "p233_341_Q712882_69_0007_BackgroundNoise_1-88574-A-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p240_022_Q64685_5_0002.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-186962-A-44"
+    },
+    "output_file": "p240_022_Q64685_5_0002_BackgroundNoise_4-186962-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p329_033_Q133040_1_0044.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-96033-A-13"
+    },
+    "output_file": "p329_033_Q133040_1_0044_BackgroundNoise_2-96033-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p256_187_unknown_7054_0147.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-213836-A-9"
+    },
+    "output_file": "p256_187_unknown_7054_0147_BackgroundNoise_5-213836-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_401_unknown_7267_0098.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-205738-A-22"
+    },
+    "output_file": "p335_401_unknown_7267_0098_BackgroundNoise_4-205738-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p252_236_Q55406_127_0124.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-77347-A-46"
+    },
+    "output_file": "p252_236_Q55406_127_0124_BackgroundNoise_2-77347-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p234_273_Q1281738_6_0063.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-102581-A-29"
+    },
+    "output_file": "p234_273_Q1281738_6_0063_BackgroundNoise_2-102581-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_027_unknown_7168_0065.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-249937-A-22"
+    },
+    "output_file": "p280_027_unknown_7168_0065_BackgroundNoise_5-249937-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_302_Q1121211_125_0005.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172180-A-32"
+    },
+    "output_file": "p228_302_Q1121211_125_0005_BackgroundNoise_4-172180-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p256_279_Q448235_7_0082.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-118972-A-41"
+    },
+    "output_file": "p256_279_Q448235_7_0082_BackgroundNoise_3-118972-A-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_309_Q976445_46_0022.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-99796-A-32"
+    },
+    "output_file": "p308_309_Q976445_46_0022_BackgroundNoise_2-99796-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p360_137_Q48280_24_0014.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-137-A-32"
+    },
+    "output_file": "p360_137_Q48280_24_0014_BackgroundNoise_1-137-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p244_317_Q861908_32_0087.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-194899-C-3"
+    },
+    "output_file": "p244_317_Q861908_32_0087_BackgroundNoise_5-194899-C-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_386_Q980727_5_0000.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-176638-A-43"
+    },
+    "output_file": "p362_386_Q980727_5_0000_BackgroundNoise_4-176638-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p238_063_Q230733_13_0043.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-125548-A-32"
+    },
+    "output_file": "p238_063_Q230733_13_0043_BackgroundNoise_3-125548-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p283_201_unknown_7185_0032.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-137-A-32"
+    },
+    "output_file": "p283_201_unknown_7185_0032_BackgroundNoise_1-137-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p341_264_unknown_3567_0020.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-212059-A-36"
+    },
+    "output_file": "p341_264_unknown_3567_0020_BackgroundNoise_5-212059-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p259_046_Q178112_65_0006.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-215445-A-47"
+    },
+    "output_file": "p259_046_Q178112_65_0006_BackgroundNoise_5-215445-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_297_Q75063_59_0084.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-107228-A-44"
+    },
+    "output_file": "p286_297_Q75063_59_0084_BackgroundNoise_2-107228-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p248_275_unknown_9915_0100.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-59321-A-49"
+    },
+    "output_file": "p248_275_unknown_9915_0100_BackgroundNoise_2-59321-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_217_unknown_1995_0058.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-182404-A-18"
+    },
+    "output_file": "p316_217_unknown_1995_0058_BackgroundNoise_5-182404-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p306_027_Q57387_190_0094.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198373-A-46"
+    },
+    "output_file": "p306_027_Q57387_190_0094_BackgroundNoise_5-198373-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_221_Q448235_328_0068.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-208757-B-2"
+    },
+    "output_file": "p308_221_Q448235_328_0068_BackgroundNoise_1-208757-B-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_325_Q725520_42_0053.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-68391-B-41"
+    },
+    "output_file": "p316_325_Q725520_42_0053_BackgroundNoise_2-68391-B-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p232_021_Q1609413_67_0012.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198278-A-7"
+    },
+    "output_file": "p232_021_Q1609413_67_0012_BackgroundNoise_5-198278-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p282_263_unknown_11583_0112.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-152007-A-20"
+    },
+    "output_file": "p282_263_unknown_11583_0112_BackgroundNoise_3-152007-A-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p341_119_Q785404_29_0066.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-212054-A-36"
+    },
+    "output_file": "p341_119_Q785404_29_0066_BackgroundNoise_5-212054-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p339_391_Q976445_9_0002.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-151213-A-24"
+    },
+    "output_file": "p339_391_Q976445_9_0002_BackgroundNoise_3-151213-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_331_Q3993307_15_0024.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-110913-A-7"
+    },
+    "output_file": "p308_331_Q3993307_15_0024_BackgroundNoise_3-110913-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_032_Q469565_17_0036.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-198962-B-25"
+    },
+    "output_file": "p362_032_Q469565_17_0036_BackgroundNoise_4-198962-B-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p303_213_unknown_10155_0003.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-104761-A-7"
+    },
+    "output_file": "p303_213_unknown_10155_0003_BackgroundNoise_3-104761-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p302_287_unknown_10213_0008.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-201988-A-44"
+    },
+    "output_file": "p302_287_unknown_10213_0008_BackgroundNoise_4-201988-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p304_396_unknown_9399_0070.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-243726-A-43"
+    },
+    "output_file": "p304_396_unknown_9399_0070_BackgroundNoise_3-243726-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_081_Q3993307_15_0019.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-143118-A-7"
+    },
+    "output_file": "p263_081_Q3993307_15_0019_BackgroundNoise_4-143118-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p275_388_Q575795_206_0116.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-251426-B-30"
+    },
+    "output_file": "p275_388_Q575795_206_0116_BackgroundNoise_5-251426-B-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_434_unknown_6808_0079.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-160563-B-48"
+    },
+    "output_file": "p276_434_unknown_6808_0079_BackgroundNoise_1-160563-B-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_088_Q234293_60_0118.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-35687-A-38"
+    },
+    "output_file": "p276_088_Q234293_60_0118_BackgroundNoise_1-35687-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_194_unknown_5692_0008.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-59513-A-0"
+    },
+    "output_file": "p273_194_unknown_5692_0008_BackgroundNoise_1-59513-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p247_038_unknown_10795_0148.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-78562-A-37"
+    },
+    "output_file": "p247_038_unknown_10795_0148_BackgroundNoise_2-78562-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_037_Q117071_47_0064.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-164021-A-1"
+    },
+    "output_file": "p310_037_Q117071_47_0064_BackgroundNoise_4-164021-A-1.wav",
+    "original_sample_rate": 22050
+  },
+  "p254_107_Q435060_156_0041.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-65483-A-13"
+    },
+    "output_file": "p254_107_Q435060_156_0041_BackgroundNoise_1-65483-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p257_186_Q144719_12_0134.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-208757-B-2"
+    },
+    "output_file": "p257_186_Q144719_12_0134_BackgroundNoise_1-208757-B-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p297_016_Q327734_41_0010.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-233019-A-31"
+    },
+    "output_file": "p297_016_Q327734_41_0010_BackgroundNoise_5-233019-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_244_Q775800_43_0023.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-18810-A-49"
+    },
+    "output_file": "p241_244_Q775800_43_0023_BackgroundNoise_1-18810-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_214_Q3313241_6_0110.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-17092-B-27"
+    },
+    "output_file": "p276_214_Q3313241_6_0110_BackgroundNoise_1-17092-B-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p243_268_unknown_8313_0055.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-211527-B-20"
+    },
+    "output_file": "p243_268_unknown_8313_0055_BackgroundNoise_1-211527-B-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_009_Q295847_58_0016.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-53670-A-18"
+    },
+    "output_file": "p266_009_Q295847_58_0016_BackgroundNoise_1-53670-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_363_Q29230_21_0130.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-187201-A-4"
+    },
+    "output_file": "p261_363_Q29230_21_0130_BackgroundNoise_5-187201-A-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p277_291_unknown_1349_0083.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-59513-A-0"
+    },
+    "output_file": "p277_291_unknown_1349_0083_BackgroundNoise_1-59513-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p311_271_Q1121211_72_0056.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-100038-A-14"
+    },
+    "output_file": "p311_271_Q1121211_72_0056_BackgroundNoise_1-100038-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p239_199_Q348471_122_0069.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-20861-A-8"
+    },
+    "output_file": "p239_199_Q348471_122_0069_BackgroundNoise_3-20861-A-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_159_Q1220_28_0034.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-158746-A-2"
+    },
+    "output_file": "p312_159_Q1220_28_0034_BackgroundNoise_2-158746-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p297_294_Q1220_63_0071.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-257858-A-2"
+    },
+    "output_file": "p297_294_Q1220_63_0071_BackgroundNoise_3-257858-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_254_Q3139446_128_0142.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-51805-B-33"
+    },
+    "output_file": "p345_254_Q3139446_128_0142_BackgroundNoise_1-51805-B-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_475_unknown_4374_0054.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-145006-A-18"
+    },
+    "output_file": "p231_475_unknown_4374_0054_BackgroundNoise_4-145006-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p233_149_Q455818_69_0035.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-185575-C-20"
+    },
+    "output_file": "p233_149_Q455818_69_0035_BackgroundNoise_4-185575-C-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p283_222_unknown_11641_0039.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-63679-A-24"
+    },
+    "output_file": "p283_222_unknown_11641_0039_BackgroundNoise_1-63679-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p360_165_unknown_10591_0025.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-189832-B-22"
+    },
+    "output_file": "p360_165_unknown_10591_0025_BackgroundNoise_4-189832-B-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p311_350_Q348471_233_0047.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-124662-A-11"
+    },
+    "output_file": "p311_350_Q348471_233_0047_BackgroundNoise_2-124662-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_104_unknown_8494_0051.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-G-20"
+    },
+    "output_file": "p273_104_unknown_8494_0051_BackgroundNoise_5-198411-G-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p330_095_Q2344749_73_0086.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-135650-B-45"
+    },
+    "output_file": "p330_095_Q2344749_73_0086_BackgroundNoise_3-135650-B-45.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_374_Q370155_181_0012.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-25781-A-48"
+    },
+    "output_file": "p287_374_Q370155_181_0012_BackgroundNoise_1-25781-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_236_unknown_5396_0034.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-210612-A-37"
+    },
+    "output_file": "p310_236_unknown_5396_0034_BackgroundNoise_5-210612-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p259_085_unknown_4888_0046.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-167642-A-21"
+    },
+    "output_file": "p259_085_unknown_4888_0046_BackgroundNoise_4-167642-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p260_310_Q348471_70_0061.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-179984-A-38"
+    },
+    "output_file": "p260_310_Q348471_70_0061_BackgroundNoise_4-179984-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_417_Q35358_54_0038.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-207811-A-35"
+    },
+    "output_file": "p317_417_Q35358_54_0038_BackgroundNoise_5-207811-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_167_unknown_8850_0095.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-243459-B-14"
+    },
+    "output_file": "p312_167_unknown_8850_0095_BackgroundNoise_5-243459-B-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_269_unknown_6171_0025.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-182025-A-30"
+    },
+    "output_file": "p316_269_unknown_6171_0025_BackgroundNoise_3-182025-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p244_172_Q2344749_125_0075.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-171937-A-34"
+    },
+    "output_file": "p244_172_Q2344749_125_0075_BackgroundNoise_3-171937-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_397_Q348471_148_0097.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-50454-A-44"
+    },
+    "output_file": "p300_397_Q348471_148_0097_BackgroundNoise_1-50454-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p294_042_Q182408_184_0139.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-177779-A-33"
+    },
+    "output_file": "p294_042_Q182408_184_0139_BackgroundNoise_5-177779-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p301_387_Q327053_120_0026.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-172649-C-40"
+    },
+    "output_file": "p301_387_Q327053_120_0026_BackgroundNoise_1-172649-C-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p238_429_Q336171_87_0030.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-253094-A-49"
+    },
+    "output_file": "p238_429_Q336171_87_0030_BackgroundNoise_5-253094-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_297_unknown_966_0017.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-218199-E-35"
+    },
+    "output_file": "p281_297_unknown_966_0017_BackgroundNoise_4-218199-E-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_291_Q1161170_9_0102.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-57163-A-38"
+    },
+    "output_file": "p266_291_Q1161170_9_0102_BackgroundNoise_1-57163-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p343_366_Q1181035_70_0103.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-132816-A-26"
+    },
+    "output_file": "p343_366_Q1181035_70_0103_BackgroundNoise_4-132816-A-26.wav",
+    "original_sample_rate": 22050
+  },
+  "p227_078_unknown_554_0044.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-152039-B-3"
+    },
+    "output_file": "p227_078_unknown_554_0044_BackgroundNoise_3-152039-B-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_343_Q2344749_54_0123.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-210000-B-23"
+    },
+    "output_file": "p312_343_Q2344749_54_0123_BackgroundNoise_4-210000-B-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p259_305_Q229528_27_0047.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-204119-A-39"
+    },
+    "output_file": "p259_305_Q229528_27_0047_BackgroundNoise_4-204119-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_175_Q336171_151_0126.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-167571-A-26"
+    },
+    "output_file": "p281_175_Q336171_151_0126_BackgroundNoise_4-167571-A-26.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_236_unknown_9211_0085.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-20545-A-28"
+    },
+    "output_file": "p276_236_unknown_9211_0085_BackgroundNoise_1-20545-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_425_Q1121211_114_0043.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-80840-A-13"
+    },
+    "output_file": "p264_425_Q1121211_114_0043_BackgroundNoise_1-80840-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_181_Q234293_73_0000.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-118069-A-27"
+    },
+    "output_file": "p279_181_Q234293_73_0000_BackgroundNoise_3-118069-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p238_008_Q561142_89_0006.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-235671-A-38"
+    },
+    "output_file": "p238_008_Q561142_89_0006_BackgroundNoise_5-235671-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p347_008_Q231484_57_0033.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-43806-A-42"
+    },
+    "output_file": "p347_008_Q231484_57_0033_BackgroundNoise_2-43806-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p347_352_Q1121211_14_0031.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172180-A-32"
+    },
+    "output_file": "p347_352_Q1121211_14_0031_BackgroundNoise_4-172180-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p305_050_Q601307_51_0074.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-147343-A-34"
+    },
+    "output_file": "p305_050_Q601307_51_0074_BackgroundNoise_3-147343-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p318_375_Q1220_25_0027.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-87936-A-46"
+    },
+    "output_file": "p318_375_Q1220_25_0027_BackgroundNoise_3-87936-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_221_Q160157_54_0128.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-155858-A-25"
+    },
+    "output_file": "p264_221_Q160157_54_0128_BackgroundNoise_1-155858-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_299_Q448235_27_0065.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-106486-A-44"
+    },
+    "output_file": "p281_299_Q448235_27_0065_BackgroundNoise_2-106486-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p347_359_Q1281738_36_0042.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-214759-A-5"
+    },
+    "output_file": "p347_359_Q1281738_36_0042_BackgroundNoise_5-214759-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_422_unknown_8310_0092.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-50774-A-23"
+    },
+    "output_file": "p316_422_unknown_8310_0092_BackgroundNoise_2-50774-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_078_Q231484_64_0018.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-87936-A-46"
+    },
+    "output_file": "p228_078_Q231484_64_0018_BackgroundNoise_3-87936-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p236_239_unknown_3608_0078.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-212698-A-39"
+    },
+    "output_file": "p236_239_unknown_3608_0078_BackgroundNoise_4-212698-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p226_188_Q1018612_131_0095.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-62565-A-44"
+    },
+    "output_file": "p226_188_Q1018612_131_0095_BackgroundNoise_1-62565-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p245_211_unknown_2326_0062.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-122110-A-46"
+    },
+    "output_file": "p245_211_unknown_2326_0062_BackgroundNoise_3-122110-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p265_210_unknown_11181_0066.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-103995-A-30"
+    },
+    "output_file": "p265_210_unknown_11181_0066_BackgroundNoise_1-103995-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_249_unknown_8887_0013.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-211502-A-30"
+    },
+    "output_file": "p310_249_unknown_8887_0013_BackgroundNoise_4-211502-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p313_423_Q182408_111_0149.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-248341-C-6"
+    },
+    "output_file": "p313_423_Q182408_111_0149_BackgroundNoise_5-248341-C-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_001_Q182408_178_0080.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-250258-A-49"
+    },
+    "output_file": "p266_001_Q182408_178_0080_BackgroundNoise_5-250258-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_090_unknown_9884_0049.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-36164-B-26"
+    },
+    "output_file": "p300_090_unknown_9884_0049_BackgroundNoise_1-36164-B-26.wav",
+    "original_sample_rate": 22050
+  },
+  "p307_383_Q117071_55_0005.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-167063-A-11"
+    },
+    "output_file": "p307_383_Q117071_55_0005_BackgroundNoise_4-167063-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p229_009_unknown_11872_0046.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-210593-A-29"
+    },
+    "output_file": "p229_009_unknown_11872_0046_BackgroundNoise_4-210593-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_407_Q712882_16_0060.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-181707-A-32"
+    },
+    "output_file": "p253_407_Q712882_16_0060_BackgroundNoise_4-181707-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p252_397_unknown_11962_0108.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172734-A-36"
+    },
+    "output_file": "p252_397_unknown_11962_0108_BackgroundNoise_4-172734-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p233_225_Q1018612_49_0045.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-104761-B-7"
+    },
+    "output_file": "p233_225_Q1018612_49_0045_BackgroundNoise_3-104761-B-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_362_Q144719_101_0040.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-253084-A-2"
+    },
+    "output_file": "p273_362_Q144719_101_0040_BackgroundNoise_3-253084-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p277_111_Q57387_101_0146.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-53467-A-47"
+    },
+    "output_file": "p277_111_Q57387_101_0146_BackgroundNoise_1-53467-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p297_265_unknown_279_0077.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-184434-A-21"
+    },
+    "output_file": "p297_265_unknown_279_0077_BackgroundNoise_4-184434-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p256_264_unknown_8461_0093.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-221528-A-39"
+    },
+    "output_file": "p256_264_unknown_8461_0093_BackgroundNoise_5-221528-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_345_unknown_5978_0019.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-81851-A-31"
+    },
+    "output_file": "p264_345_unknown_5978_0019_BackgroundNoise_1-81851-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p255_070_Q230733_11_0000.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-76831-D-42"
+    },
+    "output_file": "p255_070_Q230733_11_0000_BackgroundNoise_1-76831-D-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p254_346_Q1121211_71_0140.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-195451-A-44"
+    },
+    "output_file": "p254_346_Q1121211_71_0140_BackgroundNoise_4-195451-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p306_265_Q327053_22_0081.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-23996-B-35"
+    },
+    "output_file": "p306_265_Q327053_22_0081_BackgroundNoise_1-23996-B-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_052_unknown_29_0032.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-31836-B-4"
+    },
+    "output_file": "p280_052_unknown_29_0032_BackgroundNoise_1-31836-B-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p250_130_Q504139_64_0117.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-83934-A-5"
+    },
+    "output_file": "p250_130_Q504139_64_0117_BackgroundNoise_2-83934-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p297_245_Q55406_253_0010.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-32373-A-35"
+    },
+    "output_file": "p297_245_Q55406_253_0010_BackgroundNoise_1-32373-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_182_Q459814_179_0076.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-106486-A-44"
+    },
+    "output_file": "p241_182_Q459814_179_0076_BackgroundNoise_2-106486-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p292_186_Q455818_106_0005.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-161500-A-17"
+    },
+    "output_file": "p292_186_Q455818_106_0005_BackgroundNoise_3-161500-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p329_221_unknown_4457_0040.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-149465-A-22"
+    },
+    "output_file": "p329_221_unknown_4457_0040_BackgroundNoise_3-149465-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_245_unknown_5561_0052.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-180156-B-43"
+    },
+    "output_file": "p317_245_unknown_5561_0052_BackgroundNoise_5-180156-B-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_316_unknown_7752_0099.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-254160-A-22"
+    },
+    "output_file": "p253_316_unknown_7752_0099_BackgroundNoise_5-254160-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p311_208_unknown_4044_0141.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-19501-A-7"
+    },
+    "output_file": "p311_208_unknown_4044_0141_BackgroundNoise_1-19501-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_032_Q1413249_48_0051.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-112213-A-39"
+    },
+    "output_file": "p300_032_Q1413249_48_0051_BackgroundNoise_2-112213-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_125_Q154104_4_0088.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-205090-A-32"
+    },
+    "output_file": "p241_125_Q154104_4_0088_BackgroundNoise_5-205090-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_204_unknown_719_0007.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-170247-A-12"
+    },
+    "output_file": "p281_204_unknown_719_0007_BackgroundNoise_4-170247-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_027_unknown_4335_0007.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-120586-A-6"
+    },
+    "output_file": "p287_027_unknown_4335_0007_BackgroundNoise_2-120586-A-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_108_Q144719_108_0010.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-9032-A-0"
+    },
+    "output_file": "p316_108_Q144719_108_0010_BackgroundNoise_5-9032-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_262_unknown_51_0091.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-140774-A-10"
+    },
+    "output_file": "p264_262_unknown_51_0091_BackgroundNoise_3-140774-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p268_068_Q600635_23_0086.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-17092-A-27"
+    },
+    "output_file": "p268_068_Q600635_23_0086_BackgroundNoise_1-17092-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p271_067_Q435060_35_0072.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-61534-A-27"
+    },
+    "output_file": "p271_067_Q435060_35_0072_BackgroundNoise_1-61534-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p250_413_unknown_12083_0057.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-233312-A-28"
+    },
+    "output_file": "p250_413_unknown_12083_0057_BackgroundNoise_5-233312-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p225_274_unknown_11640_0037.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-134915-A-30"
+    },
+    "output_file": "p225_274_unknown_11640_0037_BackgroundNoise_2-134915-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p262_228_Q29230_5_0071.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-117120-A-42"
+    },
+    "output_file": "p262_228_Q29230_5_0071_BackgroundNoise_5-117120-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p269_172_unknown_3387_0085.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-185516-A-27"
+    },
+    "output_file": "p269_172_unknown_3387_0085_BackgroundNoise_5-185516-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_128_Q1662539_72_0002.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-154926-A-40"
+    },
+    "output_file": "p300_128_Q1662539_72_0002_BackgroundNoise_3-154926-A-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p336_423_unknown_2069_0003.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-160614-H-48"
+    },
+    "output_file": "p336_423_unknown_2069_0003_BackgroundNoise_5-160614-H-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p360_202_Q2383951_92_0011.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-52266-A-24"
+    },
+    "output_file": "p360_202_Q2383951_92_0011_BackgroundNoise_1-52266-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p233_109_unknown_1715_0055.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-24524-B-19"
+    },
+    "output_file": "p233_109_unknown_1715_0055_BackgroundNoise_1-24524-B-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p227_228_unknown_7973_0041.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-41615-A-34"
+    },
+    "output_file": "p227_228_unknown_7973_0041_BackgroundNoise_1-41615-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_289_unknown_11479_0088.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-32373-A-35"
+    },
+    "output_file": "p266_289_unknown_11479_0088_BackgroundNoise_1-32373-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p245_058_unknown_9823_0007.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-7456-A-13"
+    },
+    "output_file": "p245_058_unknown_9823_0007_BackgroundNoise_1-7456-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_237_unknown_10105_0024.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-188365-A-36"
+    },
+    "output_file": "p228_237_unknown_10105_0024_BackgroundNoise_5-188365-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p267_061_unknown_5136_0048.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172500-A-27"
+    },
+    "output_file": "p267_061_unknown_5136_0048_BackgroundNoise_4-172500-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p294_406_Q809037_11_0109.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-188033-A-38"
+    },
+    "output_file": "p294_406_Q809037_11_0109_BackgroundNoise_4-188033-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p314_073_Q1018612_7_0004.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-39901-B-11"
+    },
+    "output_file": "p314_073_Q1018612_7_0004_BackgroundNoise_1-39901-B-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_195_unknown_1231_0061.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-118459-A-32"
+    },
+    "output_file": "p316_195_unknown_1231_0061_BackgroundNoise_2-118459-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_113_Q324302_21_0011.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-103426-A-3"
+    },
+    "output_file": "p288_113_Q324302_21_0011_BackgroundNoise_2-103426-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_119_Q77688_20_0006.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-133047-B-5"
+    },
+    "output_file": "p340_119_Q77688_20_0006_BackgroundNoise_4-133047-B-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_208_unknown_8365_0003.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-237795-A-34"
+    },
+    "output_file": "p281_208_unknown_8365_0003_BackgroundNoise_5-237795-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p230_154_Q231484_138_0119.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-34119-B-1"
+    },
+    "output_file": "p230_154_Q231484_138_0119_BackgroundNoise_1-34119-B-1.wav",
+    "original_sample_rate": 22050
+  },
+  "p343_302_Q809037_13_0087.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-182012-A-36"
+    },
+    "output_file": "p343_302_Q809037_13_0087_BackgroundNoise_5-182012-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p305_225_Q182408_144_0078.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-152039-A-3"
+    },
+    "output_file": "p305_225_Q182408_144_0078_BackgroundNoise_3-152039-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p272_166_Q435060_156_0075.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-118459-B-32"
+    },
+    "output_file": "p272_166_Q435060_156_0075_BackgroundNoise_2-118459-B-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p323_401_Q1609413_4_0081.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-177835-A-24"
+    },
+    "output_file": "p323_401_Q1609413_4_0081_BackgroundNoise_4-177835-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p303_160_unknown_3984_0001.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-262579-A-45"
+    },
+    "output_file": "p303_160_unknown_3984_0001_BackgroundNoise_2-262579-A-45.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_130_Q448235_20_0106.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-117627-A-25"
+    },
+    "output_file": "p270_130_Q448235_20_0106_BackgroundNoise_4-117627-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_069_Q55406_366_0056.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-117615-D-48"
+    },
+    "output_file": "p286_069_Q55406_366_0056_BackgroundNoise_2-117615-D-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p343_177_unknown_7881_0067.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-14262-A-37"
+    },
+    "output_file": "p343_177_unknown_7881_0067_BackgroundNoise_1-14262-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p313_193_Q600635_24_0015.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-194246-A-13"
+    },
+    "output_file": "p313_193_Q600635_24_0015_BackgroundNoise_4-194246-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p260_074_unknown_1767_0036.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-117617-A-48"
+    },
+    "output_file": "p260_074_unknown_1767_0036_BackgroundNoise_2-117617-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_298_unknown_8807_0031.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-181278-A-22"
+    },
+    "output_file": "p317_298_unknown_8807_0031_BackgroundNoise_3-181278-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p318_269_Q1121211_104_0042.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-124564-A-15"
+    },
+    "output_file": "p318_269_Q1121211_104_0042_BackgroundNoise_2-124564-A-15.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_316_Q2344749_91_0016.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-17808-A-12"
+    },
+    "output_file": "p253_316_Q2344749_91_0016_BackgroundNoise_1-17808-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_018_Q935983_28_0004.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-129338-A-13"
+    },
+    "output_file": "p286_018_Q935983_28_0004_BackgroundNoise_3-129338-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p292_312_Q234293_60_0067.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-172922-A-48"
+    },
+    "output_file": "p292_312_Q234293_60_0067_BackgroundNoise_3-172922-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_325_Q976445_1_0143.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-210593-A-29"
+    },
+    "output_file": "p263_325_Q976445_1_0143_BackgroundNoise_4-210593-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_396_Q7323547_8_0053.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-58277-A-3"
+    },
+    "output_file": "p310_396_Q7323547_8_0053_BackgroundNoise_1-58277-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p248_282_Q57387_190_0062.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-161500-A-17"
+    },
+    "output_file": "p248_282_Q57387_190_0062_BackgroundNoise_3-161500-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_314_unknown_6862_0068.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-106072-A-36"
+    },
+    "output_file": "p276_314_unknown_6862_0068_BackgroundNoise_2-106072-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_276_Q215847_108_0021.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-139958-A-37"
+    },
+    "output_file": "p228_276_Q215847_108_0021_BackgroundNoise_3-139958-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_034_Q459814_167_0033.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-96063-A-37"
+    },
+    "output_file": "p308_034_Q459814_167_0033_BackgroundNoise_2-96063-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p268_100_Q1413249_17_0097.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-142601-A-21"
+    },
+    "output_file": "p268_100_Q1413249_17_0097_BackgroundNoise_3-142601-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_169_Q459814_266_0121.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-120333-A-32"
+    },
+    "output_file": "p317_169_Q459814_266_0121_BackgroundNoise_2-120333-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_092_Q1026532_123_0129.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-110011-A-5"
+    },
+    "output_file": "p253_092_Q1026532_123_0129_BackgroundNoise_2-110011-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p252_305_unknown_4950_0001.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-168868-A-17"
+    },
+    "output_file": "p252_305_unknown_4950_0001_BackgroundNoise_4-168868-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p240_208_unknown_4838_0120.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-G-20"
+    },
+    "output_file": "p240_208_unknown_4838_0120_BackgroundNoise_5-198411-G-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p295_207_Q459814_232_0018.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-261439-A-15"
+    },
+    "output_file": "p295_207_Q459814_232_0018_BackgroundNoise_5-261439-A-15.wav",
+    "original_sample_rate": 22050
+  },
+  "p269_401_unknown_2392_0122.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-140774-A-10"
+    },
+    "output_file": "p269_401_unknown_2392_0122_BackgroundNoise_3-140774-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_117_Q355478_112_0050.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-261464-A-23"
+    },
+    "output_file": "p261_117_Q355478_112_0050_BackgroundNoise_5-261464-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_125_Q234293_82_0003.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-161099-A-47"
+    },
+    "output_file": "p345_125_Q234293_82_0003_BackgroundNoise_4-161099-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p293_047_Q390321_21_0133.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-108451-A-17"
+    },
+    "output_file": "p293_047_Q390321_21_0133_BackgroundNoise_3-108451-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p343_131_unknown_11043_0105.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-126433-A-17"
+    },
+    "output_file": "p343_131_unknown_11043_0105_BackgroundNoise_2-126433-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p234_138_unknown_10841_0074.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-83667-A-34"
+    },
+    "output_file": "p234_138_unknown_10841_0074_BackgroundNoise_2-83667-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_228_unknown_5646_0114.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-181955-A-3"
+    },
+    "output_file": "p285_228_unknown_5646_0114_BackgroundNoise_4-181955-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_032_Q318292_95_0030.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-160036-A-33"
+    },
+    "output_file": "p310_032_Q318292_95_0030_BackgroundNoise_4-160036-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p299_362_unknown_3456_0045.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-204777-A-39"
+    },
+    "output_file": "p299_362_unknown_3456_0045_BackgroundNoise_4-204777-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p258_336_Q358838_2_0048.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-51149-A-25"
+    },
+    "output_file": "p258_336_Q358838_2_0048_BackgroundNoise_5-51149-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p232_366_unknown_6225_0011.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-82367-A-10"
+    },
+    "output_file": "p232_366_unknown_6225_0011_BackgroundNoise_2-82367-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_126_unknown_10552_0054.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-106881-A-39"
+    },
+    "output_file": "p312_126_unknown_10552_0054_BackgroundNoise_2-106881-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p255_082_Q144719_100_0050.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-177835-A-24"
+    },
+    "output_file": "p255_082_Q144719_100_0050_BackgroundNoise_4-177835-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p265_283_Q355478_90_0059.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-168155-A-15"
+    },
+    "output_file": "p265_283_Q355478_90_0059_BackgroundNoise_4-168155-A-15.wav",
+    "original_sample_rate": 22050
+  },
+  "p254_192_Q448235_216_0049.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-7973-A-7"
+    },
+    "output_file": "p254_192_Q448235_216_0049_BackgroundNoise_1-7973-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p351_230_Q75063_51_0000.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-47709-A-16"
+    },
+    "output_file": "p351_230_Q75063_51_0000_BackgroundNoise_1-47709-A-16.wav",
+    "original_sample_rate": 22050
+  }
+}
