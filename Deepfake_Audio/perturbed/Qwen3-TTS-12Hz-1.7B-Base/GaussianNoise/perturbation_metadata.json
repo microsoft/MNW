@@ -1,0 +1,2002 @@
+{
+  "p270_307_Q1281738_32_0109.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p270_307_Q1281738_32_0109_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_072_Q459814_80_0149.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p292_072_Q459814_80_0149_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_090_Q459814_173_0382.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p340_090_Q459814_173_0382_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_305_Q976445_103_0115.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p245_305_Q976445_103_0115_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_081_Q1281738_51_0411.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p306_081_Q1281738_51_0411_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p244_239_unknown_4852_0085.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p244_239_unknown_4852_0085_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p281_143_Q182408_159_0071.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p281_143_Q182408_159_0071_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_388_Q144719_16_0604.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p263_388_Q144719_16_0604_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_052_Q57387_74_0459.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p292_052_Q57387_74_0459_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p335_058_Q435060_189_0129.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p335_058_Q435060_189_0129_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_011_unknown_8783_0065.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p361_011_unknown_8783_0065_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_182_unknown_3527_0826.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p295_182_unknown_3527_0826_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_243_unknown_6179_0380.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p275_243_unknown_6179_0380_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_143_Q712882_88_0015.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p308_143_Q712882_88_0015_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p264_480_Q7175674_26_0113.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p264_480_Q7175674_26_0113_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_081_Q324302_119_0241.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p304_081_Q324302_119_0241_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_129_Q370155_157_0111.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p362_129_Q370155_157_0111_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_288_Q600635_8_0238.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p351_288_Q600635_8_0238_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_258_Q1161170_154_0492.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p374_258_Q1161170_154_0492_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p286_439_Q575795_218_0695.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p286_439_Q575795_218_0695_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_161_Q1161170_201_0048.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p308_161_Q1161170_201_0048_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_290_Q1927148_17_0801.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p237_290_Q1927148_17_0801_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_342_unknown_2551_0610.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p241_342_unknown_2551_0610_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p257_061_Q302722_7_0067.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p257_061_Q302722_7_0067_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p247_460_unknown_752_0112.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p247_460_unknown_752_0112_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p326_220_unknown_10889_0100.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p326_220_unknown_10889_0100_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p256_311_unknown_6802_0062.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p256_311_unknown_6802_0062_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p257_281_Q600635_35_0078.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p257_281_Q600635_35_0078_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p254_028_Q298224_8_0714.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p254_028_Q298224_8_0714_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p244_045_Q459814_231_0101.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p244_045_Q459814_231_0101_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p376_135_unknown_10232_0908.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p376_135_unknown_10232_0908_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_042_unknown_613_0006.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p308_042_unknown_613_0006_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_063_Q448235_289_0060.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p330_063_Q448235_289_0060_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_451_unknown_7284_0834.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p250_451_unknown_7284_0834_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_267_Q231484_69_0005.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p271_267_Q231484_69_0005_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p299_054_unknown_2107_0135.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p299_054_unknown_2107_0135_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_030_unknown_7534_0123.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p294_030_unknown_7534_0123_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_204_unknown_1097_0203.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p294_204_unknown_1097_0203_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_243_unknown_9236_0133.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p295_243_unknown_9236_0133_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p305_220_unknown_10864_0053.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p305_220_unknown_10864_0053_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p310_411_Q970008_65_0124.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p310_411_Q970008_65_0124_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_197_Q725520_88_0047.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p273_197_Q725520_88_0047_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p268_147_Q178112_27_0130.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p268_147_Q178112_27_0130_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p259_345_unknown_3720_0044.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p259_345_unknown_3720_0044_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p364_160_unknown_1310_0141.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p364_160_unknown_1310_0141_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p272_260_unknown_10907_0377.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p272_260_unknown_10907_0377_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p261_093_Q154104_3_0915.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p261_093_Q154104_3_0915_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p329_118_Q976445_94_0022.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p329_118_Q976445_94_0022_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_036_Q1026532_96_0116.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p274_036_Q1026532_96_0116_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p317_077_unknown_5685_0012.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p317_077_unknown_5685_0012_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_273_unknown_6058_0117.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p252_273_unknown_6058_0117_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p335_351_Q229528_24_0007.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p335_351_Q229528_24_0007_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p317_155_Q1609413_39_0146.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p317_155_Q1609413_39_0146_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p376_112_unknown_3217_0098.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p376_112_unknown_3217_0098_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_143_unknown_3163_0143.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p360_143_unknown_3163_0143_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_104_unknown_2228_0046.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p243_104_unknown_2228_0046_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_404_Q448235_157_0279.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p252_404_Q448235_157_0279_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p284_396_unknown_556_0110.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p284_396_unknown_556_0110_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_213_Q1609413_66_0011.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p360_213_Q1609413_66_0011_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p285_224_unknown_6455_0991.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p285_224_unknown_6455_0991_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_011_Q1121211_119_0093.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p295_011_Q1121211_119_0093_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_065_unknown_11440_0087.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p227_065_unknown_11440_0087_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p236_396_Q35358_4_0148.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p236_396_Q35358_4_0148_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p262_106_unknown_848_0054.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p262_106_unknown_848_0054_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p311_158_unknown_4251_0049.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p311_158_unknown_4251_0049_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p283_239_Q714718_134_0018.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p283_239_Q714718_134_0018_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_257_Q459814_272_0593.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p312_257_Q459814_272_0593_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_180_unknown_2274_0355.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p274_180_unknown_2274_0355_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p247_350_Q115367_26_0031.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p247_350_Q115367_26_0031_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p279_155_unknown_3728_0006.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p279_155_unknown_3728_0006_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p302_197_unknown_90_0034.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p302_197_unknown_90_0034_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_141_unknown_7775_0982.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p341_141_unknown_7775_0982_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_300_Q1281738_79_0859.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p345_300_Q1281738_79_0859_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p230_063_unknown_9727_0534.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p230_063_unknown_9727_0534_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_055_unknown_4996_0290.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p276_055_unknown_4996_0290_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p286_468_unknown_10521_0066.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p286_468_unknown_10521_0066_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p269_053_unknown_4216_0024.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p269_053_unknown_4216_0024_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p339_018_Q144719_136_0563.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p339_018_Q144719_136_0563_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p286_101_unknown_3485_0590.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p286_101_unknown_3485_0590_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_327_Q29230_22_0254.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p362_327_Q29230_22_0254_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p260_173_unknown_5577_0482.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p260_173_unknown_5577_0482_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_150_Q16597_3_0053.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p241_150_Q16597_3_0053_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_271_Q575795_289_0099.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p237_271_Q575795_289_0099_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p244_058_unknown_7488_0857.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p244_058_unknown_7488_0857_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p262_339_Q57387_134_0059.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p262_339_Q57387_134_0059_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_419_Q2071_6_0729.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p276_419_Q2071_6_0729_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p364_204_Q234293_42_0248.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p364_204_Q234293_42_0248_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p254_326_unknown_7173_0097.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p254_326_unknown_7173_0097_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_286_unknown_987_0051.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p241_286_unknown_987_0051_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p266_145_unknown_8741_0476.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p266_145_unknown_8741_0476_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_295_Q215847_19_0754.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p304_295_Q215847_19_0754_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_087_Q178112_93_0291.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p361_087_Q178112_93_0291_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_439_Q6384167_13_0118.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p276_439_Q6384167_13_0118_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_368_unknown_3851_0127.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p345_368_unknown_3851_0127_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_231_Q390321_10_0897.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p362_231_Q390321_10_0897_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p363_250_unknown_4_0165.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p363_250_unknown_4_0165_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p286_066_Q336024_23_0497.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p286_066_Q336024_23_0497_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_087_Q327053_96_0813.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p340_087_Q327053_96_0813_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p310_389_unknown_11315_0036.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p310_389_unknown_11315_0036_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p316_206_Q115367_156_0682.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p316_206_Q115367_156_0682_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_347_Q324302_69_0018.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p330_347_Q324302_69_0018_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_292_Q100528_57_0959.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p263_292_Q100528_57_0959_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_006_unknown_6377_0045.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p243_006_unknown_6377_0045_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p269_361_unknown_8693_0620.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p269_361_unknown_8693_0620_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p238_179_Q3709773_1_0137.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p238_179_Q3709773_1_0137_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_096_Q128563_16_0021.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p312_096_Q128563_16_0021_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p265_219_unknown_2266_0080.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p265_219_unknown_2266_0080_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_207_unknown_2277_0957.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p270_207_unknown_2277_0957_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p363_249_Q448235_284_0105.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p363_249_Q448235_284_0105_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_006_Q233873_24_0074.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p241_006_Q233873_24_0074_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p261_466_unknown_3639_0008.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p261_466_unknown_3639_0008_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p280_055_Q459814_39_0107.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p280_055_Q459814_39_0107_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p240_091_Q328626_2_0134.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p240_091_Q328626_2_0134_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p326_140_Q435060_47_0063.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p326_140_Q435060_47_0063_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p316_356_Q459814_220_0102.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p316_356_Q459814_220_0102_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_365_Q238733_13_0056.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p361_365_Q238733_13_0056_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_360_Q712882_76_0020.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p340_360_Q712882_76_0020_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p232_072_Q273843_4_0041.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p232_072_Q273843_4_0041_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p313_161_unknown_4725_0052.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p313_161_unknown_4725_0052_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_050_unknown_1534_0096.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p340_050_unknown_1534_0096_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_125_Q809048_13_0578.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p273_125_Q809048_13_0578_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p279_074_Q57387_205_0131.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p279_074_Q57387_205_0131_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p226_259_Q448604_17_0030.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p226_259_Q448604_17_0030_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p268_075_Q435060_138_0081.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p268_075_Q435060_138_0081_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p232_261_unknown_3639_0147.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p232_261_unknown_3639_0147_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_005_unknown_1772_0173.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p252_005_unknown_1772_0173_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_008_unknown_9594_0063.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p270_008_unknown_9594_0063_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_298_Q469565_20_0138.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p271_298_Q469565_20_0138_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_302_Q575795_439_0037.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p287_302_Q575795_439_0037_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p333_045_Q3139446_104_0004.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p333_045_Q3139446_104_0004_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p313_398_Q348471_62_0000.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p313_398_Q348471_62_0000_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p314_047_Q7175674_76_0660.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p314_047_Q7175674_76_0660_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_038_unknown_8530_0358.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p340_038_unknown_8530_0358_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p255_024_Q257881_56_0927.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p255_024_Q257881_56_0927_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_370_Q575795_339_0650.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p287_370_Q575795_339_0650_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_240_unknown_7252_0106.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p312_240_unknown_7252_0106_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_104_unknown_4134_0076.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p306_104_unknown_4134_0076_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p246_272_Q588551_37_0019.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p246_272_Q588551_37_0019_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_155_Q809048_14_0388.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p340_155_Q809048_14_0388_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p313_185_Q575795_73_0752.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p313_185_Q575795_73_0752_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p278_307_unknown_8502_0057.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p278_307_unknown_8502_0057_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_111_unknown_3050_0088.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p308_111_unknown_3050_0088_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p266_412_Q2542_9_0001.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p266_412_Q2542_9_0001_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p248_228_unknown_281_0009.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p248_228_unknown_281_0009_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p253_047_Q229528_13_0981.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p253_047_Q229528_13_0981_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_300_unknown_7336_0140.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p312_300_unknown_7336_0140_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p318_416_Q182408_86_0064.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p318_416_Q182408_86_0064_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_285_unknown_3899_0740.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p270_285_unknown_3899_0740_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_182_unknown_4_0042.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p270_182_unknown_4_0042_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_086_Q355478_73_0964.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p245_086_Q355478_73_0964_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p226_183_Q238733_20_0089.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p226_183_Q238733_20_0089_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_186_Q459814_96_0005.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p227_186_Q459814_96_0005_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p231_112_Q250087_18_0023.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p231_112_Q250087_18_0023_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p264_106_Q326217_28_0750.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p264_106_Q326217_28_0750_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_174_unknown_3291_0007.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p312_174_unknown_3291_0007_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_158_Q6831466_11_0122.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p312_158_Q6831466_11_0122_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_301_Q48280_37_0003.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p263_301_Q48280_37_0003_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p234_297_Q976445_51_0916.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p234_297_Q976445_51_0916_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p329_246_unknown_2748_0079.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p329_246_unknown_2748_0079_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_263_Q347362_31_0016.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p360_263_Q347362_31_0016_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_167_Q1324154_2_0027.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p245_167_Q1324154_2_0027_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p281_052_unknown_4612_0094.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p281_052_unknown_4612_0094_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p272_260_Q348471_128_0028.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p272_260_Q348471_128_0028_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p339_313_unknown_3406_0198.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p339_313_unknown_3406_0198_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_078_Q35358_55_0092.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p292_078_Q35358_55_0092_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_283_Q861908_155_0145.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p306_283_Q861908_155_0145_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_254_Q575795_285_0010.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p308_254_Q575795_285_0010_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p264_056_unknown_3751_0011.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p264_056_unknown_3751_0011_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p247_308_Q448235_244_0309.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p247_308_Q448235_244_0309_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p231_202_Q459814_101_0008.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p231_202_Q459814_101_0008_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_153_unknown_670_0017.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p306_153_unknown_670_0017_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_070_unknown_10530_0589.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p330_070_unknown_10530_0589_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p317_317_unknown_5415_0082.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p317_317_unknown_5415_0082_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_267_Q976445_63_0061.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p361_267_Q976445_63_0061_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p262_302_unknown_1747_0090.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p262_302_unknown_1747_0090_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p326_163_unknown_10244_0120.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p326_163_unknown_10244_0120_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_159_Q459814_63_0939.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p330_159_Q459814_63_0939_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_143_unknown_11715_0114.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p345_143_unknown_11715_0114_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p244_242_Q1413249_79_0505.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p244_242_Q1413249_79_0505_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_111_unknown_3369_0125.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p361_111_unknown_3369_0125_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_072_Q455818_89_0823.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p362_072_Q455818_89_0823_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_022_Q29230_25_0035.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p340_022_Q29230_25_0035_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p228_175_unknown_822_0003.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p228_175_unknown_822_0003_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_201_unknown_5342_0419.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p292_201_unknown_5342_0419_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_139_Q234293_35_0139.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p241_139_Q234293_35_0139_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_014_Q3993307_20_0400.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p295_014_Q3993307_20_0400_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_187_Q347362_79_0050.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p360_187_Q347362_79_0050_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p300_119_Q1350527_7_0144.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p300_119_Q1350527_7_0144_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p298_153_Q144719_120_0501.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p298_153_Q144719_120_0501_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p298_109_Q324302_36_0075.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p298_109_Q324302_36_0075_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_242_Q144719_77_0779.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p275_242_Q144719_77_0779_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_044_unknown_8260_0043.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p308_044_unknown_8260_0043_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_031_Q575795_450_0045.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p306_031_Q575795_450_0045_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p260_157_Q6831466_6_0012.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p260_157_Q6831466_6_0012_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_198_Q153425_3_0062.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p351_198_Q153425_3_0062_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_224_unknown_5898_0014.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p341_224_unknown_5898_0014_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_069_Q976445_102_0986.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p293_069_Q976445_102_0986_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p316_260_Q709698_33_0009.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p316_260_Q709698_33_0009_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p283_141_Q313001_18_0844.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p283_141_Q313001_18_0844_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p240_044_unknown_303_0058.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p240_044_unknown_303_0058_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_139_unknown_53_0002.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p276_139_unknown_53_0002_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p229_048_Q1220_51_0004.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p229_048_Q1220_51_0004_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_153_unknown_11166_0033.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p330_153_unknown_11166_0033_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p257_126_Q1662539_24_0029.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p257_126_Q1662539_24_0029_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p248_368_Q295847_17_0211.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p248_368_Q295847_17_0211_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_161_Q459814_85_0121.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p274_161_Q459814_85_0121_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p258_092_Q5494953_29_0126.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p258_092_Q5494953_29_0126_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p343_253_Q575795_242_0083.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p343_253_Q575795_242_0083_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_329_unknown_10519_0042.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p295_329_unknown_10519_0042_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p234_092_Q55406_195_0471.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p234_092_Q55406_195_0471_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p255_260_Q310989_13_0000.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p255_260_Q310989_13_0000_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p256_007_Q327053_326_0865.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p256_007_Q327053_326_0865_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_350_Q215847_44_0436.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p312_350_Q215847_44_0436_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_059_Q1018612_47_0312.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p274_059_Q1018612_47_0312_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p317_208_Q115367_94_0001.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p317_208_Q115367_94_0001_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p302_257_Q347362_43_0013.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p302_257_Q347362_43_0013_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_346_Q335733_16_0486.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p374_346_Q335733_16_0486_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p343_101_Q7175674_35_0072.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p343_101_Q7175674_35_0072_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p323_397_unknown_12018_0415.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p323_397_unknown_12018_0415_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p284_172_unknown_1959_0104.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p284_172_unknown_1959_0104_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_420_unknown_9973_0073.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p374_420_unknown_9973_0073_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p301_154_Q57387_227_0622.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p301_154_Q57387_227_0622_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p281_057_Q1121211_72_0103.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p281_057_Q1121211_72_0103_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_070_unknown_5752_0922.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p304_070_unknown_5752_0922_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_390_unknown_2878_0744.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p276_390_unknown_2878_0744_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p238_302_Q575795_175_0080.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p238_302_Q575795_175_0080_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p239_045_unknown_2464_0086.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p239_045_unknown_2464_0086_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_368_Q1026532_48_0026.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p276_368_Q1026532_48_0026_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_176_Q326217_40_0068.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p274_176_Q326217_40_0068_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p339_167_unknown_2579_0039.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p339_167_unknown_2579_0039_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p264_040_Q785404_73_0065.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p264_040_Q785404_73_0065_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_113_unknown_3991_0095.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p345_113_unknown_3991_0095_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p269_065_unknown_5342_0208.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p269_065_unknown_5342_0208_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p335_234_unknown_6409_0040.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p335_234_unknown_6409_0040_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p297_175_Q785404_97_0013.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p297_175_Q785404_97_0013_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p301_297_unknown_4785_0132.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p301_297_unknown_4785_0132_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_226_Q1018612_75_0628.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p293_226_Q1018612_75_0628_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p267_070_unknown_2752_0091.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p267_070_unknown_2752_0091_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p259_208_unknown_8332_0992.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p259_208_unknown_8332_0992_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_395_Q714718_38_0032.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p252_395_Q714718_38_0032_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_404_Q435060_6_0077.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p274_404_Q435060_6_0077_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p239_330_unknown_2449_0136.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p239_330_unknown_2449_0136_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p305_016_unknown_2974_0785.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p305_016_unknown_2974_0785_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_299_unknown_11568_0017.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p241_299_unknown_11568_0017_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_305_unknown_8848_0443.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p306_305_unknown_8848_0443_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_402_unknown_9519_0836.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p351_402_unknown_9519_0836_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p267_263_Q459814_97_0146.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.01
+    },
+    "output_file": "p267_263_Q459814_97_0146_GaussianNoise_MaxAmplitude_01.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_301_Q57387_220_0987.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.02
+    },
+    "output_file": "p292_301_Q57387_220_0987_GaussianNoise_MaxAmplitude_02.wav",
+    "original_sample_rate": 24000
+  },
+  "p232_090_unknown_2253_0346.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.005
+    },
+    "output_file": "p232_090_unknown_2253_0346_GaussianNoise_MaxAmplitude_005.wav",
+    "original_sample_rate": 24000
+  },
+  "p311_398_Q327053_312_0511.wav": {
+    "method": "GaussianNoise",
+    "hyperparameters": {
+      "max_amplitude": 0.015
+    },
+    "output_file": "p311_398_Q327053_312_0511_GaussianNoise_MaxAmplitude_015.wav",
+    "original_sample_rate": 24000
+  }
+}
