@@ -88,7 +88,7 @@ We have expanded the benchmark with **10,000 additional synthetic audio clips** 
 ## :fountain_pen: Cite us!
 This dataset cannot be used for commercial purposes.
 
-We have recently published our [summary paper in IEEE Intelligent Systems](https://www.computer.org/csdl/magazine/ex/2026/02/11479406/2fzpsv13z7G). Please feel free to cite us!
+We have recently published our [Summary paper in IEEE Intelligent Systems](https://www.computer.org/csdl/magazine/ex/2026/02/11479406/2fzpsv13z7G). Please feel free to cite us!
 
 ```
 @ARTICLE{11479406,
