@@ -1,4 +1,4 @@
-![image](HeaderGitHubRepo.png)
+![image](header_benchmark.png)
 
 <div align="center"> 
 <font size="6"><b>MNW Benchmark Dataset</b></font>
