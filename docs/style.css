@@ -444,6 +444,7 @@ footer a:hover { text-decoration: underline; }
 .header-links {
   font-size: 0.85rem;
   color: #6b7280;
+  margin-top: 1rem;
 }
 .header-links a {
   color: var(--accent);
