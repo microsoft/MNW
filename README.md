@@ -11,6 +11,9 @@
 
 ### V 2.0: Update alert! We updated our dataset! - [spring update April 2026]
 
+🆕 **NEW!** You can now browse and take a peek at our dataset on the navigator: https://microsoft.github.io/MNW/
+
+
 
 ## 👋 Welcome to MNW Benchmark Dataset
 This repository contains the MNW dataset (*Microsoft-Northwestern-Witness*) and/or associated code for benchmarking AI-detection models across images, video, and audio.
