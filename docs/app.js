@@ -13,8 +13,6 @@
   document.getElementById("stats").innerHTML = [
     `<div class="stat-item"><strong>${stats.total_generators}</strong> generators</div>`,
     `<div class="stat-item"><strong>${stats.total_files.toLocaleString()}</strong> files</div>`,
-    `<div class="stat-item"><strong>${stats.categories["AI Generated"]?.toLocaleString() || 0}</strong> AI-generated</div>`,
-    `<div class="stat-item"><strong>${stats.categories["Deepfake"]?.toLocaleString() || 0}</strong> deepfake</div>`,
   ].join("");
 
   // ── Build filter controls ──

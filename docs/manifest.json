@@ -129,7 +129,7 @@
     },
     "Adobe_Firefly_v4": {
       "display_name": "Adobe Firefly 4",
-      "year": 2026,
+      "year": 2025,
       "company": "Adobe",
       "category": "AI Generated",
       "subcategory": "Image",
@@ -191,7 +191,7 @@
     "Adversarial_images": {
       "display_name": "Adversarial Images",
       "year": null,
-      "company": "Various",
+      "company": "Microsoft AI for Good Lab",
       "category": "AI Generated",
       "subcategory": "Image",
       "file_count": 250,
@@ -3636,7 +3636,7 @@
     "Wuerstchen": {
       "display_name": "W\u00fcrstchen v2",
       "year": 2023,
-      "company": "Hugging Face / Research",
+      "company": "Stability AI",
       "category": "AI Generated",
       "subcategory": "Image",
       "file_count": 250,
@@ -5723,7 +5723,7 @@
     "Qwen3-TTS-12Hz-1.7B-Base__not-perturbed": {
       "display_name": "Qwen3-TTS 1.7B (not-perturbed)",
       "year": 2025,
-      "company": "Alibaba (Qwen)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "not-perturbed",
@@ -6107,7 +6107,7 @@
     "cosyvoice__not-perturbed": {
       "display_name": "CosyVoice v1 (not-perturbed)",
       "year": 2024,
-      "company": "Alibaba (FunAudioLLM)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "not-perturbed",
@@ -6171,7 +6171,7 @@
     "cosyvoice3__not-perturbed": {
       "display_name": "CosyVoice 3 (not-perturbed)",
       "year": 2025,
-      "company": "Alibaba (FunAudioLLM)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "not-perturbed",
@@ -7576,7 +7576,7 @@
     "parler-tts__not-perturbed": {
       "display_name": "Parler-TTS v1 (not-perturbed)",
       "year": 2024,
-      "company": "Hugging Face",
+      "company": "Stability AI",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "not-perturbed",
@@ -8917,7 +8917,7 @@
     "Qwen3-TTS-12Hz-1.7B-Base__perturbed": {
       "display_name": "Qwen3-TTS 1.7B (perturbed)",
       "year": 2025,
-      "company": "Alibaba (Qwen)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "perturbed",
@@ -9301,7 +9301,7 @@
     "cosyvoice__perturbed": {
       "display_name": "CosyVoice v1 (perturbed)",
       "year": 2024,
-      "company": "Alibaba (FunAudioLLM)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "perturbed",
@@ -9365,7 +9365,7 @@
     "cosyvoice3__perturbed": {
       "display_name": "CosyVoice 3 (perturbed)",
       "year": 2025,
-      "company": "Alibaba (FunAudioLLM)",
+      "company": "Alibaba",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "perturbed",
@@ -10770,7 +10770,7 @@
     "parler-tts__perturbed": {
       "display_name": "Parler-TTS v1 (perturbed)",
       "year": 2024,
-      "company": "Hugging Face",
+      "company": "Stability AI",
       "category": "Deepfake",
       "subcategory": "Audio",
       "variant": "perturbed",

@@ -42,14 +42,14 @@ header {
   border-radius: var(--radius);
 }
 .header-content h1 {
-  font-size: 2.75rem;
+  font-size: 3.25rem;
   font-weight: 700;
   margin-bottom: 0.4rem;
   color: #4e515d;
 }
 .subtitle {
   color: #6b7280;
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   margin-bottom: 1rem;
 }
 .stats {
