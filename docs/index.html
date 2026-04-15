@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MNW Dataset Browser</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <a href="https://github.com/microsoft/MNW" target="_blank">
+        <img src="https://github.com/microsoft/MNW/raw/main/HeaderGitHubRepo.png" alt="MNW Benchmark Dataset" class="header-banner">
+      </a>
+      <h1>MNW Dataset Browser</h1>
+      <p class="subtitle">Microsoft-Northwestern-Witness Benchmark for Deepfake Detection</p>
+      <div id="stats" class="stats"></div>
+      <p class="disclaimer">Note: We have attempted to document each generator's release date and origin. Some of this information may be inaccurate — if you spot an error, please open an issue on <a href="https://github.com/microsoft/MNW/issues" target="_blank">GitHub</a>.</p>
+      <p class="header-links">
+        <a href="https://github.com/microsoft/MNW" target="_blank">GitHub Repository</a> ·
+        <a href="https://www.computer.org/csdl/magazine/ex/2026/02/11479406/2fzpsv13z7G" target="_blank">IEEE Paper</a> ·
+        For evaluation purposes only — not for training or commercial use.
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <aside class="filters">
+      <h2>Filters</h2>
+
+      <div class="filter-group">
+        <label>Search</label>
+        <input type="text" id="search" placeholder="Search generators..." autocomplete="off">
+      </div>
+
+      <div class="filter-group">
+        <label>Category</label>
+        <div id="category-filters" class="checkbox-group"></div>
+      </div>
+
+      <div class="filter-group">
+        <label>Media Type</label>
+        <div id="media-filters" class="checkbox-group"></div>
+      </div>
+
+      <div class="filter-group">
+        <label>Year</label>
+        <div class="year-range">
+          <select id="year-min"></select>
+          <span>to</span>
+          <select id="year-max"></select>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <label>Company</label>
+        <select id="company-filter">
+          <option value="">All</option>
+        </select>
+      </div>
+
+      <button id="reset-filters" class="btn-reset">Reset Filters</button>
+      <div id="result-count" class="result-count"></div>
+    </aside>
+
+    <section class="content">
+      <div class="view-toggle">
+        <button id="view-grid" class="active" title="Grid view">◻◻</button>
+        <button id="view-list" title="List view">☰</button>
+      </div>
+      <div id="generators" class="generators grid-view"></div>
+    </section>
+  </main>
+
+  <!-- Media preview modal -->
+  <div id="modal" class="modal" hidden>
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <h3 id="modal-title"></h3>
+      <div id="modal-meta" class="modal-meta"></div>
+      <div id="modal-media" class="modal-media"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      © 2026 Microsoft-Northwestern-Witness · For evaluation purposes only.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
