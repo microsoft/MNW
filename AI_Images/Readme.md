@@ -40,6 +40,8 @@
 | Luma Photon                   |
 | Lumina                        |
 | MAI image1                    |
+| MAI image2                    |
+| MAI image2e1                  |
 | Meta Imagine                  |
 | Midjourney v5                 |
 | Midjourney v6                 |
@@ -49,6 +51,8 @@
 | OpenAI Dalle2                 |
 | OpenAI Dalle3                 |
 | OpenAI GPTo4 image            |
+| OpenAI GPTimage2              |
+| OpenAI GPTimage2 edit         |
 | Pixart alpha XL               |
 | Playground-v2.5Ae             |
 | PlaygroundAI                  |
