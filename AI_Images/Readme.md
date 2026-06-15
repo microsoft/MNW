@@ -10,6 +10,8 @@
 | Amazon Titan v2               |
 | Aura flow                     |
 | Baidu                         |
+| Baidu Ernie                   |
+| Baidu Ernie Turbo             |
 | ByteDance Seedream v3         |
 | ByteDance Seedream v4         |
 | Civitai v6                    |

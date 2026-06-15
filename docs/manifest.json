@@ -436,6 +436,128 @@
       "total_files": 250,
       "description": "Baidu's text-to-image diffusion model"
     },
+    "Baidu_Ernie": {
+      "display_name": "Baidu Ernie",
+      "year": 2026,
+      "company": "Baidu",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_02105b0af68e4e7284ca4ccd4.jpg",
+          "filename": "Baidu_Ernie_02105b0af68e4e7284ca4ccd4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_0219e49698bb480ea9b439029.jpg",
+          "filename": "Baidu_Ernie_0219e49698bb480ea9b439029.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_021d1fade76c459cb70f86ae4.jpg",
+          "filename": "Baidu_Ernie_021d1fade76c459cb70f86ae4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_02664563f3a040b9a8ab1eba8.jpg",
+          "filename": "Baidu_Ernie_02664563f3a040b9a8ab1eba8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_03fec46fb94b4658b349c086e.jpg",
+          "filename": "Baidu_Ernie_03fec46fb94b4658b349c086e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_040caac42104473dbcb90cb7c.jpg",
+          "filename": "Baidu_Ernie_040caac42104473dbcb90cb7c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_045f122a5316459f96575a39b.jpg",
+          "filename": "Baidu_Ernie_045f122a5316459f96575a39b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_04810fcfe4f14d4589dce1606.jpg",
+          "filename": "Baidu_Ernie_04810fcfe4f14d4589dce1606.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_0547b862e2434973942f65512.jpg",
+          "filename": "Baidu_Ernie_0547b862e2434973942f65512.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie/Baidu_Ernie_05eca175163f4fd494d62266f.jpg",
+          "filename": "Baidu_Ernie_05eca175163f4fd494d62266f.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Baidu_Ernie_turbo": {
+      "display_name": "Baidu Ernie Turbo",
+      "year": 2026,
+      "company": "Baidu",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_014a1e9af7234aa09bbf5cb60.jpg",
+          "filename": "Baidu_Ernie_turbo_014a1e9af7234aa09bbf5cb60.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_01559e721d564fd5947de5634.jpg",
+          "filename": "Baidu_Ernie_turbo_01559e721d564fd5947de5634.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_024761ca9ada40f0ad3676e2d.jpg",
+          "filename": "Baidu_Ernie_turbo_024761ca9ada40f0ad3676e2d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_05e76b6976ae4f2b93a220783.jpg",
+          "filename": "Baidu_Ernie_turbo_05e76b6976ae4f2b93a220783.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_0609637491294f2fa527fa359.jpg",
+          "filename": "Baidu_Ernie_turbo_0609637491294f2fa527fa359.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_0612cab19dbd41e6a9ec6fcaa.jpg",
+          "filename": "Baidu_Ernie_turbo_0612cab19dbd41e6a9ec6fcaa.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_06f9edfba1654d2c88fcd8c44.jpg",
+          "filename": "Baidu_Ernie_turbo_06f9edfba1654d2c88fcd8c44.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_0ad22609aae1436bb78aae366.jpg",
+          "filename": "Baidu_Ernie_turbo_0ad22609aae1436bb78aae366.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_0f9f5155c7094e96994e0b766.jpg",
+          "filename": "Baidu_Ernie_turbo_0f9f5155c7094e96994e0b766.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Baidu_Ernie_turbo/Baidu_Ernie_turbo_0ff73b5e3f7941079e8221203.jpg",
+          "filename": "Baidu_Ernie_turbo_0ff73b5e3f7941079e8221203.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "ByteDance_Seedream_v3": {
       "display_name": "Seedream v3",
       "year": 2025,
@@ -12936,10 +13058,10 @@
     }
   },
   "stats": {
-    "total_generators": 214,
-    "total_files": 66544,
+    "total_generators": 216,
+    "total_files": 67044,
     "categories": {
-      "AI Generated": 16450,
+      "AI Generated": 16950,
       "Deepfake": 50012,
       "In the Wild": 82
     },
