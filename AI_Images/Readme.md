@@ -44,6 +44,7 @@
 | MAI image1                    |
 | MAI image2                    |
 | MAI image2e1                  |
+| Meituan LongCat Image         |
 | Meta Imagine                  |
 | Midjourney v5                 |
 | Midjourney v6                 |

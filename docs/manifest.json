@@ -2522,6 +2522,67 @@
       ],
       "total_files": 250
     },
+    "Meituan_LongCat_Image": {
+      "display_name": "Meituan LongCat Image",
+      "year": 2026,
+      "company": "Meituan",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_00d0d71d34f340a5a0e32f301.jpg",
+          "filename": "Meituan_LongCat_Image_00d0d71d34f340a5a0e32f301.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_016eb7355f5447debfb5059c3.jpg",
+          "filename": "Meituan_LongCat_Image_016eb7355f5447debfb5059c3.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_02043add9daf47e08503d5de9.jpg",
+          "filename": "Meituan_LongCat_Image_02043add9daf47e08503d5de9.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_022b4a6d4f56471b965ecbe0f.jpg",
+          "filename": "Meituan_LongCat_Image_022b4a6d4f56471b965ecbe0f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_04ee4dc80fc24e2fa11e80eaa.jpg",
+          "filename": "Meituan_LongCat_Image_04ee4dc80fc24e2fa11e80eaa.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_05195ecbaedc4dfe9ac9e28f8.jpg",
+          "filename": "Meituan_LongCat_Image_05195ecbaedc4dfe9ac9e28f8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_068e54fef43e4decb56588490.jpg",
+          "filename": "Meituan_LongCat_Image_068e54fef43e4decb56588490.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_0809aa28c33f47518021e8f2c.jpg",
+          "filename": "Meituan_LongCat_Image_0809aa28c33f47518021e8f2c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_099e529b12034a97a45ed9af8.jpg",
+          "filename": "Meituan_LongCat_Image_099e529b12034a97a45ed9af8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meituan_LongCat_Image/Meituan_LongCat_Image_09bb467581264cf68a25d0758.jpg",
+          "filename": "Meituan_LongCat_Image_09bb467581264cf68a25d0758.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Meta_Imagine": {
       "display_name": "Meta Imagine",
       "year": 2023,
@@ -13058,10 +13119,10 @@
     }
   },
   "stats": {
-    "total_generators": 216,
-    "total_files": 67044,
+    "total_generators": 217,
+    "total_files": 67294,
     "categories": {
-      "AI Generated": 16950,
+      "AI Generated": 17200,
       "Deepfake": 50012,
       "In the Wild": 82
     },
@@ -13103,6 +13164,7 @@
       "Krea AI",
       "Kuaishou",
       "Luma AI",
+      "Meituan",
       "Meta",
       "MetaVoice",
       "Microsoft",
