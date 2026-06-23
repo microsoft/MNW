@@ -1784,6 +1784,67 @@
       ],
       "total_files": 250
     },
+    "Ideogram_v4": {
+      "display_name": "Ideogram v4",
+      "year": 2024,
+      "company": "Ideogram",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_024f840ea0de4583b09e0aac6.jpg",
+          "filename": "Ideogram_v4_024f840ea0de4583b09e0aac6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_03763aedf7934ed68550662cc.jpg",
+          "filename": "Ideogram_v4_03763aedf7934ed68550662cc.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_05e888c2a6f8498f8676d3210.jpg",
+          "filename": "Ideogram_v4_05e888c2a6f8498f8676d3210.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_05ea69c5238745a9b9825d1c7.jpg",
+          "filename": "Ideogram_v4_05ea69c5238745a9b9825d1c7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0a81ec5ea23c424e8df22debf.jpg",
+          "filename": "Ideogram_v4_0a81ec5ea23c424e8df22debf.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0b81ae8ab80a44afbe5481826.jpg",
+          "filename": "Ideogram_v4_0b81ae8ab80a44afbe5481826.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0e86d4b0f3884b0ca1abf488d.jpg",
+          "filename": "Ideogram_v4_0e86d4b0f3884b0ca1abf488d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0fa18cca68914e458d36563a9.jpg",
+          "filename": "Ideogram_v4_0fa18cca68914e458d36563a9.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_106fa82a4be34ce3945fbc612.jpg",
+          "filename": "Ideogram_v4_106fa82a4be34ce3945fbc612.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram_v4/Ideogram_v4_10ed9c87c59744be99bb2e6ea.jpg",
+          "filename": "Ideogram_v4_10ed9c87c59744be99bb2e6ea.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Kandinsky": {
       "display_name": "Kandinsky 3.0",
       "year": 2023,

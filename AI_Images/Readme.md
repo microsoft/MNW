@@ -32,6 +32,7 @@
 | HyperSD bytedance Flux        |
 | HyperSD bytedance SD3         |
 | Ideogram                      |
+| Ideogram v4                   |
 | Kandinsky                     |
 | Kling v2 image                |
 | Kling v2.1 image              |
