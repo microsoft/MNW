@@ -1784,67 +1784,6 @@
       ],
       "total_files": 250
     },
-    "Ideogram_v4": {
-      "display_name": "Ideogram v4",
-      "year": 2026,
-      "company": "Ideogram",
-      "category": "AI Generated",
-      "subcategory": "Image",
-      "file_count": 250,
-      "sample_files": [
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_024f840ea0de4583b09e0aac6.jpg",
-          "filename": "Ideogram_v4_024f840ea0de4583b09e0aac6.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_03763aedf7934ed68550662cc.jpg",
-          "filename": "Ideogram_v4_03763aedf7934ed68550662cc.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_05e888c2a6f8498f8676d3210.jpg",
-          "filename": "Ideogram_v4_05e888c2a6f8498f8676d3210.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_05ea69c5238745a9b9825d1c7.jpg",
-          "filename": "Ideogram_v4_05ea69c5238745a9b9825d1c7.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0a81ec5ea23c424e8df22debf.jpg",
-          "filename": "Ideogram_v4_0a81ec5ea23c424e8df22debf.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0b81ae8ab80a44afbe5481826.jpg",
-          "filename": "Ideogram_v4_0b81ae8ab80a44afbe5481826.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0e86d4b0f3884b0ca1abf488d.jpg",
-          "filename": "Ideogram_v4_0e86d4b0f3884b0ca1abf488d.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_0fa18cca68914e458d36563a9.jpg",
-          "filename": "Ideogram_v4_0fa18cca68914e458d36563a9.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_106fa82a4be34ce3945fbc612.jpg",
-          "filename": "Ideogram_v4_106fa82a4be34ce3945fbc612.jpg",
-          "type": "image"
-        },
-        {
-          "path": "AI_Images/Ideogram_v4/Ideogram_v4_10ed9c87c59744be99bb2e6ea.jpg",
-          "filename": "Ideogram_v4_10ed9c87c59744be99bb2e6ea.jpg",
-          "type": "image"
-        }
-      ],
-      "total_files": 250
-    },
     "Kandinsky": {
       "display_name": "Kandinsky 3.0",
       "year": 2023,
@@ -4183,6 +4122,67 @@
       "total_files": 250,
       "github": "https://github.com/dome272/Wuerstchen",
       "description": "Efficient architecture for large-scale text-to-image synthesis"
+    },
+    "Z_images": {
+      "display_name": "Z images",
+      "year": 2025,
+      "company": "Alibaba",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Z images/Z images_0023ad00866241649bcb93f92.jpg",
+          "filename": "Z images_0023ad00866241649bcb93f92.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_00b4ee71c9334afc81421422e.jpg",
+          "filename": "Z images_00b4ee71c9334afc81421422e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_03cc022d116149d69feb1762a.jpg",
+          "filename": "Z images_03cc022d116149d69feb1762a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_04608eba801f4b95a422a5891.jpg",
+          "filename": "Z images_04608eba801f4b95a422a5891.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_04f9ded927c4427491fce193a.jpg",
+          "filename": "Z images_04f9ded927c4427491fce193a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_05d651f3023340b0ba37bfcc7.jpg",
+          "filename": "Z images_05d651f3023340b0ba37bfcc7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_0623a590d9704aabb8de5cc90.jpg",
+          "filename": "Z images_0623a590d9704aabb8de5cc90.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_089e64a19418425d8776c50c0.jpg",
+          "filename": "Z images_089e64a19418425d8776c50c0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_08c9247ea0cf48baa3aac0766.jpg",
+          "filename": "Z images_08c9247ea0cf48baa3aac0766.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Z images/Z images_0a1aa8781af04c62ac64d4d54.jpg",
+          "filename": "Z images_0a1aa8781af04c62ac64d4d54.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
     },
     "Z_Image_Turbo": {
       "display_name": "Z Image Turbo",
