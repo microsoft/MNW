@@ -12,6 +12,7 @@
 | Baidu                         |
 | Baidu Ernie                   |
 | Baidu Ernie Turbo             |
+| Boogu Image                   |
 | ByteDance Seedream v3         |
 | ByteDance Seedream v4         |
 | Civitai v6                    |
@@ -28,10 +29,14 @@
 | GPT image1 Edits              |
 | GPT image1 Inpaintings        |
 | Grok imagine                  |
+| Grok Imagine Image v2.0       |
+| Grok Imagine Image v2.0 Edit  |
 | HunyuanDiT                    |
 | HyperSD bytedance Flux        |
 | HyperSD bytedance SD3         |
 | Ideogram                      |
+| Ideogram v4 Fast              |
+| Ideogram v4 Instant           |
 | Kandinsky                     |
 | Kling v2 image                |
 | Kling v2.1 image              |
@@ -44,8 +49,12 @@
 | MAI image1                    |
 | MAI image2                    |
 | MAI image2e1                  |
+| MAI Image 2.5 Pro             |
+| MAI Image 2.5 Pro Edit        |
 | Meituan LongCat Image         |
 | Meta Imagine                  |
+| Meta Muse                     |
+| Meta Muse Image Edit          |
 | Midjourney v5                 |
 | Midjourney v6                 |
 | Midjourney v7                 |
@@ -60,6 +69,8 @@
 | Playground-v2.5Ae             |
 | PlaygroundAI                  |
 | Qwen image                    |
+| Qwen Image 3                  |
+| Qwen Image 3 Edit             |
 | Recraft v3                    |
 | Reve AI                       |
 | Stable diffusion v2.1         |

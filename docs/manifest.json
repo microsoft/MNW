@@ -558,6 +558,67 @@
       ],
       "total_files": 250
     },
+    "Boogu-image": {
+      "display_name": "Boogu Image",
+      "year": 2026,
+      "company": "Boogu",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_00108c3182954d028a024c118.jpg",
+          "filename": "Boogu-image_00108c3182954d028a024c118.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_01418246ff514815afff32c85.jpg",
+          "filename": "Boogu-image_01418246ff514815afff32c85.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_01b523b837f742ed89c49cce7.jpg",
+          "filename": "Boogu-image_01b523b837f742ed89c49cce7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_01c8bd7a311d4d47b63678294.jpg",
+          "filename": "Boogu-image_01c8bd7a311d4d47b63678294.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_027f11ab3a954163a6f02caa1.jpg",
+          "filename": "Boogu-image_027f11ab3a954163a6f02caa1.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_02c1ce1e14544647b640b86f6.jpg",
+          "filename": "Boogu-image_02c1ce1e14544647b640b86f6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_04be4b73ef2f4d7ca3da652eb.jpg",
+          "filename": "Boogu-image_04be4b73ef2f4d7ca3da652eb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_05a808fe025a4a87afdf263e3.jpg",
+          "filename": "Boogu-image_05a808fe025a4a87afdf263e3.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_06c34a85c2ff4aa8ae81b8b76.jpg",
+          "filename": "Boogu-image_06c34a85c2ff4aa8ae81b8b76.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image/Boogu-image_087f111161734955baeec9bfa.jpg",
+          "filename": "Boogu-image_087f111161734955baeec9bfa.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "ByteDance_Seedream_v3": {
       "display_name": "Seedream v3",
       "year": 2025,
@@ -1534,6 +1595,128 @@
       ],
       "total_files": 250
     },
+    "Grok-imagine-image-v2.0": {
+      "display_name": "Grok Imagine Image v2.0",
+      "year": 2026,
+      "company": "xAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_00fe221cf9e14b13bacbdd7fc.jpg",
+          "filename": "Grok-imagine-image-v2.0_00fe221cf9e14b13bacbdd7fc.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_023ae279f4774daca8e58fe65.jpg",
+          "filename": "Grok-imagine-image-v2.0_023ae279f4774daca8e58fe65.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_0404472cce9b4633b84fbb47b.jpg",
+          "filename": "Grok-imagine-image-v2.0_0404472cce9b4633b84fbb47b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_0500433852794c5585fa82fa5.jpg",
+          "filename": "Grok-imagine-image-v2.0_0500433852794c5585fa82fa5.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_05136e6187564eda9d42c6390.jpg",
+          "filename": "Grok-imagine-image-v2.0_05136e6187564eda9d42c6390.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_06e5dcf98f0247d6950aa6f28.jpg",
+          "filename": "Grok-imagine-image-v2.0_06e5dcf98f0247d6950aa6f28.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_0948adfb979e4766a160e70a7.jpg",
+          "filename": "Grok-imagine-image-v2.0_0948adfb979e4766a160e70a7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_0f3bcd26366947a78f53c493c.jpg",
+          "filename": "Grok-imagine-image-v2.0_0f3bcd26366947a78f53c493c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_111c8cf940be44aaa28b39d65.jpg",
+          "filename": "Grok-imagine-image-v2.0_111c8cf940be44aaa28b39d65.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0/Grok-imagine-image-v2.0_117ff1acd66d405caac7a9fd6.jpg",
+          "filename": "Grok-imagine-image-v2.0_117ff1acd66d405caac7a9fd6.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Grok-imagine-image-v2.0-edit": {
+      "display_name": "Grok Imagine Image v2.0 (Edits)",
+      "year": 2026,
+      "company": "xAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_05debc46819d4ed4a8bd25f70.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_05debc46819d4ed4a8bd25f70.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_08d08e103ca34848920e33ccf.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_08d08e103ca34848920e33ccf.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0a2dec94feaa4fec9c6cea913.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0a2dec94feaa4fec9c6cea913.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0ad7e7ae930444b892e3c0b9e.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0ad7e7ae930444b892e3c0b9e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0c61ed3a3a194c5d977ca3a29.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0c61ed3a3a194c5d977ca3a29.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0d5f85d4c0b143baa03064b11.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0d5f85d4c0b143baa03064b11.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0f58ac85b03346818380eebce.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0f58ac85b03346818380eebce.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_0fdb86fd56cb494a9b212538c.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_0fdb86fd56cb494a9b212538c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_10056d074d5d459bb351049ef.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_10056d074d5d459bb351049ef.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Grok-imagine-image-v2.0-edit/Grok-imagine-image-v2.0-edit_10f6941f4c35462a96103c2e7.jpg",
+          "filename": "Grok-imagine-image-v2.0-edit_10f6941f4c35462a96103c2e7.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "HunyuanDiT": {
       "display_name": "Hunyuan-DiT v1.2",
       "year": 2024,
@@ -1779,6 +1962,128 @@
         {
           "path": "AI_Images/Ideogram/Ideogram_14f4be032c774001a424f3e48.jpg",
           "filename": "Ideogram_14f4be032c774001a424f3e48.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Ideogram-v4-fast": {
+      "display_name": "Ideogram v4 Fast",
+      "year": 2026,
+      "company": "Ideogram",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_00a8fbfb7c5c4442b3c46ae14.jpg",
+          "filename": "Ideogram-v4-fast_00a8fbfb7c5c4442b3c46ae14.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_010402a683ae473eb605d25a0.jpg",
+          "filename": "Ideogram-v4-fast_010402a683ae473eb605d25a0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_0161cd5aed48423d9fda32fac.jpg",
+          "filename": "Ideogram-v4-fast_0161cd5aed48423d9fda32fac.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_03a885995e9c4277bf882ac9a.jpg",
+          "filename": "Ideogram-v4-fast_03a885995e9c4277bf882ac9a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_03e452479c4342cd8f8a2003d.jpg",
+          "filename": "Ideogram-v4-fast_03e452479c4342cd8f8a2003d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_03fa7d726da64c51830761d11.jpg",
+          "filename": "Ideogram-v4-fast_03fa7d726da64c51830761d11.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_048ec19e8c3643a4b4f2da5ef.jpg",
+          "filename": "Ideogram-v4-fast_048ec19e8c3643a4b4f2da5ef.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_0725eb6e1027472f8fdfcbf11.jpg",
+          "filename": "Ideogram-v4-fast_0725eb6e1027472f8fdfcbf11.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_09908a7a43bd403a9fa408217.jpg",
+          "filename": "Ideogram-v4-fast_09908a7a43bd403a9fa408217.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-fast/Ideogram-v4-fast_0ac42e9de76949de823f86525.jpg",
+          "filename": "Ideogram-v4-fast_0ac42e9de76949de823f86525.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Ideogram-v4-instant": {
+      "display_name": "Ideogram v4 Instant",
+      "year": 2026,
+      "company": "Ideogram",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_01fb850b102d4a68a38486a65.jpg",
+          "filename": "Ideogram-v4-instant_01fb850b102d4a68a38486a65.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_03dd7efb265e41b19c8ee5530.jpg",
+          "filename": "Ideogram-v4-instant_03dd7efb265e41b19c8ee5530.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_0449f74f7c5d4f148073a572d.jpg",
+          "filename": "Ideogram-v4-instant_0449f74f7c5d4f148073a572d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_06170e0760c342b1aacebc8f6.jpg",
+          "filename": "Ideogram-v4-instant_06170e0760c342b1aacebc8f6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_06be134841b042638224ab9b0.jpg",
+          "filename": "Ideogram-v4-instant_06be134841b042638224ab9b0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_06e10947e9d9441a9676d081a.jpg",
+          "filename": "Ideogram-v4-instant_06e10947e9d9441a9676d081a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_07cf22d32fdb4e1c91ba8bded.jpg",
+          "filename": "Ideogram-v4-instant_07cf22d32fdb4e1c91ba8bded.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_086fc443fdbb43e8aab84914c.jpg",
+          "filename": "Ideogram-v4-instant_086fc443fdbb43e8aab84914c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_09ae86367abc483a878dba6a0.jpg",
+          "filename": "Ideogram-v4-instant_09ae86367abc483a878dba6a0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Ideogram-v4-instant/Ideogram-v4-instant_0a7ca3fd7c4a4345b83f7a045.jpg",
+          "filename": "Ideogram-v4-instant_0a7ca3fd7c4a4345b83f7a045.jpg",
           "type": "image"
         }
       ],
@@ -2522,6 +2827,128 @@
       ],
       "total_files": 250
     },
+    "MAI-image-2.5-pro": {
+      "display_name": "MAI Image 2.5 Pro",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_00e7ec64e8684721abeb6e740.jpg",
+          "filename": "MAI-image-2.5-pro_00e7ec64e8684721abeb6e740.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_01d041f7196e4c2d8687df93c.jpg",
+          "filename": "MAI-image-2.5-pro_01d041f7196e4c2d8687df93c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_02601510e2fb4331a3a13d0d5.jpg",
+          "filename": "MAI-image-2.5-pro_02601510e2fb4331a3a13d0d5.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_026c6a0d89934bf38da736677.jpg",
+          "filename": "MAI-image-2.5-pro_026c6a0d89934bf38da736677.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_032627747ba54a09a4d26df65.jpg",
+          "filename": "MAI-image-2.5-pro_032627747ba54a09a4d26df65.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_057112311f4045e7a2d9b7ac4.jpg",
+          "filename": "MAI-image-2.5-pro_057112311f4045e7a2d9b7ac4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_067ad16dfaba4ac4a5df8dbda.jpg",
+          "filename": "MAI-image-2.5-pro_067ad16dfaba4ac4a5df8dbda.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_0985e7e7c7d54bd6aa7c755de.jpg",
+          "filename": "MAI-image-2.5-pro_0985e7e7c7d54bd6aa7c755de.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_0b586d0484b84c6fa8b95da9e.jpg",
+          "filename": "MAI-image-2.5-pro_0b586d0484b84c6fa8b95da9e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro/MAI-image-2.5-pro_0be30b52eb0f4d76ae2d5b93a.jpg",
+          "filename": "MAI-image-2.5-pro_0be30b52eb0f4d76ae2d5b93a.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "MAI-image-2.5-pro-edit": {
+      "display_name": "MAI Image 2.5 Pro (Edits)",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_006fc8f7adc04d8b802ca9f25.jpg",
+          "filename": "MAI-image-2.5-pro-edit_006fc8f7adc04d8b802ca9f25.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_01b3b71434c14364853c3332c.jpg",
+          "filename": "MAI-image-2.5-pro-edit_01b3b71434c14364853c3332c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_02fdd51fa2b546dd9cd0eb628.jpg",
+          "filename": "MAI-image-2.5-pro-edit_02fdd51fa2b546dd9cd0eb628.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_0329a3a9509c4e2789e489b4b.jpg",
+          "filename": "MAI-image-2.5-pro-edit_0329a3a9509c4e2789e489b4b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_0465c0bd7cf74723848a95bfc.jpg",
+          "filename": "MAI-image-2.5-pro-edit_0465c0bd7cf74723848a95bfc.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_04f9d3bf79ce4cb8b13fcb5af.jpg",
+          "filename": "MAI-image-2.5-pro-edit_04f9d3bf79ce4cb8b13fcb5af.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_065029642c844b20a34797160.jpg",
+          "filename": "MAI-image-2.5-pro-edit_065029642c844b20a34797160.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_06720a36f7874cc8a6b3bd599.jpg",
+          "filename": "MAI-image-2.5-pro-edit_06720a36f7874cc8a6b3bd599.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_06b1c2fe1d53467e927122043.jpg",
+          "filename": "MAI-image-2.5-pro-edit_06b1c2fe1d53467e927122043.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_074dfcc79de04dff99f5119d7.jpg",
+          "filename": "MAI-image-2.5-pro-edit_074dfcc79de04dff99f5119d7.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Meituan_LongCat_Image": {
       "display_name": "Meituan LongCat Image",
       "year": 2026,
@@ -2639,6 +3066,128 @@
         {
           "path": "AI_Images/Meta_Imagine/Meta_Imagine_094b68674d1d45b39e81e44a5.jpg",
           "filename": "Meta_Imagine_094b68674d1d45b39e81e44a5.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Meta-muse": {
+      "display_name": "Meta Muse",
+      "year": 2026,
+      "company": "Meta",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_0004ad0cb20b4e4a9e717cc8e.jpg",
+          "filename": "Meta-muse-image-edit_0004ad0cb20b4e4a9e717cc8e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_000989719bdd4e91b0bc83d1d.jpg",
+          "filename": "Meta-muse-image-edit_000989719bdd4e91b0bc83d1d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_0129b286a92b463b94692dab6.jpg",
+          "filename": "Meta-muse-image-edit_0129b286a92b463b94692dab6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_0196bed94eec426c90f611152.jpg",
+          "filename": "Meta-muse-image-edit_0196bed94eec426c90f611152.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_03b9e9180f4c44419bf65bc60.jpg",
+          "filename": "Meta-muse-image-edit_03b9e9180f4c44419bf65bc60.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_0419d72dfb9b4e3ebefdc377b.jpg",
+          "filename": "Meta-muse-image-edit_0419d72dfb9b4e3ebefdc377b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_04f51c5cb82941678b0b1b089.jpg",
+          "filename": "Meta-muse-image-edit_04f51c5cb82941678b0b1b089.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_05870d17dd414db2be346283f.jpg",
+          "filename": "Meta-muse-image-edit_05870d17dd414db2be346283f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_07b8d022f93a435abbfb6793e.jpg",
+          "filename": "Meta-muse-image-edit_07b8d022f93a435abbfb6793e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse/Meta-muse-image-edit_08d704cb38704d3da571cf6d4.jpg",
+          "filename": "Meta-muse-image-edit_08d704cb38704d3da571cf6d4.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Meta-muse-image-edit": {
+      "display_name": "Meta Muse (Edits)",
+      "year": 2026,
+      "company": "Meta",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_009792c785d4438d9cce6b2a6.jpg",
+          "filename": "Meta-muse-image-edit_009792c785d4438d9cce6b2a6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_00e15530bcdf4b2f84962599c.jpg",
+          "filename": "Meta-muse-image-edit_00e15530bcdf4b2f84962599c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_011770934a284b6fbdae34ba7.jpg",
+          "filename": "Meta-muse-image-edit_011770934a284b6fbdae34ba7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_03347479c7964ea6a7cc15424.jpg",
+          "filename": "Meta-muse-image-edit_03347479c7964ea6a7cc15424.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_0589bc9cf1bf43ebae3f7eb25.jpg",
+          "filename": "Meta-muse-image-edit_0589bc9cf1bf43ebae3f7eb25.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_0747322fa74b437bb2e6de5f3.jpg",
+          "filename": "Meta-muse-image-edit_0747322fa74b437bb2e6de5f3.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_08be609610624e2a8d966bc17.jpg",
+          "filename": "Meta-muse-image-edit_08be609610624e2a8d966bc17.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_0a1170645637461bad1379c20.jpg",
+          "filename": "Meta-muse-image-edit_0a1170645637461bad1379c20.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_0b0a2c1df2e849ccb9f8e7c2e.jpg",
+          "filename": "Meta-muse-image-edit_0b0a2c1df2e849ccb9f8e7c2e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Meta-muse-image-edit/Meta-muse-image-edit_0b7f969b04e041b1ad3d87fdd.jpg",
+          "filename": "Meta-muse-image-edit_0b7f969b04e041b1ad3d87fdd.jpg",
           "type": "image"
         }
       ],
@@ -3498,6 +4047,128 @@
         {
           "path": "AI_Images/Qwen_image/Qwen_image_089e15855c5a4200ada09b8de.jpg",
           "filename": "Qwen_image_089e15855c5a4200ada09b8de.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Qwen-image-3": {
+      "display_name": "Qwen Image 3",
+      "year": 2026,
+      "company": "Alibaba",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_0079b3a2581249a19a770ca31.jpg",
+          "filename": "Qwen-image-3_0079b3a2581249a19a770ca31.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_0120280dc3c948fc8e7387b52.jpg",
+          "filename": "Qwen-image-3_0120280dc3c948fc8e7387b52.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_022feecf33b54d3ca8ebb57dd.jpg",
+          "filename": "Qwen-image-3_022feecf33b54d3ca8ebb57dd.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_030f57af1dc048138bde01ffb.jpg",
+          "filename": "Qwen-image-3_030f57af1dc048138bde01ffb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_0350fcfedf7f43bd9c5a25866.jpg",
+          "filename": "Qwen-image-3_0350fcfedf7f43bd9c5a25866.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_03628f822e1d423fbee0f9963.jpg",
+          "filename": "Qwen-image-3_03628f822e1d423fbee0f9963.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_03823234031c4350a884d15b7.jpg",
+          "filename": "Qwen-image-3_03823234031c4350a884d15b7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_052df23ff7be4fcfb40f10e5f.jpg",
+          "filename": "Qwen-image-3_052df23ff7be4fcfb40f10e5f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_07b172551b8f40429ef0761ab.jpg",
+          "filename": "Qwen-image-3_07b172551b8f40429ef0761ab.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3/Qwen-image-3_0824f43302ff496b9c5e11e15.jpg",
+          "filename": "Qwen-image-3_0824f43302ff496b9c5e11e15.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Qwen-image-3-edit": {
+      "display_name": "Qwen Image 3 (Edits)",
+      "year": 2026,
+      "company": "Alibaba",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_01eceff8097046e1a3c42377b.jpg",
+          "filename": "Qwen-image-3-edit_01eceff8097046e1a3c42377b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_02875ae80a8b4a6ea138e883f.jpg",
+          "filename": "Qwen-image-3-edit_02875ae80a8b4a6ea138e883f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_02e77454620c4c35bf8454206.jpg",
+          "filename": "Qwen-image-3-edit_02e77454620c4c35bf8454206.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_033b96807cf1411aa3d150701.jpg",
+          "filename": "Qwen-image-3-edit_033b96807cf1411aa3d150701.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_06aef25f29c04f3e899424b8b.jpg",
+          "filename": "Qwen-image-3-edit_06aef25f29c04f3e899424b8b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_07488fd5057e41d79120099a2.jpg",
+          "filename": "Qwen-image-3-edit_07488fd5057e41d79120099a2.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_0831654b4c034d74b967db262.jpg",
+          "filename": "Qwen-image-3-edit_0831654b4c034d74b967db262.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_084e56a2d82540b0ad1e0cb17.jpg",
+          "filename": "Qwen-image-3-edit_084e56a2d82540b0ad1e0cb17.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_09ebe279d0e6462c930f4fd37.jpg",
+          "filename": "Qwen-image-3-edit_09ebe279d0e6462c930f4fd37.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Qwen-image-3-edit/Qwen-image-3-edit_0cf8b2d02a2c4e8d87cb666ba.jpg",
+          "filename": "Qwen-image-3-edit_0cf8b2d02a2c4e8d87cb666ba.jpg",
           "type": "image"
         }
       ],
@@ -13180,10 +13851,10 @@
     }
   },
   "stats": {
-    "total_generators": 217,
-    "total_files": 67294,
+    "total_generators": 229,
+    "total_files": 70044,
     "categories": {
-      "AI Generated": 17200,
+      "AI Generated": 19950,
       "Deepfake": 50012,
       "In the Wild": 82
     },
@@ -13203,6 +13874,7 @@
       "Ant Group (Research)",
       "Baidu",
       "Black Forest Labs",
+      "Boogu",
       "ByteDance",
       "Canopy Labs",
       "Civitai",
@@ -13231,9 +13903,9 @@
       "Microsoft",
       "Midjourney",
       "MyShell",
+      "Nari Labs",
       "NVIDIA",
       "NVIDIA / Coqui",
-      "Nari Labs",
       "Open Source",
       "OpenAI",
       "Pika Labs",
@@ -13252,10 +13924,10 @@
       "Tsinghua University (Research)",
       "UltraPixel (Research)",
       "Various",
+      "xAI",
       "Xi'an Jiaotong University (Research)",
       "ZhipuAI",
-      "Zyphra",
-      "xAI"
+      "Zyphra"
     ]
   }
 }
