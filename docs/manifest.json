@@ -1168,7 +1168,7 @@
       ],
       "total_files": 250
     },
-    "GPT_image1_Edits": {
+    "OpenAI-GPT-image-1_Edits": {
       "display_name": "GPT Image 1 (Edits)",
       "year": 2025,
       "company": "OpenAI",
@@ -1177,59 +1177,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_000490d35db8459aae0b90eef.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_000490d35db8459aae0b90eef.jpg",
           "filename": "GPT_image1_Edits_000490d35db8459aae0b90eef.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_0037a1a62b40481a825916139.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_0037a1a62b40481a825916139.jpg",
           "filename": "GPT_image1_Edits_0037a1a62b40481a825916139.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_00fa661ebc3c4328a1663e9a8.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_00fa661ebc3c4328a1663e9a8.jpg",
           "filename": "GPT_image1_Edits_00fa661ebc3c4328a1663e9a8.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_023895cc635741a1a689b299b.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_023895cc635741a1a689b299b.jpg",
           "filename": "GPT_image1_Edits_023895cc635741a1a689b299b.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_034b9ca5fc2246e4b8ffa594a.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_034b9ca5fc2246e4b8ffa594a.jpg",
           "filename": "GPT_image1_Edits_034b9ca5fc2246e4b8ffa594a.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_042b1eaab45348808d4445c05.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_042b1eaab45348808d4445c05.jpg",
           "filename": "GPT_image1_Edits_042b1eaab45348808d4445c05.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_0516a1540b59450d9055e9bc0.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_0516a1540b59450d9055e9bc0.jpg",
           "filename": "GPT_image1_Edits_0516a1540b59450d9055e9bc0.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_0670072107784a98a2cebec55.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_0670072107784a98a2cebec55.jpg",
           "filename": "GPT_image1_Edits_0670072107784a98a2cebec55.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_06d4a120dd7b40f39bfba5f04.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_06d4a120dd7b40f39bfba5f04.jpg",
           "filename": "GPT_image1_Edits_06d4a120dd7b40f39bfba5f04.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Edits/GPT_image1_Edits_07e0563eef034e71953aaeb6d.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Edits/GPT_image1_Edits_07e0563eef034e71953aaeb6d.jpg",
           "filename": "GPT_image1_Edits_07e0563eef034e71953aaeb6d.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "GPT_image1_Inpaintings": {
+    "OpenAI-GPT-image-1_Inpaintings": {
       "display_name": "GPT Image 1 (Inpainting)",
       "year": 2025,
       "company": "OpenAI",
@@ -1238,59 +1238,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_02b191baabda43a5ba4be8ed5.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_02b191baabda43a5ba4be8ed5.jpg",
           "filename": "GPT_image1_Inpaintings_02b191baabda43a5ba4be8ed5.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_042d3f5bb4bb489f83919107f.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_042d3f5bb4bb489f83919107f.jpg",
           "filename": "GPT_image1_Inpaintings_042d3f5bb4bb489f83919107f.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_05029f338f6545ef880a33d63.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_05029f338f6545ef880a33d63.jpg",
           "filename": "GPT_image1_Inpaintings_05029f338f6545ef880a33d63.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_082d1ed03b4d4f1794c9f73ef.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_082d1ed03b4d4f1794c9f73ef.jpg",
           "filename": "GPT_image1_Inpaintings_082d1ed03b4d4f1794c9f73ef.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_09d5973f15dc464490a469827.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_09d5973f15dc464490a469827.jpg",
           "filename": "GPT_image1_Inpaintings_09d5973f15dc464490a469827.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_0a0af1e357f8408c8bd55a206.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_0a0af1e357f8408c8bd55a206.jpg",
           "filename": "GPT_image1_Inpaintings_0a0af1e357f8408c8bd55a206.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_0c5acf783b584bf9a63e0f585.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_0c5acf783b584bf9a63e0f585.jpg",
           "filename": "GPT_image1_Inpaintings_0c5acf783b584bf9a63e0f585.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_0dff7e299d014aef8f7dceef1.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_0dff7e299d014aef8f7dceef1.jpg",
           "filename": "GPT_image1_Inpaintings_0dff7e299d014aef8f7dceef1.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_0e1e088baee642abbdc9154c3.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_0e1e088baee642abbdc9154c3.jpg",
           "filename": "GPT_image1_Inpaintings_0e1e088baee642abbdc9154c3.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image1_Inpaintings/GPT_image1_Inpaintings_0ecf7df71b774f34988c0c7c0.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1_Inpaintings/GPT_image1_Inpaintings_0ecf7df71b774f34988c0c7c0.jpg",
           "filename": "GPT_image1_Inpaintings_0ecf7df71b774f34988c0c7c0.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "GPT_image_1_5": {
+    "OpenAI-GPT-image-1.5": {
       "display_name": "GPT Image 1.5",
       "year": 2026,
       "company": "OpenAI",
@@ -1299,52 +1299,52 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_01c2d1d73df64404b317426ef.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_01c2d1d73df64404b317426ef.jpg",
           "filename": "GPT_image_1_5_01c2d1d73df64404b317426ef.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_04852b949ba545e6a0b060f80.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_04852b949ba545e6a0b060f80.jpg",
           "filename": "GPT_image_1_5_04852b949ba545e6a0b060f80.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_05a6cfa1906540e2a8af05ba6.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_05a6cfa1906540e2a8af05ba6.jpg",
           "filename": "GPT_image_1_5_05a6cfa1906540e2a8af05ba6.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_075d2c8ccf374814afb319128.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_075d2c8ccf374814afb319128.jpg",
           "filename": "GPT_image_1_5_075d2c8ccf374814afb319128.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_0a9c0dc9ed934431a89eb2e71.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_0a9c0dc9ed934431a89eb2e71.jpg",
           "filename": "GPT_image_1_5_0a9c0dc9ed934431a89eb2e71.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_0ca70e3a83884542a2377c819.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_0ca70e3a83884542a2377c819.jpg",
           "filename": "GPT_image_1_5_0ca70e3a83884542a2377c819.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_0d1a5f2ec38445a78ab766803.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_0d1a5f2ec38445a78ab766803.jpg",
           "filename": "GPT_image_1_5_0d1a5f2ec38445a78ab766803.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_0db773fc41324986b1882a950.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_0db773fc41324986b1882a950.jpg",
           "filename": "GPT_image_1_5_0db773fc41324986b1882a950.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_0f076ebf346a465e999dea5fd.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_0f076ebf346a465e999dea5fd.jpg",
           "filename": "GPT_image_1_5_0f076ebf346a465e999dea5fd.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/GPT_image_1_5/GPT_image_1_5_116ba6d053604ed6b8315967b.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-1.5/GPT_image_1_5_116ba6d053604ed6b8315967b.jpg",
           "filename": "GPT_image_1_5_116ba6d053604ed6b8315967b.jpg",
           "type": "image"
         }
@@ -2644,7 +2644,7 @@
       "github": "https://github.com/Alpha-VLLM/Lumina-T2X",
       "description": "Transformer-based text-to-any generation framework"
     },
-    "MAI_image1": {
+    "MAI_image-1": {
       "display_name": "MAI Image 1",
       "year": 2025,
       "company": "Microsoft",
@@ -2653,59 +2653,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_01048e0bcc5c4cdfac87f29f4.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_01048e0bcc5c4cdfac87f29f4.jpg",
           "filename": "MAI_image1_01048e0bcc5c4cdfac87f29f4.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_0244f70bde204142b447bcca1.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_0244f70bde204142b447bcca1.jpg",
           "filename": "MAI_image1_0244f70bde204142b447bcca1.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_02fa4d21760543f2ad12e25dc.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_02fa4d21760543f2ad12e25dc.jpg",
           "filename": "MAI_image1_02fa4d21760543f2ad12e25dc.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_0379920463d94f44a0d9d0809.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_0379920463d94f44a0d9d0809.jpg",
           "filename": "MAI_image1_0379920463d94f44a0d9d0809.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_037c61a052ba43e58a5b177fc.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_037c61a052ba43e58a5b177fc.jpg",
           "filename": "MAI_image1_037c61a052ba43e58a5b177fc.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_03e096d436cb46fa9b18981d6.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_03e096d436cb46fa9b18981d6.jpg",
           "filename": "MAI_image1_03e096d436cb46fa9b18981d6.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_079fba3b9c3b4ab7bef83cd99.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_079fba3b9c3b4ab7bef83cd99.jpg",
           "filename": "MAI_image1_079fba3b9c3b4ab7bef83cd99.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_07ebb1e8de284c65b7336b09f.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_07ebb1e8de284c65b7336b09f.jpg",
           "filename": "MAI_image1_07ebb1e8de284c65b7336b09f.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_09d900f5b718403386dd635a1.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_09d900f5b718403386dd635a1.jpg",
           "filename": "MAI_image1_09d900f5b718403386dd635a1.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image1/MAI_image1_0a2c7eba33704eca8947b3260.jpg",
+          "path": "AI_Images/MAI_image-1/MAI_image1_0a2c7eba33704eca8947b3260.jpg",
           "filename": "MAI_image1_0a2c7eba33704eca8947b3260.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "MAI_image2": {
+    "MAI_image-2": {
       "display_name": "MAI Image 2",
       "year": 2026,
       "company": "Microsoft",
@@ -2714,59 +2714,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_01a57b0358df4962b82f42ac5.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_01a57b0358df4962b82f42ac5.jpg",
           "filename": "MAI_image2_01a57b0358df4962b82f42ac5.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_01de5658f5694f3ca5f642dec.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_01de5658f5694f3ca5f642dec.jpg",
           "filename": "MAI_image2_01de5658f5694f3ca5f642dec.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_01e00d7799e84ef897d3f841a.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_01e00d7799e84ef897d3f841a.jpg",
           "filename": "MAI_image2_01e00d7799e84ef897d3f841a.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_023a5452cd264422a44cfd036.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_023a5452cd264422a44cfd036.jpg",
           "filename": "MAI_image2_023a5452cd264422a44cfd036.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_028e1ab50c344e3c8ada2631e.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_028e1ab50c344e3c8ada2631e.jpg",
           "filename": "MAI_image2_028e1ab50c344e3c8ada2631e.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_033530e98c554ee08c63a4054.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_033530e98c554ee08c63a4054.jpg",
           "filename": "MAI_image2_033530e98c554ee08c63a4054.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_03d3182a25704956adfe0b379.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_03d3182a25704956adfe0b379.jpg",
           "filename": "MAI_image2_03d3182a25704956adfe0b379.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_046b7edc04f741b39f88a111d.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_046b7edc04f741b39f88a111d.jpg",
           "filename": "MAI_image2_046b7edc04f741b39f88a111d.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_04a0a2c55b5145efb8cad355b.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_04a0a2c55b5145efb8cad355b.jpg",
           "filename": "MAI_image2_04a0a2c55b5145efb8cad355b.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2/MAI_image2_0604d726e08d475fbaee3747e.jpg",
+          "path": "AI_Images/MAI_image-2/MAI_image2_0604d726e08d475fbaee3747e.jpg",
           "filename": "MAI_image2_0604d726e08d475fbaee3747e.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "MAI_image2e1": {
+    "MAI_image-2e1": {
       "display_name": "MAI Image 2e1",
       "year": 2026,
       "company": "Microsoft",
@@ -2775,52 +2775,52 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_0006fefa0a78474fbecaa5655.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_0006fefa0a78474fbecaa5655.jpg",
           "filename": "MAI_image2e1_0006fefa0a78474fbecaa5655.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_00962009d5c849c4ae64dd9af.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_00962009d5c849c4ae64dd9af.jpg",
           "filename": "MAI_image2e1_00962009d5c849c4ae64dd9af.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_04ac33078d4843b5a96c18e54.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_04ac33078d4843b5a96c18e54.jpg",
           "filename": "MAI_image2e1_04ac33078d4843b5a96c18e54.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_0532b15ffaec4c73a8b7668bf.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_0532b15ffaec4c73a8b7668bf.jpg",
           "filename": "MAI_image2e1_0532b15ffaec4c73a8b7668bf.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_0542cefd79b34608a3e4b94b4.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_0542cefd79b34608a3e4b94b4.jpg",
           "filename": "MAI_image2e1_0542cefd79b34608a3e4b94b4.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_057016d6d66147599bd142a74.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_057016d6d66147599bd142a74.jpg",
           "filename": "MAI_image2e1_057016d6d66147599bd142a74.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_05bb19b5dc6b4722a7c4d0b8c.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_05bb19b5dc6b4722a7c4d0b8c.jpg",
           "filename": "MAI_image2e1_05bb19b5dc6b4722a7c4d0b8c.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_06683c3b4e704729b0b7a4598.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_06683c3b4e704729b0b7a4598.jpg",
           "filename": "MAI_image2e1_06683c3b4e704729b0b7a4598.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_06d46f01848e4104a8d0181c2.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_06d46f01848e4104a8d0181c2.jpg",
           "filename": "MAI_image2e1_06d46f01848e4104a8d0181c2.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/MAI_image2e1/MAI_image2e1_06f086d48f2242d58c60013cf.jpg",
+          "path": "AI_Images/MAI_image-2e1/MAI_image2e1_06f086d48f2242d58c60013cf.jpg",
           "filename": "MAI_image2e1_06f086d48f2242d58c60013cf.jpg",
           "type": "image"
         }
@@ -2944,6 +2944,67 @@
         {
           "path": "AI_Images/MAI-image-2.5-pro-edit/MAI-image-2.5-pro-edit_074dfcc79de04dff99f5119d7.jpg",
           "filename": "MAI-image-2.5-pro-edit_074dfcc79de04dff99f5119d7.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "MAI-image-2.6-flash": {
+      "display_name": "MAI Image 2.6 Flash",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_02f79f9ee501471aaf7969b3b.jpg",
+          "filename": "MAI-image-2.6-flash_02f79f9ee501471aaf7969b3b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_052b75703cb74842993373e3a.jpg",
+          "filename": "MAI-image-2.6-flash_052b75703cb74842993373e3a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_06785c2156bf411caf3288d6a.jpg",
+          "filename": "MAI-image-2.6-flash_06785c2156bf411caf3288d6a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_073e5e69e557401f8919d5a31.jpg",
+          "filename": "MAI-image-2.6-flash_073e5e69e557401f8919d5a31.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_08f74153d4cd402ab4a0d310e.jpg",
+          "filename": "MAI-image-2.6-flash_08f74153d4cd402ab4a0d310e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_0d1f6e0d829e4542be572bc88.jpg",
+          "filename": "MAI-image-2.6-flash_0d1f6e0d829e4542be572bc88.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_0d82873fe4d643f7aaf87e734.jpg",
+          "filename": "MAI-image-2.6-flash_0d82873fe4d643f7aaf87e734.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_0eb6acee1a9041f6aff62cef4.jpg",
+          "filename": "MAI-image-2.6-flash_0eb6acee1a9041f6aff62cef4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_0ef82f17dd31494593921a073.jpg",
+          "filename": "MAI-image-2.6-flash_0ef82f17dd31494593921a073.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6-flash/MAI-image-2.6-flash_0f3df243f9584178ae41c12a6.jpg",
+          "filename": "MAI-image-2.6-flash_0f3df243f9584178ae41c12a6.jpg",
           "type": "image"
         }
       ],
@@ -3622,7 +3683,7 @@
       ],
       "total_files": 250
     },
-    "OpenAI_GPTo4_image": {
+    "OpenAI-GPT-o4_image": {
       "display_name": "GPT-4o Image",
       "year": 2025,
       "company": "OpenAI",
@@ -3631,59 +3692,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_01102bee99f94aa994d2b857c.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_01102bee99f94aa994d2b857c.jpg",
           "filename": "OpenAI_GPTo4_image_01102bee99f94aa994d2b857c.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_05172992033e4eaeb9b52dd62.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_05172992033e4eaeb9b52dd62.jpg",
           "filename": "OpenAI_GPTo4_image_05172992033e4eaeb9b52dd62.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_0523bc58dae345ab969552c2e.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_0523bc58dae345ab969552c2e.jpg",
           "filename": "OpenAI_GPTo4_image_0523bc58dae345ab969552c2e.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_055c932658d74090bf828defb.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_055c932658d74090bf828defb.jpg",
           "filename": "OpenAI_GPTo4_image_055c932658d74090bf828defb.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_05e09c0605d4499ca08b22153.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_05e09c0605d4499ca08b22153.jpg",
           "filename": "OpenAI_GPTo4_image_05e09c0605d4499ca08b22153.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_08156e95b1d1459eba72a4817.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_08156e95b1d1459eba72a4817.jpg",
           "filename": "OpenAI_GPTo4_image_08156e95b1d1459eba72a4817.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_1287fff13bdf48dd9193119fe.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_1287fff13bdf48dd9193119fe.jpg",
           "filename": "OpenAI_GPTo4_image_1287fff13bdf48dd9193119fe.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_132d7d20b3fe4692bb18afd1d.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_132d7d20b3fe4692bb18afd1d.jpg",
           "filename": "OpenAI_GPTo4_image_132d7d20b3fe4692bb18afd1d.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_1374ce6cf0354057aa475a20b.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_1374ce6cf0354057aa475a20b.jpg",
           "filename": "OpenAI_GPTo4_image_1374ce6cf0354057aa475a20b.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTo4_image/OpenAI_GPTo4_image_15f540256d6741ed9e0087f09.jpg",
+          "path": "AI_Images/OpenAI-GPT-o4_image/OpenAI_GPTo4_image_15f540256d6741ed9e0087f09.jpg",
           "filename": "OpenAI_GPTo4_image_15f540256d6741ed9e0087f09.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "OpenAI_GPTimage2": {
+    "OpenAI-GPT-image-2": {
       "display_name": "OpenAI GPT Image 2",
       "year": 2026,
       "company": "OpenAI",
@@ -3692,59 +3753,59 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_009d307589c441f89c7628104.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_009d307589c441f89c7628104.jpg",
           "filename": "OpenAI_GPTimage2_009d307589c441f89c7628104.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_0192149c54264e328da580fd8.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_0192149c54264e328da580fd8.jpg",
           "filename": "OpenAI_GPTimage2_0192149c54264e328da580fd8.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_0273d72258564bdb9cfe36904.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_0273d72258564bdb9cfe36904.jpg",
           "filename": "OpenAI_GPTimage2_0273d72258564bdb9cfe36904.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_04667abc85e64f62ac0754b43.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_04667abc85e64f62ac0754b43.jpg",
           "filename": "OpenAI_GPTimage2_04667abc85e64f62ac0754b43.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_04bee28774be42e1a28ff442b.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_04bee28774be42e1a28ff442b.jpg",
           "filename": "OpenAI_GPTimage2_04bee28774be42e1a28ff442b.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_05822214254e4a0580d0996b8.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_05822214254e4a0580d0996b8.jpg",
           "filename": "OpenAI_GPTimage2_05822214254e4a0580d0996b8.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_05ec0960b06f4d5390683eef1.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_05ec0960b06f4d5390683eef1.jpg",
           "filename": "OpenAI_GPTimage2_05ec0960b06f4d5390683eef1.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_06adfc372f1b4638aa2f86a7d.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_06adfc372f1b4638aa2f86a7d.jpg",
           "filename": "OpenAI_GPTimage2_06adfc372f1b4638aa2f86a7d.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_09660be8a0cb47e090746482b.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_09660be8a0cb47e090746482b.jpg",
           "filename": "OpenAI_GPTimage2_09660be8a0cb47e090746482b.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2/OpenAI_GPTimage2_09752cb2236d45a3a6d213179.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2/OpenAI_GPTimage2_09752cb2236d45a3a6d213179.jpg",
           "filename": "OpenAI_GPTimage2_09752cb2236d45a3a6d213179.jpg",
           "type": "image"
         }
       ],
       "total_files": 250
     },
-    "OpenAI_GPTimage2_edit": {
+    "OpenAI-GPT-image-2_edit": {
       "display_name": "OpenAI GPT Image 2 (Edits)",
       "year": 2026,
       "company": "OpenAI",
@@ -3753,53 +3814,175 @@
       "file_count": 250,
       "sample_files": [
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_0182535f05584b5a9a0b58548.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_0182535f05584b5a9a0b58548.jpg",
           "filename": "OpenAI_GPTimage2_edit_0182535f05584b5a9a0b58548.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_022ce8d59b114874b3024590a.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_022ce8d59b114874b3024590a.jpg",
           "filename": "OpenAI_GPTimage2_edit_022ce8d59b114874b3024590a.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_02db3eb58d804db29c8af029c.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_02db3eb58d804db29c8af029c.jpg",
           "filename": "OpenAI_GPTimage2_edit_02db3eb58d804db29c8af029c.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_0364710e662942d2ae887a4f4.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_0364710e662942d2ae887a4f4.jpg",
           "filename": "OpenAI_GPTimage2_edit_0364710e662942d2ae887a4f4.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_038aaed8c14440f9a5e1c4566.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_038aaed8c14440f9a5e1c4566.jpg",
           "filename": "OpenAI_GPTimage2_edit_038aaed8c14440f9a5e1c4566.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_051ca193339e49d9a102d8834.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_051ca193339e49d9a102d8834.jpg",
           "filename": "OpenAI_GPTimage2_edit_051ca193339e49d9a102d8834.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_056a745fe5ce452a8ccb4b3d5.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_056a745fe5ce452a8ccb4b3d5.jpg",
           "filename": "OpenAI_GPTimage2_edit_056a745fe5ce452a8ccb4b3d5.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_086029c82070411c9d3223131.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_086029c82070411c9d3223131.jpg",
           "filename": "OpenAI_GPTimage2_edit_086029c82070411c9d3223131.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_09a1e600b2db443f9bc93ba0e.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_09a1e600b2db443f9bc93ba0e.jpg",
           "filename": "OpenAI_GPTimage2_edit_09a1e600b2db443f9bc93ba0e.jpg",
           "type": "image"
         },
         {
-          "path": "AI_Images/OpenAI_GPTimage2_edit/OpenAI_GPTimage2_edit_0a8748242c524339b08e552bc.jpg",
+          "path": "AI_Images/OpenAI-GPT-image-2_edit/OpenAI_GPTimage2_edit_0a8748242c524339b08e552bc.jpg",
           "filename": "OpenAI_GPTimage2_edit_0a8748242c524339b08e552bc.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "OpenAI-GPT-image-2.5-flare": {
+      "display_name": "OpenAI GPT Image 2.5 Flare",
+      "year": 2026,
+      "company": "OpenAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_01162cfc61934537b900d0170.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_01162cfc61934537b900d0170.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_014c7f34626a45a19b5a7ff59.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_014c7f34626a45a19b5a7ff59.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_034c1d08c3f8411786ad81cfd.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_034c1d08c3f8411786ad81cfd.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_055c9ed6444340ad84cb2c757.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_055c9ed6444340ad84cb2c757.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_09d48e78ecbe4d9ca19e94862.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_09d48e78ecbe4d9ca19e94862.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_09fe601ca5834efaa9dd6323f.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_09fe601ca5834efaa9dd6323f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_0a4418c884474f70b18e76494.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_0a4418c884474f70b18e76494.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_0aa1090576dc4f1392e7fee14.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_0aa1090576dc4f1392e7fee14.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_0bb6fe8bdc2449e8826e64cdb.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_0bb6fe8bdc2449e8826e64cdb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare/OpenAI-GPT-image-2.5-flare_0c1686bf17ec4ea4a1c15a7f0.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare_0c1686bf17ec4ea4a1c15a7f0.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "OpenAI-GPT-image-2.5-sunburst": {
+      "display_name": "OpenAI GPT Image 2.5 Sunburst",
+      "year": 2026,
+      "company": "OpenAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_00fef413746f4626a9d5ece0c.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_00fef413746f4626a9d5ece0c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_01295a22bce9410d85ae78fea.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_01295a22bce9410d85ae78fea.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_013e9743ca774c0196d56fd6e.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_013e9743ca774c0196d56fd6e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_01c80d76dc1a49f2bea6daf48.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_01c80d76dc1a49f2bea6daf48.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_02d3791e13ca4c5dabd2ea205.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_02d3791e13ca4c5dabd2ea205.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_05484cd0f64649cb8bee3a0fa.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_05484cd0f64649cb8bee3a0fa.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_057c27db94c841428f9605bf0.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_057c27db94c841428f9605bf0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_05e1076408c74002a0009caad.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_05e1076408c74002a0009caad.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_068f9a582d5641bbba55018d2.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_068f9a582d5641bbba55018d2.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_06b9f2fd3706405ca6570dc45.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst_06b9f2fd3706405ca6570dc45.jpg",
           "type": "image"
         }
       ],
@@ -13851,10 +14034,10 @@
     }
   },
   "stats": {
-    "total_generators": 229,
-    "total_files": 70044,
+    "total_generators": 232,
+    "total_files": 70794,
     "categories": {
-      "AI Generated": 19950,
+      "AI Generated": 20700,
       "Deepfake": 50012,
       "In the Wild": 82
     },
