@@ -619,6 +619,67 @@
       ],
       "total_files": 250
     },
+    "Boogu-image-edit": {
+      "display_name": "Boogu Image (Edits)",
+      "year": 2026,
+      "company": "Boogu",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_003b897aea6445bca78816c75.jpg",
+          "filename": "Boogu-image-edit_003b897aea6445bca78816c75.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_00435ec422c54519a8f404cc9.jpg",
+          "filename": "Boogu-image-edit_00435ec422c54519a8f404cc9.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_00a89ed97c604780b85aa792f.jpg",
+          "filename": "Boogu-image-edit_00a89ed97c604780b85aa792f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_0294c7099ee5494895bb70b09.jpg",
+          "filename": "Boogu-image-edit_0294c7099ee5494895bb70b09.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_03798a5f27bd470a89f37e1b4.jpg",
+          "filename": "Boogu-image-edit_03798a5f27bd470a89f37e1b4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_0463460c394f47e28b6859a2e.jpg",
+          "filename": "Boogu-image-edit_0463460c394f47e28b6859a2e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_0596b5a4b17a40b6ae19e4554.jpg",
+          "filename": "Boogu-image-edit_0596b5a4b17a40b6ae19e4554.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_074affade25d403588dcb9e94.jpg",
+          "filename": "Boogu-image-edit_074affade25d403588dcb9e94.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_075eba5118544bcda95b4069a.jpg",
+          "filename": "Boogu-image-edit_075eba5118544bcda95b4069a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Boogu-image-edit/Boogu-image-edit_0a8b7a2f55e44323917534987.jpg",
+          "filename": "Boogu-image-edit_0a8b7a2f55e44323917534987.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "ByteDance_Seedream_v3": {
       "display_name": "Seedream v3",
       "year": 2025,
@@ -797,6 +858,67 @@
         {
           "path": "AI_Images/Civitai_v6/Civitai_v6_11833fe890b44a6089f281387.jpg",
           "filename": "Civitai_v6_11833fe890b44a6089f281387.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Fibo-gen-1.5-text-to-image": {
+      "display_name": "Fibo Gen 1.5 (Text to Image)",
+      "year": 2026,
+      "company": "Bria AI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_005415721b4d42e7ae30a213f.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_005415721b4d42e7ae30a213f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_0094dd9fcb54427c82a37bc21.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_0094dd9fcb54427c82a37bc21.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_00f482f0327644f7910210aeb.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_00f482f0327644f7910210aeb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_01549f2d5f9e4afba1eb9c90a.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_01549f2d5f9e4afba1eb9c90a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_02ce3d5ee6274ec7ae1ad167b.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_02ce3d5ee6274ec7ae1ad167b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_034997b205fe40b88dc94fdc5.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_034997b205fe40b88dc94fdc5.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_0387e6096a3f43a4b46d07f4c.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_0387e6096a3f43a4b46d07f4c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_03a92efac6a6446e97bb171e5.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_03a92efac6a6446e97bb171e5.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_04772546a6e84ec0ae0726127.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_04772546a6e84ec0ae0726127.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Fibo-gen-1.5-text-to-image/Fibo-gen-1.5-text-to-image_04fc5200fb61493f986203ac0.jpg",
+          "filename": "Fibo-gen-1.5-text-to-image_04fc5200fb61493f986203ac0.jpg",
           "type": "image"
         }
       ],
@@ -3927,6 +4049,67 @@
       ],
       "total_files": 250
     },
+    "OpenAI-GPT-image-2.5-flare-inpainting": {
+      "display_name": "OpenAI GPT Image 2.5 Flare (Inpainting)",
+      "year": 2026,
+      "company": "OpenAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_0045b9b13b5941b7875f09bf0.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_0045b9b13b5941b7875f09bf0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_00d345a4500c4e6c9cb1067a8.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_00d345a4500c4e6c9cb1067a8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_01610eb9e82140298651cea80.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_01610eb9e82140298651cea80.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_027f8fe957e744ababb612fe1.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_027f8fe957e744ababb612fe1.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_0378d5fc0eee46d79514db97e.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_0378d5fc0eee46d79514db97e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_053e2004f2da4ae3998459eea.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_053e2004f2da4ae3998459eea.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_05abf5edf62945b2a0be9cee4.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_05abf5edf62945b2a0be9cee4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_0871357d78a64fbbadad53ada.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_0871357d78a64fbbadad53ada.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_0989d017bda2430bb344a2ac7.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_0989d017bda2430bb344a2ac7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-flare-inpainting/OpenAI-GPT-image-2.5-flare-inpainting_0a32116776fe48f7b0b83c5d3.jpg",
+          "filename": "OpenAI-GPT-image-2.5-flare-inpainting_0a32116776fe48f7b0b83c5d3.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "OpenAI-GPT-image-2.5-sunburst": {
       "display_name": "OpenAI GPT Image 2.5 Sunburst",
       "year": 2026,
@@ -3983,6 +4166,67 @@
         {
           "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst/OpenAI-GPT-image-2.5-sunburst_06b9f2fd3706405ca6570dc45.jpg",
           "filename": "OpenAI-GPT-image-2.5-sunburst_06b9f2fd3706405ca6570dc45.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "OpenAI-GPT-image-2.5-sunburst-inpainting": {
+      "display_name": "OpenAI GPT Image 2.5 Sunburst (Inpainting)",
+      "year": 2026,
+      "company": "OpenAI",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_025d31a622514a5197c10b2d9.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_025d31a622514a5197c10b2d9.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_054711605bbc4a15ba4615c09.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_054711605bbc4a15ba4615c09.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_05552306a8c44d50ba3d5f94b.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_05552306a8c44d50ba3d5f94b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_06453ea4278a40c9b423e6d6c.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_06453ea4278a40c9b423e6d6c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_0942eb4f292f41aea187ccf78.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_0942eb4f292f41aea187ccf78.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_09c90d4c9d004a498f97ab218.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_09c90d4c9d004a498f97ab218.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_0a11bdaa652c4b959b2dfa934.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_0a11bdaa652c4b959b2dfa934.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_0a243a90c203421ebfb71ecac.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_0a243a90c203421ebfb71ecac.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_0b50336293a3488e8896851ef.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_0b50336293a3488e8896851ef.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/OpenAI-GPT-image-2.5-sunburst-inpainting/OpenAI-GPT-image-2.5-sunburst-inpainting_0ba7e5ee02d7476eb99346b0d.jpg",
+          "filename": "OpenAI-GPT-image-2.5-sunburst-inpainting_0ba7e5ee02d7476eb99346b0d.jpg",
           "type": "image"
         }
       ],
@@ -4418,6 +4662,67 @@
       ],
       "total_files": 250
     },
+    "Recraft-v4.1-text-to-image": {
+      "display_name": "Recraft v4.1 (Text to Image)",
+      "year": 2026,
+      "company": "Recraft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_01ce4ada06d24efd9778ecf4e.jpg",
+          "filename": "Recraft-v4.1-text-to-image_01ce4ada06d24efd9778ecf4e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_030ba7e16a7d4eac8ad587358.jpg",
+          "filename": "Recraft-v4.1-text-to-image_030ba7e16a7d4eac8ad587358.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_046cce95c26043fabc8a1ad7e.jpg",
+          "filename": "Recraft-v4.1-text-to-image_046cce95c26043fabc8a1ad7e.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_04d9282b97ef4698a49b0780f.jpg",
+          "filename": "Recraft-v4.1-text-to-image_04d9282b97ef4698a49b0780f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_04eab87b08774d16ae909d4af.jpg",
+          "filename": "Recraft-v4.1-text-to-image_04eab87b08774d16ae909d4af.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_0633ca78061d4977bb19fd1ed.jpg",
+          "filename": "Recraft-v4.1-text-to-image_0633ca78061d4977bb19fd1ed.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_06426c5df46f4e899f93b9530.jpg",
+          "filename": "Recraft-v4.1-text-to-image_06426c5df46f4e899f93b9530.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_0647f209dfa24c60a1f9b9331.jpg",
+          "filename": "Recraft-v4.1-text-to-image_0647f209dfa24c60a1f9b9331.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_068543e1d5f7404cb8a7373bf.jpg",
+          "filename": "Recraft-v4.1-text-to-image_068543e1d5f7404cb8a7373bf.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Recraft-v4.1-text-to-image/Recraft-v4.1-text-to-image_06a002025b7c454bbb91501ae.jpg",
+          "filename": "Recraft-v4.1-text-to-image_06a002025b7c454bbb91501ae.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Reve_AI": {
       "display_name": "Reve AI",
       "year": 2025,
@@ -4474,6 +4779,128 @@
         {
           "path": "AI_Images/Reve_AI/Reve_Art_0880e071cced48c0bd58aad05.jpg",
           "filename": "Reve_Art_0880e071cced48c0bd58aad05.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Seedream-v5-flash-text-to-image": {
+      "display_name": "Seedream v5 Flash (Text to Image)",
+      "year": 2026,
+      "company": "ByteDance",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_0099c86939554d029b2789777.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_0099c86939554d029b2789777.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_00a25c7338f14c78906806a5c.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_00a25c7338f14c78906806a5c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_02450d9bf98f4f8d8791ef11f.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_02450d9bf98f4f8d8791ef11f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_043b1be339e04b70bd081ad00.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_043b1be339e04b70bd081ad00.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_04972b77b8c2488a936a5f600.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_04972b77b8c2488a936a5f600.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_052b650b939545aca77ba06ac.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_052b650b939545aca77ba06ac.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_06d0fe24766742e798c926f35.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_06d0fe24766742e798c926f35.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_071982f0aca4486e888123b0d.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_071982f0aca4486e888123b0d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_079763e254104816ae5d4d172.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_079763e254104816ae5d4d172.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-flash-text-to-image/Seedream-v5-flash-text-to-image_081c7c42d36e48ffba10d2029.jpg",
+          "filename": "Seedream-v5-flash-text-to-image_081c7c42d36e48ffba10d2029.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Seedream-v5-pro-text-to-image": {
+      "display_name": "Seedream v5 Pro (Text to Image)",
+      "year": 2026,
+      "company": "ByteDance",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_00aed0b8b471471fbab74e8f9.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_00aed0b8b471471fbab74e8f9.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_015d5eb84ef7455bb90dc38a6.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_015d5eb84ef7455bb90dc38a6.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_02ceefdf6a6a4bf497dc9ddf1.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_02ceefdf6a6a4bf497dc9ddf1.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_0373ae3004f34a58865e7d362.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_0373ae3004f34a58865e7d362.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_083a1b99085b47cd98615f7b4.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_083a1b99085b47cd98615f7b4.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_092c6b3d57c1416dac1e87e7d.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_092c6b3d57c1416dac1e87e7d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_0ba42f3d9f87436e8da28df0c.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_0ba42f3d9f87436e8da28df0c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_0bef221e717d4f23b716f9770.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_0bef221e717d4f23b716f9770.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_0cb5fb66dc094be8849a9b10a.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_0cb5fb66dc094be8849a9b10a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Seedream-v5-pro-text-to-image/Seedream-v5-pro-text-to-image_0dcd7114b7ba452fbabfc0e40.jpg",
+          "filename": "Seedream-v5-pro-text-to-image_0dcd7114b7ba452fbabfc0e40.jpg",
           "type": "image"
         }
       ],
@@ -14034,10 +14461,10 @@
     }
   },
   "stats": {
-    "total_generators": 232,
-    "total_files": 70794,
+    "total_generators": 239,
+    "total_files": 72544,
     "categories": {
-      "AI Generated": 20700,
+      "AI Generated": 22450,
       "Deepfake": 50012,
       "In the Wild": 82
     },
@@ -14058,6 +14485,7 @@
       "Baidu",
       "Black Forest Labs",
       "Boogu",
+      "Bria AI",
       "ByteDance",
       "Canopy Labs",
       "Civitai",

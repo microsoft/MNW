@@ -13,9 +13,11 @@
 | Baidu Ernie                   |
 | Baidu Ernie Turbo             |
 | Boogu Image                   |
+| Boogu Image Edit              |
 | ByteDance Seedream v3         |
 | ByteDance Seedream v4         |
 | Civitai v6                    |
+| Fibo Gen 1.5 Text to Image    |
 | Flux 2 dev                    |
 | Flux 2 pro                    |
 | Flux Dev                      |
@@ -67,7 +69,9 @@
 | OpenAI GPTimage2              |
 | OpenAI GPTimage2 edit         |
 | OpenAI GPT Image 2.5 Flare    |
+| OpenAI GPT Image 2.5 Flare Inpainting |
 | OpenAI GPT Image 2.5 Sunburst |
+| OpenAI GPT Image 2.5 Sunburst Inpainting |
 | Pixart alpha XL               |
 | Playground-v2.5Ae             |
 | PlaygroundAI                  |
@@ -75,7 +79,10 @@
 | Qwen Image 3                  |
 | Qwen Image 3 Edit             |
 | Recraft v3                    |
+| Recraft v4.1 Text to Image    |
 | Reve AI                       |
+| Seedream v5 Flash Text to Image |
+| Seedream v5 Pro Text to Image |
 | Stable diffusion v2.1         |
 | Stable diffusion v3           |
 | Stable diffusion v35 Large    |
