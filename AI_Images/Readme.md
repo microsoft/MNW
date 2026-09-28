@@ -27,7 +27,7 @@
 | Gemini 2.5 flash (Nano banana) |
 | Google Imagen3                |
 | Google Imagen4                |
-| GPT image 1.5                 |
+| OpenAI GPT Image 1.5          |
 | GPT image1 Edits              |
 | GPT image1 Inpaintings        |
 | Grok imagine                  |
