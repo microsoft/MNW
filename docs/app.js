@@ -4,7 +4,7 @@
   const RAW_BASE = "https://github.com/microsoft/MNW/raw/main";
 
   // ── Load manifest ──
-  const resp = await fetch("manifest.json");
+  const resp = await fetch("manifest.json", { cache: "no-store" });
   const manifest = await resp.json();
   const generators = manifest.generators;
   const stats = manifest.stats;
