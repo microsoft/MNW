@@ -1046,6 +1046,128 @@
       ],
       "total_files": 250
     },
+    "Flux-3": {
+      "display_name": "Flux 3",
+      "year": 2026,
+      "company": "Black Forest Labs",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Flux-3/Flux-3_006eb436f3b942c3aed7329f1.jpg",
+          "filename": "Flux-3_006eb436f3b942c3aed7329f1.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_00eebecf9d3b4f2a86dad8d26.jpg",
+          "filename": "Flux-3_00eebecf9d3b4f2a86dad8d26.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_04834e39586e412688ca2c59d.jpg",
+          "filename": "Flux-3_04834e39586e412688ca2c59d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_053e4e0850934015b01b8960b.jpg",
+          "filename": "Flux-3_053e4e0850934015b01b8960b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_0595593c67b645388e77aa983.jpg",
+          "filename": "Flux-3_0595593c67b645388e77aa983.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_059ae32c11744b6ca9327296a.jpg",
+          "filename": "Flux-3_059ae32c11744b6ca9327296a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_06bc5a80d20548c3b63821542.jpg",
+          "filename": "Flux-3_06bc5a80d20548c3b63821542.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_07c995afee094609a24e3d942.jpg",
+          "filename": "Flux-3_07c995afee094609a24e3d942.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_08aef28dc3b941aba0aa02bb3.jpg",
+          "filename": "Flux-3_08aef28dc3b941aba0aa02bb3.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3/Flux-3_09984a7a378e45aaa75fd280a.jpg",
+          "filename": "Flux-3_09984a7a378e45aaa75fd280a.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "Flux-3-edit": {
+      "display_name": "Flux 3 Edit",
+      "year": 2026,
+      "company": "Black Forest Labs",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_00719bfcdab54721bc08be8fb.jpg",
+          "filename": "Flux-3-edit_00719bfcdab54721bc08be8fb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_0131368a6f05465a814dcab93.jpg",
+          "filename": "Flux-3-edit_0131368a6f05465a814dcab93.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_013fae1b250c4bc19990f093b.jpg",
+          "filename": "Flux-3-edit_013fae1b250c4bc19990f093b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_016debdd0fb54c49a2ca50245.jpg",
+          "filename": "Flux-3-edit_016debdd0fb54c49a2ca50245.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_03798a208fbb4b8a9e2d1076f.jpg",
+          "filename": "Flux-3-edit_03798a208fbb4b8a9e2d1076f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_03a95a0c6e0343159795b67bf.jpg",
+          "filename": "Flux-3-edit_03a95a0c6e0343159795b67bf.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_04256301be5e4d689765017fc.jpg",
+          "filename": "Flux-3-edit_04256301be5e4d689765017fc.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_045bf2a79bcb451588e41870f.jpg",
+          "filename": "Flux-3-edit_045bf2a79bcb451588e41870f.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_049c35be872843ad9ac3e812b.jpg",
+          "filename": "Flux-3-edit_049c35be872843ad9ac3e812b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/Flux-3-edit/Flux-3-edit_05f8a58074b040238de8c95a2.jpg",
+          "filename": "Flux-3-edit_05f8a58074b040238de8c95a2.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Flux_Dev": {
       "display_name": "Flux Dev",
       "year": 2024,
@@ -14461,10 +14583,10 @@
     }
   },
   "stats": {
-    "total_generators": 239,
-    "total_files": 72544,
+    "total_generators": 241,
+    "total_files": 73044,
     "categories": {
-      "AI Generated": 22450,
+      "AI Generated": 22950,
       "Deepfake": 50012,
       "In the Wild": 82
     },

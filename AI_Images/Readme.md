@@ -20,6 +20,8 @@
 | Fibo Gen 1.5 Text to Image    |
 | Flux 2 dev                    |
 | Flux 2 pro                    |
+| Flux 3                        |
+| Flux 3 Edit                   |
 | Flux Dev                      |
 | Flux Kontext Pro              |
 | Flux inpainting               |
