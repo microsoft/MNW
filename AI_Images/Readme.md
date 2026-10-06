@@ -41,6 +41,8 @@
 | Ideogram                      |
 | Ideogram v4 Fast              |
 | Ideogram v4 Instant           |
+| Ideogram v4.5                 |
+| Ideogram v4.5 Edit            |
 | Kandinsky                     |
 | Kling v2 image                |
 | Kling v2.1 image              |

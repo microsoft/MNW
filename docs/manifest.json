@@ -2333,6 +2333,128 @@
       ],
       "total_files": 250
     },
+    "ideogram-v4.5": {
+      "display_name": "Ideogram v4.5",
+      "year": 2026,
+      "company": "Ideogram",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_00822d6fb76b4850943c12b38.jpg",
+          "filename": "ideogram-v4.5_00822d6fb76b4850943c12b38.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_031f3b3524864ad39492c069b.jpg",
+          "filename": "ideogram-v4.5_031f3b3524864ad39492c069b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_0363270cb1b749269c3282bbb.jpg",
+          "filename": "ideogram-v4.5_0363270cb1b749269c3282bbb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_0432b02304634fd689265d15b.jpg",
+          "filename": "ideogram-v4.5_0432b02304634fd689265d15b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_048efc12168c4b37b38ca7dbb.jpg",
+          "filename": "ideogram-v4.5_048efc12168c4b37b38ca7dbb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_059e8861fbbd4cf2bdae2bf45.jpg",
+          "filename": "ideogram-v4.5_059e8861fbbd4cf2bdae2bf45.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_075dde9e212f4dcda91c74bf8.jpg",
+          "filename": "ideogram-v4.5_075dde9e212f4dcda91c74bf8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_091ff4a38772402a84bd99472.jpg",
+          "filename": "ideogram-v4.5_091ff4a38772402a84bd99472.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_09a9705adea94428b973d5bd7.jpg",
+          "filename": "ideogram-v4.5_09a9705adea94428b973d5bd7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5/ideogram-v4.5_09cee48c7f0f4def8df5bf079.jpg",
+          "filename": "ideogram-v4.5_09cee48c7f0f4def8df5bf079.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "ideogram-v4.5-edit": {
+      "display_name": "Ideogram v4.5 Edit",
+      "year": 2026,
+      "company": "Ideogram",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_0013378bb9f541e5812fc24cd.jpg",
+          "filename": "ideogram-v4.5-edit_0013378bb9f541e5812fc24cd.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_004a2b5196544c11b959f57a1.jpg",
+          "filename": "ideogram-v4.5-edit_004a2b5196544c11b959f57a1.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_01721ac6eb614c45bdd465ba3.jpg",
+          "filename": "ideogram-v4.5-edit_01721ac6eb614c45bdd465ba3.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_037e52afe43f44c5b1f7442ec.jpg",
+          "filename": "ideogram-v4.5-edit_037e52afe43f44c5b1f7442ec.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_04080d5166754677bec87ef65.jpg",
+          "filename": "ideogram-v4.5-edit_04080d5166754677bec87ef65.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_0437d6d81c8a48f0bb0162bf0.jpg",
+          "filename": "ideogram-v4.5-edit_0437d6d81c8a48f0bb0162bf0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_060b31798d32406aac5002958.jpg",
+          "filename": "ideogram-v4.5-edit_060b31798d32406aac5002958.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_090b677b192d4190973ece4c0.jpg",
+          "filename": "ideogram-v4.5-edit_090b677b192d4190973ece4c0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_0a4412b420814c8e80311e8d8.jpg",
+          "filename": "ideogram-v4.5-edit_0a4412b420814c8e80311e8d8.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/ideogram-v4.5-edit/ideogram-v4.5-edit_0aff8ec0249349269841d5e53.jpg",
+          "filename": "ideogram-v4.5-edit_0aff8ec0249349269841d5e53.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Kandinsky": {
       "display_name": "Kandinsky 3.0",
       "year": 2023,
@@ -14583,10 +14705,10 @@
     }
   },
   "stats": {
-    "total_generators": 241,
-    "total_files": 73044,
+    "total_generators": 243,
+    "total_files": 73544,
     "categories": {
-      "AI Generated": 22950,
+      "AI Generated": 23450,
       "Deepfake": 50012,
       "In the Wild": 82
     },
