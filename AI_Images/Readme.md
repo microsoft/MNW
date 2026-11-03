@@ -57,6 +57,7 @@
 | MAI image2e1                  |
 | MAI Image 2.5 Pro             |
 | MAI Image 2.5 Pro Edit        |
+| MAI Image 2.6                 |
 | MAI Image 2.6 Flash           |
 | Meituan LongCat Image         |
 | Meta Imagine                  |

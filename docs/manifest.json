@@ -3315,6 +3315,67 @@
       ],
       "total_files": 250
     },
+    "MAI-image-2.6": {
+      "display_name": "MAI Image 2.6",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_0062b8e3729c4924b6d3d63da.jpg",
+          "filename": "MAI-image-2.6_0062b8e3729c4924b6d3d63da.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_010b31b9180e495a917ed2a87.jpg",
+          "filename": "MAI-image-2.6_010b31b9180e495a917ed2a87.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_01a2fe15bd074644896968977.jpg",
+          "filename": "MAI-image-2.6_01a2fe15bd074644896968977.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_026ec08bfc964be0bcc2113e7.jpg",
+          "filename": "MAI-image-2.6_026ec08bfc964be0bcc2113e7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_02ac38e016314320a91a14b16.jpg",
+          "filename": "MAI-image-2.6_02ac38e016314320a91a14b16.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_02b526a64d1b46d68b958f61c.jpg",
+          "filename": "MAI-image-2.6_02b526a64d1b46d68b958f61c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_07ea2d7927f24a4f93a900d1d.jpg",
+          "filename": "MAI-image-2.6_07ea2d7927f24a4f93a900d1d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_07fd3e079c9f42d98e074154d.jpg",
+          "filename": "MAI-image-2.6_07fd3e079c9f42d98e074154d.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_088d62ca955e41848297e52bb.jpg",
+          "filename": "MAI-image-2.6_088d62ca955e41848297e52bb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.6/MAI-image-2.6_08978eb5d3994de78a79de99d.jpg",
+          "filename": "MAI-image-2.6_08978eb5d3994de78a79de99d.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "MAI-image-2.6-flash": {
       "display_name": "MAI Image 2.6 Flash",
       "year": 2026,
@@ -14705,10 +14766,10 @@
     }
   },
   "stats": {
-    "total_generators": 243,
-    "total_files": 73544,
+    "total_generators": 244,
+    "total_files": 73794,
     "categories": {
-      "AI Generated": 23450,
+      "AI Generated": 23700,
       "Deepfake": 50012,
       "In the Wild": 82
     },
