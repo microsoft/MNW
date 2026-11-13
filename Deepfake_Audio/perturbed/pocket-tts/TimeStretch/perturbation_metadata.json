@@ -1,0 +1,2002 @@
+{
+  "p293_246_paul_0091.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p293_246_paul_0091_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_147_javert_0112.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p287_147_javert_0112_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p282_269_paul_0131.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p282_269_paul_0131_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p240_043_george_0055.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p240_043_george_0055_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p259_182_marius_0185.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p259_182_marius_0185_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_362_caro_davy_0104.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p345_362_caro_davy_0104_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_286_jean_0101.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p250_286_jean_0101_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p339_237_jean_0246.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p339_237_jean_0246_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_025_alba_0047.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p288_025_alba_0047_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_142_marius_0074.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p308_142_marius_0074_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_315_anna_0220.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p374_315_anna_0220_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_292_javert_0194.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p252_292_javert_0194_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_056_eve_0069.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p293_056_eve_0069_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_152_azelma_0248.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p275_152_azelma_0248_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_110_fantine_0100.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p294_110_fantine_0100_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_001_bill_boerst_0180.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p304_001_bill_boerst_0180_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p329_188_michael_0130.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p329_188_michael_0130_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_159_cosette_0235.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p308_159_cosette_0235_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_376_eve_0001.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p227_376_eve_0001_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_264_paul_0156.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p274_264_paul_0156_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_038_eve_0120.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p341_038_eve_0120_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_141_anna_0126.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p292_141_anna_0126_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p260_265_charles_0075.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p260_265_charles_0075_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p314_224_bill_boerst_0227.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p314_224_bill_boerst_0227_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p285_015_azelma_0141.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p285_015_azelma_0141_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_115_javert_0012.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p243_115_javert_0012_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p329_023_cosette_0137.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p329_023_cosette_0137_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_096_peter_yearsley_0175.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p271_096_peter_yearsley_0175_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p334_383_mary_0119.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p334_383_mary_0119_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_333_javert_0128.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p361_333_javert_0128_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_027_charles_0125.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p273_027_charles_0125_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p323_191_jane_0245.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p323_191_jane_0245_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_238_cosette_0026.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p362_238_cosette_0026_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p233_027_mary_0179.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p233_027_mary_0179_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p229_023_eponine_0205.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p229_023_eponine_0205_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p317_031_eponine_0142.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p317_031_eponine_0142_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p260_149_michael_0171.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p260_149_michael_0171_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p236_281_jean_0036.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p236_281_jean_0036_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p339_171_paul_0145.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p339_171_paul_0145_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p312_015_alba_0124.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p312_015_alba_0124_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_122_vera_0028.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p263_122_vera_0028_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_095_george_0140.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p288_095_george_0140_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p277_069_mary_0155.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p277_069_mary_0155_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_110_alba_0157.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p293_110_alba_0157_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p278_009_peter_yearsley_0078.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p278_009_peter_yearsley_0078_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p254_275_cosette_0089.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p254_275_cosette_0089_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p268_359_eponine_0150.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p268_359_eponine_0150_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_178_jean_0221.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p295_178_jean_0221_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_332_javert_0062.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p345_332_javert_0062_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_004_vera_0249.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p361_004_vera_0249_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_384_jean_0072.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p271_384_jean_0072_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p228_365_peter_yearsley_0134.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p228_365_peter_yearsley_0134_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_194_alba_0136.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p330_194_alba_0136_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_084_vera_0206.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p293_084_vera_0206_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p323_307_eve_0077.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p323_307_eve_0077_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_231_stuart_bell_0219.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p361_231_stuart_bell_0219_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p335_034_mary_0090.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p335_034_mary_0090_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p272_279_fantine_0014.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p272_279_fantine_0014_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_376_fantine_0004.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p304_376_fantine_0004_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_214_fantine_0230.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p361_214_fantine_0230_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_324_michael_0011.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p292_324_michael_0011_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_013_bill_boerst_0054.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p293_013_bill_boerst_0054_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p299_076_mary_0215.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p299_076_mary_0215_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p300_165_jean_0207.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p300_165_jean_0207_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p314_332_charles_0082.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p314_332_charles_0082_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p376_141_marius_0050.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p376_141_marius_0050_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p299_150_mary_0088.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p299_150_mary_0088_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_255_marius_0046.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p271_255_marius_0046_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p303_202_peter_yearsley_0133.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p303_202_peter_yearsley_0133_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p232_388_jane_0027.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p232_388_jane_0027_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_298_cosette_0032.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p270_298_cosette_0032_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_088_charles_0118.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p293_088_charles_0118_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p272_067_caro_davy_0031.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p272_067_caro_davy_0031_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p230_266_fantine_0022.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p230_266_fantine_0022_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p283_337_stuart_bell_0042.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p283_337_stuart_bell_0042_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p284_007_mary_0143.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p284_007_mary_0143_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_300_caro_davy_0105.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p341_300_caro_davy_0105_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p254_283_fantine_0174.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p254_283_fantine_0174_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p284_088_peter_yearsley_0146.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p284_088_peter_yearsley_0146_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p265_117_stuart_bell_0231.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p265_117_stuart_bell_0231_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_146_bill_boerst_0079.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p250_146_bill_boerst_0079_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_051_charles_0242.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p276_051_charles_0242_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p268_081_javert_0114.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p268_081_javert_0114_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_252_jean_0073.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p341_252_jean_0073_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_277_javert_0098.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p330_277_javert_0098_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p269_121_eve_0208.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p269_121_eve_0208_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_113_vera_0084.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p271_113_vera_0084_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p347_385_stuart_bell_0023.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p347_385_stuart_bell_0023_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_365_azelma_0224.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p276_365_azelma_0224_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_309_jane_0204.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p330_309_jane_0204_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p279_018_charles_0117.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p279_018_charles_0117_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_222_stuart_bell_0025.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p243_222_stuart_bell_0025_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p363_037_michael_0210.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p363_037_michael_0210_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_185_bill_boerst_0152.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p273_185_bill_boerst_0152_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p293_211_caro_davy_0197.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p293_211_caro_davy_0197_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p261_222_alba_0070.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p261_222_alba_0070_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p285_195_eve_0167.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p285_195_eve_0167_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_298_fantine_0192.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p271_298_fantine_0192_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_258_azelma_0034.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p243_258_azelma_0034_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p248_273_javert_0051.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p248_273_javert_0051_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p265_193_stuart_bell_0102.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p265_193_stuart_bell_0102_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p254_183_mary_0080.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p254_183_mary_0080_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p316_418_bill_boerst_0169.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p316_418_bill_boerst_0169_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p301_142_cosette_0188.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p301_142_cosette_0188_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p248_357_jane_0181.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p248_357_jane_0181_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p228_258_george_0196.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p228_258_george_0196_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_198_eve_0057.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p288_198_eve_0057_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p278_286_michael_0149.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p278_286_michael_0149_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p259_269_mary_0240.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p259_269_mary_0240_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p306_047_george_0162.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p306_047_george_0162_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p323_012_caro_davy_0222.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p323_012_caro_davy_0222_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_165_george_0017.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p340_165_george_0017_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p249_226_jean_0183.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p249_226_jean_0183_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_050_charles_0096.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p351_050_charles_0096_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_135_eve_0214.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p304_135_eve_0214_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p334_228_eponine_0035.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p334_228_eponine_0035_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_075_michael_0116.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p245_075_michael_0116_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p231_161_cosette_0016.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p231_161_cosette_0016_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p314_073_jane_0063.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p314_073_jane_0063_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p285_303_george_0153.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p285_303_george_0153_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p363_282_cosette_0109.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p363_282_cosette_0109_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_039_cosette_0165.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p252_039_cosette_0165_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p243_071_peter_yearsley_0201.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p243_071_peter_yearsley_0201_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_256_jane_0239.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p227_256_jane_0239_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p276_257_jane_0217.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p276_257_jane_0217_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_304_vera_0106.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p227_304_vera_0106_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p234_289_paul_0139.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p234_289_paul_0139_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p262_102_eponine_0216.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p262_102_eponine_0216_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_027_marius_0244.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p287_027_marius_0244_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p311_108_stuart_bell_0052.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p311_108_stuart_bell_0052_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_163_charles_0108.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p250_163_charles_0108_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p258_363_marius_0040.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p258_363_marius_0040_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_096_charles_0189.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p237_096_charles_0189_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_129_stuart_bell_0237.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p294_129_stuart_bell_0237_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_007_cosette_0186.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p345_007_cosette_0186_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p226_291_mary_0006.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p226_291_mary_0006_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p335_314_stuart_bell_0228.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p335_314_stuart_bell_0228_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_238_george_0038.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p374_238_george_0038_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p261_394_azelma_0049.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p261_394_azelma_0049_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p308_054_eve_0113.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p308_054_eve_0113_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_297_fantine_0182.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p361_297_fantine_0182_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_176_eve_0093.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p294_176_eve_0093_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p341_404_azelma_0151.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p341_404_azelma_0151_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_401_eponine_0053.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p263_401_eponine_0053_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p241_062_george_0160.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p241_062_george_0160_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_315_javert_0238.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p330_315_javert_0238_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p227_292_jane_0170.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p227_292_jane_0170_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_251_javert_0095.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p288_251_javert_0095_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p272_031_vera_0067.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p272_031_vera_0067_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p336_017_cosette_0173.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p336_017_cosette_0173_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p334_031_javert_0166.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p334_031_javert_0166_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_140_azelma_0200.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p252_140_azelma_0200_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p302_068_marius_0097.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p302_068_marius_0097_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p311_060_anna_0099.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p311_060_anna_0099_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_142_bill_boerst_0193.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p292_142_bill_boerst_0193_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p246_346_alba_0081.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p246_346_alba_0081_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p376_242_cosette_0234.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p376_242_cosette_0234_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p278_054_fantine_0209.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p278_054_fantine_0209_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_065_eve_0029.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p287_065_eve_0029_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p304_287_javert_0061.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p304_287_javert_0061_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_322_jean_0164.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p237_322_jean_0164_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p301_247_jane_0176.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p301_247_jane_0176_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_263_anna_0236.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p374_263_anna_0236_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_318_jean_0163.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p288_318_jean_0163_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p286_161_eve_0158.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p286_161_eve_0158_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_096_michael_0229.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p274_096_michael_0229_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p257_173_mary_0083.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p257_173_mary_0083_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_318_charles_0043.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p295_318_charles_0043_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p281_043_eve_0226.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p281_043_eve_0226_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p287_349_stuart_bell_0195.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p287_349_stuart_bell_0195_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p340_110_vera_0202.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p340_110_vera_0202_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p270_242_jane_0198.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p270_242_jane_0198_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p334_295_marius_0056.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p334_295_marius_0056_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_220_caro_davy_0018.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p252_220_caro_davy_0018_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_250_jane_0211.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p252_250_jane_0211_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_064_michael_0122.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p351_064_michael_0122_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p248_166_caro_davy_0003.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p248_166_caro_davy_0003_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p334_198_michael_0123.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p334_198_michael_0123_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p374_068_charles_0213.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p374_068_charles_0213_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p263_464_michael_0154.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p263_464_michael_0154_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_429_anna_0247.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p274_429_anna_0247_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_240_cosette_0127.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p237_240_cosette_0127_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p262_116_jane_0177.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p262_116_jane_0177_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p303_220_michael_0161.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p303_220_michael_0161_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p225_291_michael_0225.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p225_291_michael_0225_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_187_paul_0021.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p271_187_paul_0021_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_077_anna_0085.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p250_077_anna_0085_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p305_061_eve_0178.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p305_061_eve_0178_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p250_078_cosette_0002.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p250_078_cosette_0002_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p246_085_marius_0065.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p246_085_marius_0065_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p233_312_caro_davy_0212.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p233_312_caro_davy_0212_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p259_227_fantine_0045.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p259_227_fantine_0045_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p361_419_javert_0071.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p361_419_javert_0071_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_335_cosette_0132.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p362_335_cosette_0132_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p303_179_bill_boerst_0191.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p303_179_bill_boerst_0191_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p316_386_eponine_0039.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p316_386_eponine_0039_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p230_150_peter_yearsley_0044.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p230_150_peter_yearsley_0044_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p244_330_jean_0107.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p244_330_jean_0107_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p252_132_vera_0218.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p252_132_vera_0218_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p285_120_mary_0233.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p285_120_mary_0233_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p333_411_peter_yearsley_0203.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p333_411_peter_yearsley_0203_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p267_168_bill_boerst_0190.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p267_168_bill_boerst_0190_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p282_219_javert_0008.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p282_219_javert_0008_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p267_103_peter_yearsley_0068.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p267_103_peter_yearsley_0068_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p295_193_peter_yearsley_0138.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p295_193_peter_yearsley_0138_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_361_eve_0199.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p294_361_eve_0199_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_207_alba_0087.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p275_207_alba_0087_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_155_eponine_0094.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p294_155_eponine_0094_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p298_309_alba_0030.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p298_309_alba_0030_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p362_134_paul_0066.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p362_134_paul_0066_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_103_javert_0041.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p245_103_javert_0041_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p269_213_jean_0168.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p269_213_jean_0168_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p311_363_charles_0148.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p311_363_charles_0148_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p236_061_vera_0184.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p236_061_vera_0184_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_104_cosette_0000.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p294_104_cosette_0000_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p277_390_azelma_0007.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p277_390_azelma_0007_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p253_154_fantine_0010.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p253_154_fantine_0010_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p283_106_peter_yearsley_0135.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p283_106_peter_yearsley_0135_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p288_304_charles_0033.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p288_304_charles_0033_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p329_174_anna_0159.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p329_174_anna_0159_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_369_paul_0060.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p273_369_paul_0060_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p264_458_eponine_0076.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p264_458_eponine_0076_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p294_327_peter_yearsley_0115.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p294_327_peter_yearsley_0115_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p351_069_michael_0103.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p351_069_michael_0103_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_231_azelma_0129.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p360_231_azelma_0129_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p292_272_anna_0147.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p292_272_anna_0147_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p273_160_fantine_0223.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p273_160_fantine_0223_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p247_303_eve_0092.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p247_303_eve_0092_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_031_fantine_0121.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p345_031_fantine_0121_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_095_anna_0009.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p275_095_anna_0009_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_406_paul_0187.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p330_406_paul_0187_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p282_109_cosette_0037.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p282_109_cosette_0037_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p271_420_michael_0015.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p271_420_michael_0015_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p234_008_eve_0048.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p234_008_eve_0048_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p274_255_eponine_0243.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p274_255_eponine_0243_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p330_250_bill_boerst_0064.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p330_250_bill_boerst_0064_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  },
+  "p360_393_peter_yearsley_0144.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p360_393_peter_yearsley_0144_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p240_010_vera_0058.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p240_010_vera_0058_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p281_236_peter_yearsley_0111.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p281_236_peter_yearsley_0111_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p236_186_azelma_0232.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p236_186_azelma_0232_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p267_416_jane_0005.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p267_416_jane_0005_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p298_239_jane_0024.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p298_239_jane_0024_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p245_061_caro_davy_0110.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p245_061_caro_davy_0110_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p345_360_fantine_0020.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.6
+    },
+    "output_file": "p345_360_fantine_0020_TimeStretch_Rate_06.wav",
+    "original_sample_rate": 24000
+  },
+  "p318_176_peter_yearsley_0086.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p318_176_peter_yearsley_0086_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p301_232_cosette_0172.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p301_232_cosette_0172_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p236_144_jean_0241.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p236_144_jean_0241_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p237_144_mary_0013.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 0.8
+    },
+    "output_file": "p237_144_mary_0013_TimeStretch_Rate_08.wav",
+    "original_sample_rate": 24000
+  },
+  "p275_252_anna_0019.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.4
+    },
+    "output_file": "p275_252_anna_0019_TimeStretch_Rate_14.wav",
+    "original_sample_rate": 24000
+  },
+  "p231_249_javert_0059.wav": {
+    "method": "TimeStretch",
+    "hyperparameters": {
+      "stretch_rate": 1.2
+    },
+    "output_file": "p231_249_javert_0059_TimeStretch_Rate_12.wav",
+    "original_sample_rate": 24000
+  }
+}

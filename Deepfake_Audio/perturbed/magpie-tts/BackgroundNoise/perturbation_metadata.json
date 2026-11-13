@@ -1,0 +1,2002 @@
+{
+  "p253_087_Sofia_0181.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-205090-A-32"
+    },
+    "output_file": "p253_087_Sofia_0181_BackgroundNoise_5-205090-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p339_074_Sofia_0036.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-200329-B-8"
+    },
+    "output_file": "p339_074_Sofia_0036_BackgroundNoise_5-200329-B-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_398_Aria_0055.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-99644-B-4"
+    },
+    "output_file": "p340_398_Aria_0055_BackgroundNoise_4-99644-B-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_372_Leo_0177.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-146964-A-5"
+    },
+    "output_file": "p273_372_Leo_0177_BackgroundNoise_3-146964-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_260_Aria_0108.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-150364-B-46"
+    },
+    "output_file": "p340_260_Aria_0108_BackgroundNoise_4-150364-B-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p323_348_Leo_0224.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-198360-B-49"
+    },
+    "output_file": "p323_348_Leo_0224_BackgroundNoise_4-198360-B-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_116_Sofia_0176.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-213802-A-12"
+    },
+    "output_file": "p310_116_Sofia_0176_BackgroundNoise_5-213802-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p376_135_Sofia_0073.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-56270-A-29"
+    },
+    "output_file": "p376_135_Sofia_0073_BackgroundNoise_1-56270-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_026_John_0239.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-19501-A-7"
+    },
+    "output_file": "p253_026_John_0239_BackgroundNoise_1-19501-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p376_018_Leo_0199.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-171012-A-38"
+    },
+    "output_file": "p376_018_Leo_0199_BackgroundNoise_3-171012-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_373_John_0133.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-182395-A-0"
+    },
+    "output_file": "p276_373_John_0133_BackgroundNoise_4-182395-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p230_377_Leo_0107.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-117116-A-37"
+    },
+    "output_file": "p230_377_Leo_0107_BackgroundNoise_2-117116-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p268_244_Leo_0118.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-189832-A-22"
+    },
+    "output_file": "p268_244_Leo_0118_BackgroundNoise_4-189832-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p351_423_Leo_0144.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-121532-A-42"
+    },
+    "output_file": "p351_423_Leo_0144_BackgroundNoise_4-121532-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p318_277_Leo_0098.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-117122-A-42"
+    },
+    "output_file": "p318_277_Leo_0098_BackgroundNoise_5-117122-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p271_168_John_0197.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-61261-A-44"
+    },
+    "output_file": "p271_168_John_0197_BackgroundNoise_1-61261-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_141_Leo_0104.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-52085-B-4"
+    },
+    "output_file": "p281_141_Leo_0104_BackgroundNoise_2-52085-B-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p330_025_Leo_0106.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-B-20"
+    },
+    "output_file": "p330_025_Leo_0106_BackgroundNoise_5-198411-B-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_066_Jason_0013.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-115382-A-44"
+    },
+    "output_file": "p312_066_Jason_0013_BackgroundNoise_3-115382-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_346_Aria_0206.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-244651-A-31"
+    },
+    "output_file": "p286_346_Aria_0206_BackgroundNoise_5-244651-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p255_134_Sofia_0113.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-35687-A-38"
+    },
+    "output_file": "p255_134_Sofia_0113_BackgroundNoise_1-35687-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_266_John_0090.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-182710-B-35"
+    },
+    "output_file": "p241_266_John_0090_BackgroundNoise_3-182710-B-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p305_316_John_0129.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-99193-A-4"
+    },
+    "output_file": "p305_316_John_0129_BackgroundNoise_4-99193-A-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_057_Sofia_0140.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-126358-A-3"
+    },
+    "output_file": "p286_057_Sofia_0140_BackgroundNoise_3-126358-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p268_066_John_0103.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-91359-A-11"
+    },
+    "output_file": "p268_066_John_0103_BackgroundNoise_1-91359-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p227_152_Aria_0245.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-184235-A-28"
+    },
+    "output_file": "p227_152_Aria_0245_BackgroundNoise_4-184235-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p271_159_Leo_0020.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-81269-A-3"
+    },
+    "output_file": "p271_159_Leo_0020_BackgroundNoise_1-81269-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p364_305_Sofia_0012.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-182314-B-7"
+    },
+    "output_file": "p364_305_Sofia_0012_BackgroundNoise_4-182314-B-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_179_Jason_0086.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-53670-A-18"
+    },
+    "output_file": "p287_179_Jason_0086_BackgroundNoise_1-53670-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_433_Jason_0077.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-204604-A-24"
+    },
+    "output_file": "p264_433_Jason_0077_BackgroundNoise_5-204604-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p329_380_Leo_0111.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-64332-A-18"
+    },
+    "output_file": "p329_380_Leo_0111_BackgroundNoise_2-64332-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p227_299_Aria_0064.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-235956-A-47"
+    },
+    "output_file": "p227_299_Aria_0064_BackgroundNoise_5-235956-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p293_216_John_0016.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-198962-B-25"
+    },
+    "output_file": "p293_216_John_0016_BackgroundNoise_4-198962-B-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p363_030_Jason_0217.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-191297-A-28"
+    },
+    "output_file": "p363_030_Jason_0217_BackgroundNoise_4-191297-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_077_Leo_0243.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172736-A-36"
+    },
+    "output_file": "p253_077_Leo_0243_BackgroundNoise_4-172736-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_069_Leo_0031.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-123086-A-28"
+    },
+    "output_file": "p261_069_Leo_0031_BackgroundNoise_3-123086-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_009_Sofia_0112.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-223317-A-31"
+    },
+    "output_file": "p270_009_Sofia_0112_BackgroundNoise_5-223317-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_039_John_0235.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-257349-A-15"
+    },
+    "output_file": "p287_039_John_0235_BackgroundNoise_5-257349-A-15.wav",
+    "original_sample_rate": 22050
+  },
+  "p334_075_John_0091.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-17150-A-12"
+    },
+    "output_file": "p334_075_John_0091_BackgroundNoise_1-17150-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p233_056_Aria_0050.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-232272-A-44"
+    },
+    "output_file": "p233_056_Aria_0050_BackgroundNoise_5-232272-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p374_071_Jason_0184.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-108451-A-17"
+    },
+    "output_file": "p374_071_Jason_0184_BackgroundNoise_3-108451-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p226_013_Jason_0244.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-C-20"
+    },
+    "output_file": "p226_013_Jason_0244_BackgroundNoise_5-198411-C-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_332_Aria_0060.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-188287-A-9"
+    },
+    "output_file": "p253_332_Aria_0060_BackgroundNoise_4-188287-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p229_073_Jason_0071.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-159609-A-14"
+    },
+    "output_file": "p229_073_Jason_0071_BackgroundNoise_4-159609-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p243_227_Sofia_0232.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-54747-A-46"
+    },
+    "output_file": "p243_227_Sofia_0232_BackgroundNoise_1-54747-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p276_022_Sofia_0007.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-117630-A-25"
+    },
+    "output_file": "p276_022_Sofia_0007_BackgroundNoise_4-117630-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p284_103_Jason_0139.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-18631-A-23"
+    },
+    "output_file": "p284_103_Jason_0139_BackgroundNoise_1-18631-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_405_Leo_0128.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-124376-B-3"
+    },
+    "output_file": "p263_405_Leo_0128_BackgroundNoise_3-124376-B-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p283_314_Jason_0154.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-261068-A-30"
+    },
+    "output_file": "p283_314_Jason_0154_BackgroundNoise_4-261068-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_307_Sofia_0242.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-76831-A-42"
+    },
+    "output_file": "p228_307_Sofia_0242_BackgroundNoise_1-76831-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_176_Jason_0183.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-147657-A-46"
+    },
+    "output_file": "p362_176_Jason_0183_BackgroundNoise_4-147657-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p274_415_John_0096.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-59324-A-21"
+    },
+    "output_file": "p274_415_John_0096_BackgroundNoise_1-59324-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p244_368_John_0058.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-87780-A-33"
+    },
+    "output_file": "p244_368_John_0058_BackgroundNoise_2-87780-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p247_289_Aria_0025.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-117504-B-16"
+    },
+    "output_file": "p247_289_Aria_0025_BackgroundNoise_3-117504-B-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_312_John_0221.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-204202-A-29"
+    },
+    "output_file": "p231_312_John_0221_BackgroundNoise_4-204202-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_032_Jason_0241.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-181955-B-3"
+    },
+    "output_file": "p261_032_Jason_0241_BackgroundNoise_4-181955-B-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p257_412_Sofia_0247.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-51173-A-35"
+    },
+    "output_file": "p257_412_Sofia_0247_BackgroundNoise_2-51173-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p271_283_Leo_0080.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-255371-A-47"
+    },
+    "output_file": "p271_283_Leo_0080_BackgroundNoise_4-255371-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p252_132_Aria_0079.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-187769-A-14"
+    },
+    "output_file": "p252_132_Aria_0079_BackgroundNoise_4-187769-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p326_270_John_0150.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-119455-A-44"
+    },
+    "output_file": "p326_270_John_0150_BackgroundNoise_3-119455-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_252_Leo_0084.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-147657-A-46"
+    },
+    "output_file": "p279_252_Leo_0084_BackgroundNoise_4-147657-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p236_420_Sofia_0210.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-117116-A-37"
+    },
+    "output_file": "p236_420_Sofia_0210_BackgroundNoise_2-117116-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p262_094_John_0157.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-115545-A-48"
+    },
+    "output_file": "p262_094_John_0157_BackgroundNoise_1-115545-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_269_Leo_0023.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-214362-A-17"
+    },
+    "output_file": "p280_269_Leo_0023_BackgroundNoise_5-214362-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p308_366_Sofia_0207.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-195710-A-10"
+    },
+    "output_file": "p308_366_Sofia_0207_BackgroundNoise_5-195710-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p351_235_Sofia_0120.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-108160-A-23"
+    },
+    "output_file": "p351_235_Sofia_0120_BackgroundNoise_3-108160-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_186_Leo_0208.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-203128-B-0"
+    },
+    "output_file": "p280_186_Leo_0208_BackgroundNoise_5-203128-B-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_220_Sofia_0027.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-103999-A-30"
+    },
+    "output_file": "p263_220_Sofia_0027_BackgroundNoise_1-103999-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p294_268_John_0076.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-140841-A-30"
+    },
+    "output_file": "p294_268_John_0076_BackgroundNoise_2-140841-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_203_Aria_0049.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-138465-A-43"
+    },
+    "output_file": "p285_203_Aria_0049_BackgroundNoise_2-138465-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_368_Aria_0211.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-132157-A-11"
+    },
+    "output_file": "p263_368_Aria_0211_BackgroundNoise_2-132157-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p275_384_Sofia_0093.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-124795-A-28"
+    },
+    "output_file": "p275_384_Sofia_0093_BackgroundNoise_3-124795-A-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p267_356_Sofia_0223.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-39835-A-9"
+    },
+    "output_file": "p267_356_Sofia_0223_BackgroundNoise_1-39835-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_231_Leo_0155.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-188191-B-29"
+    },
+    "output_file": "p270_231_Leo_0155_BackgroundNoise_4-188191-B-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p298_256_Aria_0170.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-144510-A-30"
+    },
+    "output_file": "p298_256_Aria_0170_BackgroundNoise_3-144510-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_015_Sofia_0180.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-197446-A-7"
+    },
+    "output_file": "p285_015_Sofia_0180_BackgroundNoise_5-197446-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p283_023_John_0122.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-187769-A-14"
+    },
+    "output_file": "p283_023_John_0122_BackgroundNoise_4-187769-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_254_John_0167.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-112522-A-27"
+    },
+    "output_file": "p241_254_John_0167_BackgroundNoise_3-112522-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p333_013_Sofia_0137.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-205090-A-32"
+    },
+    "output_file": "p333_013_Sofia_0137_BackgroundNoise_5-205090-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p252_245_Leo_0000.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-207836-C-29"
+    },
+    "output_file": "p252_245_Leo_0000_BackgroundNoise_5-207836-C-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_347_Sofia_0179.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-200330-A-6"
+    },
+    "output_file": "p280_347_Sofia_0179_BackgroundNoise_4-200330-A-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_377_Leo_0185.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-171207-A-12"
+    },
+    "output_file": "p345_377_Leo_0185_BackgroundNoise_4-171207-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_394_Aria_0092.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-54961-A-23"
+    },
+    "output_file": "p362_394_Aria_0092_BackgroundNoise_2-54961-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_043_Aria_0186.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-17092-B-27"
+    },
+    "output_file": "p241_043_Aria_0186_BackgroundNoise_1-17092-B-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p247_014_Leo_0034.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-133989-A-42"
+    },
+    "output_file": "p247_014_Leo_0034_BackgroundNoise_5-133989-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_187_Aria_0135.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-160614-A-48"
+    },
+    "output_file": "p263_187_Aria_0135_BackgroundNoise_5-160614-A-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_059_Jason_0065.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-38559-A-14"
+    },
+    "output_file": "p280_059_Jason_0065_BackgroundNoise_1-38559-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p230_194_John_0030.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-39443-A-19"
+    },
+    "output_file": "p230_194_John_0030_BackgroundNoise_2-39443-A-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_137_Aria_0105.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-157204-B-16"
+    },
+    "output_file": "p362_137_Aria_0105_BackgroundNoise_5-157204-B-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p374_099_Aria_0100.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-36400-A-23"
+    },
+    "output_file": "p374_099_Aria_0100_BackgroundNoise_1-36400-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_070_John_0046.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-119455-A-44"
+    },
+    "output_file": "p286_070_John_0046_BackgroundNoise_3-119455-A-44.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_126_Jason_0201.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-122820-A-36"
+    },
+    "output_file": "p310_126_Jason_0201_BackgroundNoise_2-122820-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_008_Sofia_0124.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-86160-A-27"
+    },
+    "output_file": "p253_008_Sofia_0124_BackgroundNoise_2-86160-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_293_Leo_0159.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-175000-A-40"
+    },
+    "output_file": "p231_293_Leo_0159_BackgroundNoise_4-175000-A-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p312_410_John_0010.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-18655-A-31"
+    },
+    "output_file": "p312_410_John_0010_BackgroundNoise_1-18655-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_401_Sofia_0061.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-112397-A-9"
+    },
+    "output_file": "p280_401_Sofia_0061_BackgroundNoise_3-112397-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p334_212_Jason_0082.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-181955-C-3"
+    },
+    "output_file": "p334_212_Jason_0082_BackgroundNoise_4-181955-C-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p264_434_Leo_0248.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-38560-A-14"
+    },
+    "output_file": "p264_434_Leo_0248_BackgroundNoise_1-38560-A-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_098_Aria_0218.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-165823-A-41"
+    },
+    "output_file": "p280_098_Aria_0218_BackgroundNoise_4-165823-A-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_273_Leo_0115.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-146200-A-36"
+    },
+    "output_file": "p310_273_Leo_0115_BackgroundNoise_4-146200-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p329_171_Jason_0182.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-155858-D-25"
+    },
+    "output_file": "p329_171_Jason_0182_BackgroundNoise_1-155858-D-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p274_465_Sofia_0237.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-164216-A-6"
+    },
+    "output_file": "p274_465_Sofia_0237_BackgroundNoise_3-164216-A-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_315_Sofia_0233.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-22694-B-20"
+    },
+    "output_file": "p317_315_Sofia_0233_BackgroundNoise_1-22694-B-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p244_317_Jason_0053.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-77160-A-3"
+    },
+    "output_file": "p244_317_Jason_0053_BackgroundNoise_1-77160-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_224_Sofia_0117.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-202795-A-3"
+    },
+    "output_file": "p340_224_Sofia_0117_BackgroundNoise_5-202795-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_081_Sofia_0006.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-126532-A-18"
+    },
+    "output_file": "p285_081_Sofia_0006_BackgroundNoise_4-126532-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p297_244_Leo_0032.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-107351-B-20"
+    },
+    "output_file": "p297_244_Leo_0032_BackgroundNoise_2-107351-B-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p278_222_Aria_0035.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-214362-A-17"
+    },
+    "output_file": "p278_222_Aria_0035_BackgroundNoise_5-214362-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_290_Aria_0072.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-181865-A-38"
+    },
+    "output_file": "p273_290_Aria_0072_BackgroundNoise_4-181865-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_040_John_0203.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-85168-A-39"
+    },
+    "output_file": "p362_040_John_0203_BackgroundNoise_1-85168-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_084_Aria_0110.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-108767-C-9"
+    },
+    "output_file": "p362_084_Aria_0110_BackgroundNoise_2-108767-C-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_272_John_0193.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-155312-A-0"
+    },
+    "output_file": "p310_272_John_0193_BackgroundNoise_3-155312-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_022_Sofia_0095.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-183487-A-1"
+    },
+    "output_file": "p279_022_Sofia_0095_BackgroundNoise_4-183487-A-1.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_313_John_0009.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-79220-A-17"
+    },
+    "output_file": "p266_313_John_0009_BackgroundNoise_1-79220-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p343_217_John_0143.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-253085-A-3"
+    },
+    "output_file": "p343_217_John_0143_BackgroundNoise_5-253085-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p249_252_Sofia_0033.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-88724-A-38"
+    },
+    "output_file": "p249_252_Sofia_0033_BackgroundNoise_2-88724-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p265_346_Aria_0075.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-186924-A-12"
+    },
+    "output_file": "p265_346_Aria_0075_BackgroundNoise_5-186924-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p240_028_Sofia_0042.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-170377-A-38"
+    },
+    "output_file": "p240_028_Sofia_0042_BackgroundNoise_3-170377-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p294_243_John_0238.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-58772-A-42"
+    },
+    "output_file": "p294_243_John_0238_BackgroundNoise_3-58772-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_105_John_0015.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-94807-A-29"
+    },
+    "output_file": "p335_105_John_0015_BackgroundNoise_2-94807-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_319_Leo_0123.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-102844-C-49"
+    },
+    "output_file": "p287_319_Leo_0123_BackgroundNoise_4-102844-C-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p364_223_Leo_0175.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-213836-D-9"
+    },
+    "output_file": "p364_223_Leo_0175_BackgroundNoise_5-213836-D-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p260_168_Sofia_0003.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-171653-A-41"
+    },
+    "output_file": "p260_168_Sofia_0003_BackgroundNoise_5-171653-A-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p292_166_Leo_0101.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-71964-B-4"
+    },
+    "output_file": "p292_166_Leo_0101_BackgroundNoise_3-71964-B-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p301_291_Jason_0234.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-253081-A-2"
+    },
+    "output_file": "p301_291_Jason_0234_BackgroundNoise_3-253081-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p376_016_Jason_0004.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-57316-A-13"
+    },
+    "output_file": "p376_016_Jason_0004_BackgroundNoise_1-57316-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_331_Jason_0131.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-29680-A-21"
+    },
+    "output_file": "p285_331_Jason_0131_BackgroundNoise_1-29680-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p258_193_John_0063.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-153057-A-43"
+    },
+    "output_file": "p258_193_John_0063_BackgroundNoise_3-153057-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p323_126_Sofia_0052.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-171706-A-23"
+    },
+    "output_file": "p323_126_Sofia_0052_BackgroundNoise_4-171706-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_393_Aria_0142.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-94343-A-25"
+    },
+    "output_file": "p270_393_Aria_0142_BackgroundNoise_3-94343-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_213_Aria_0246.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-46938-B-7"
+    },
+    "output_file": "p288_213_Aria_0246_BackgroundNoise_1-46938-B-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_328_Sofia_0145.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-73027-A-10"
+    },
+    "output_file": "p261_328_Sofia_0145_BackgroundNoise_2-73027-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p225_150_Leo_0039.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-182395-A-0"
+    },
+    "output_file": "p225_150_Leo_0039_BackgroundNoise_4-182395-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_174_John_0205.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-205090-A-32"
+    },
+    "output_file": "p270_174_John_0205_BackgroundNoise_5-205090-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p250_255_Sofia_0173.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-122066-A-45"
+    },
+    "output_file": "p250_255_Sofia_0173_BackgroundNoise_2-122066-A-45.wav",
+    "original_sample_rate": 22050
+  },
+  "p304_115_Jason_0040.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-182404-A-18"
+    },
+    "output_file": "p304_115_Jason_0040_BackgroundNoise_5-182404-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p307_260_Aria_0047.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-87936-B-46"
+    },
+    "output_file": "p307_260_Aria_0047_BackgroundNoise_3-87936-B-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_148_Leo_0026.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-83667-A-34"
+    },
+    "output_file": "p288_148_Leo_0026_BackgroundNoise_2-83667-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p313_178_Sofia_0225.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-81001-A-30"
+    },
+    "output_file": "p313_178_Sofia_0225_BackgroundNoise_1-81001-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_041_John_0172.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-99644-C-4"
+    },
+    "output_file": "p285_041_John_0172_BackgroundNoise_4-99644-C-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p282_014_Jason_0171.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-99193-A-4"
+    },
+    "output_file": "p282_014_Jason_0171_BackgroundNoise_4-99193-A-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_109_John_0216.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-64332-A-18"
+    },
+    "output_file": "p273_109_John_0216_BackgroundNoise_2-64332-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p374_069_Aria_0164.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-233645-A-37"
+    },
+    "output_file": "p374_069_Aria_0164_BackgroundNoise_5-233645-A-37.wav",
+    "original_sample_rate": 22050
+  },
+  "p286_011_Leo_0195.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-149294-A-41"
+    },
+    "output_file": "p286_011_Leo_0195_BackgroundNoise_4-149294-A-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p306_055_John_0152.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-238021-A-35"
+    },
+    "output_file": "p306_055_John_0152_BackgroundNoise_5-238021-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p260_025_John_0002.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-160128-A-7"
+    },
+    "output_file": "p260_025_John_0002_BackgroundNoise_2-160128-A-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p360_298_Sofia_0068.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172733-A-36"
+    },
+    "output_file": "p360_298_Sofia_0068_BackgroundNoise_4-172733-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p234_243_Jason_0134.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-122763-A-29"
+    },
+    "output_file": "p234_243_Jason_0134_BackgroundNoise_2-122763-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p298_179_Leo_0146.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-141682-A-36"
+    },
+    "output_file": "p298_179_Leo_0146_BackgroundNoise_2-141682-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p275_194_Jason_0054.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-70367-A-33"
+    },
+    "output_file": "p275_194_Jason_0054_BackgroundNoise_2-70367-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_267_Sofia_0087.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-156026-A-4"
+    },
+    "output_file": "p280_267_Sofia_0087_BackgroundNoise_5-156026-A-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p311_180_Jason_0148.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-120218-A-30"
+    },
+    "output_file": "p311_180_Jason_0148_BackgroundNoise_2-120218-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_126_Sofia_0051.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-223317-A-31"
+    },
+    "output_file": "p285_126_Sofia_0051_BackgroundNoise_5-223317-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_352_Aria_0121.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-46274-A-18"
+    },
+    "output_file": "p300_352_Aria_0121_BackgroundNoise_1-46274-A-18.wav",
+    "original_sample_rate": 22050
+  },
+  "p374_254_Aria_0229.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-133047-A-5"
+    },
+    "output_file": "p374_254_Aria_0229_BackgroundNoise_4-133047-A-5.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_112_Aria_0219.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-117615-C-48"
+    },
+    "output_file": "p345_112_Aria_0219_BackgroundNoise_2-117615-C-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p237_238_Jason_0019.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-172734-A-36"
+    },
+    "output_file": "p237_238_Jason_0019_BackgroundNoise_4-172734-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_264_Jason_0220.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-137162-A-11"
+    },
+    "output_file": "p228_264_Jason_0220_BackgroundNoise_2-137162-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p329_159_Jason_0038.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-60900-A-22"
+    },
+    "output_file": "p329_159_Jason_0038_BackgroundNoise_2-60900-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p267_329_Leo_0041.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-177957-D-40"
+    },
+    "output_file": "p267_329_Leo_0041_BackgroundNoise_5-177957-D-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p364_303_Leo_0212.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-182368-A-12"
+    },
+    "output_file": "p364_303_Leo_0212_BackgroundNoise_4-182368-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p304_127_Leo_0070.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-163606-A-16"
+    },
+    "output_file": "p304_127_Leo_0070_BackgroundNoise_4-163606-A-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p250_300_John_0056.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-29561-A-10"
+    },
+    "output_file": "p250_300_John_0056_BackgroundNoise_1-29561-A-10.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_194_Sofia_0141.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-81190-A-34"
+    },
+    "output_file": "p261_194_Sofia_0141_BackgroundNoise_2-81190-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_309_John_0187.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-43806-A-42"
+    },
+    "output_file": "p362_309_John_0187_BackgroundNoise_2-43806-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p326_201_Jason_0149.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-114609-B-28"
+    },
+    "output_file": "p326_201_Jason_0149_BackgroundNoise_2-114609-B-28.wav",
+    "original_sample_rate": 22050
+  },
+  "p376_295_John_0044.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-185619-A-21"
+    },
+    "output_file": "p376_295_John_0044_BackgroundNoise_4-185619-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p272_062_Leo_0057.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-204683-A-31"
+    },
+    "output_file": "p272_062_Leo_0057_BackgroundNoise_4-204683-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p314_019_Leo_0178.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-208021-A-1"
+    },
+    "output_file": "p314_019_Leo_0178_BackgroundNoise_4-208021-A-1.wav",
+    "original_sample_rate": 22050
+  },
+  "p247_014_Leo_0045.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-188878-A-30"
+    },
+    "output_file": "p247_014_Leo_0045_BackgroundNoise_4-188878-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p300_285_John_0158.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-94036-A-22"
+    },
+    "output_file": "p300_285_John_0158_BackgroundNoise_1-94036-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_003_John_0081.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-146877-B-31"
+    },
+    "output_file": "p345_003_John_0081_BackgroundNoise_2-146877-B-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_062_Sofia_0043.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-97392-A-0"
+    },
+    "output_file": "p270_062_Sofia_0043_BackgroundNoise_1-97392-A-0.wav",
+    "original_sample_rate": 22050
+  },
+  "p241_121_John_0017.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-217186-A-16"
+    },
+    "output_file": "p241_121_John_0017_BackgroundNoise_5-217186-A-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p253_243_Sofia_0109.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-137296-A-16"
+    },
+    "output_file": "p253_243_Sofia_0109_BackgroundNoise_1-137296-A-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_093_Jason_0125.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-100024-A-27"
+    },
+    "output_file": "p231_093_Jason_0125_BackgroundNoise_3-100024-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_321_Sofia_0209.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-D-20"
+    },
+    "output_file": "p287_321_Sofia_0209_BackgroundNoise_5-198411-D-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p254_192_Sofia_0126.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-60460-A-36"
+    },
+    "output_file": "p254_192_Sofia_0126_BackgroundNoise_1-60460-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p285_206_Sofia_0008.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-54918-B-14"
+    },
+    "output_file": "p285_206_Sofia_0008_BackgroundNoise_1-54918-B-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p333_044_Leo_0022.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-59565-A-46"
+    },
+    "output_file": "p333_044_Leo_0022_BackgroundNoise_2-59565-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p236_161_Aria_0078.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-84536-A-39"
+    },
+    "output_file": "p236_161_Aria_0078_BackgroundNoise_1-84536-A-39.wav",
+    "original_sample_rate": 22050
+  },
+  "p239_075_Sofia_0028.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-54961-A-23"
+    },
+    "output_file": "p239_075_Sofia_0028_BackgroundNoise_2-54961-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p347_036_Jason_0099.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-172649-A-40"
+    },
+    "output_file": "p347_036_Jason_0099_BackgroundNoise_1-172649-A-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_314_Sofia_0160.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-160614-H-48"
+    },
+    "output_file": "p279_314_Sofia_0160_BackgroundNoise_5-160614-H-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_191_Sofia_0190.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-98193-A-46"
+    },
+    "output_file": "p345_191_Sofia_0190_BackgroundNoise_3-98193-A-46.wav",
+    "original_sample_rate": 22050
+  },
+  "p229_150_Aria_0021.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-104761-B-7"
+    },
+    "output_file": "p229_150_Aria_0021_BackgroundNoise_3-104761-B-7.wav",
+    "original_sample_rate": 22050
+  },
+  "p301_109_Leo_0114.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-23222-B-19"
+    },
+    "output_file": "p301_109_Leo_0114_BackgroundNoise_1-23222-B-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p275_286_John_0014.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-C-20"
+    },
+    "output_file": "p275_286_John_0014_BackgroundNoise_5-198411-C-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p273_270_Jason_0153.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-251645-A-49"
+    },
+    "output_file": "p273_270_Jason_0153_BackgroundNoise_4-251645-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_201_Aria_0236.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-134699-C-16"
+    },
+    "output_file": "p340_201_Aria_0236_BackgroundNoise_3-134699-C-16.wav",
+    "original_sample_rate": 22050
+  },
+  "p231_131_Jason_0029.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-210571-A-38"
+    },
+    "output_file": "p231_131_Jason_0029_BackgroundNoise_5-210571-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p229_039_John_0102.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-119120-E-48"
+    },
+    "output_file": "p229_039_John_0102_BackgroundNoise_3-119120-E-48.wav",
+    "original_sample_rate": 22050
+  },
+  "p272_234_Sofia_0130.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-114254-A-30"
+    },
+    "output_file": "p272_234_Sofia_0130_BackgroundNoise_2-114254-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p262_121_Sofia_0062.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-118104-A-21"
+    },
+    "output_file": "p262_121_Sofia_0062_BackgroundNoise_2-118104-A-21.wav",
+    "original_sample_rate": 22050
+  },
+  "p263_388_Leo_0188.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-19872-B-36"
+    },
+    "output_file": "p263_388_Leo_0188_BackgroundNoise_1-19872-B-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p311_330_Leo_0200.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-216349-A-34"
+    },
+    "output_file": "p311_330_Leo_0200_BackgroundNoise_4-216349-A-34.wav",
+    "original_sample_rate": 22050
+  },
+  "p340_261_Jason_0226.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-94342-A-25"
+    },
+    "output_file": "p340_261_Jason_0226_BackgroundNoise_3-94342-A-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_164_Leo_0191.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-102581-B-29"
+    },
+    "output_file": "p287_164_Leo_0191_BackgroundNoise_2-102581-B-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_326_Leo_0116.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-188365-A-36"
+    },
+    "output_file": "p228_326_Leo_0116_BackgroundNoise_5-188365-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p257_143_Sofia_0169.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-162786-A-13"
+    },
+    "output_file": "p257_143_Sofia_0169_BackgroundNoise_3-162786-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p266_294_Leo_0162.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-212730-A-17"
+    },
+    "output_file": "p266_294_Leo_0162_BackgroundNoise_5-212730-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p258_155_John_0227.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-39835-B-9"
+    },
+    "output_file": "p258_155_John_0227_BackgroundNoise_1-39835-B-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_128_Leo_0048.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-149294-B-41"
+    },
+    "output_file": "p335_128_Leo_0048_BackgroundNoise_4-149294-B-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p360_141_Sofia_0085.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-188595-A-29"
+    },
+    "output_file": "p360_141_Sofia_0085_BackgroundNoise_4-188595-A-29.wav",
+    "original_sample_rate": 22050
+  },
+  "p267_229_Jason_0011.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-159445-B-45"
+    },
+    "output_file": "p267_229_Jason_0011_BackgroundNoise_3-159445-B-45.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_128_Jason_0189.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-121532-A-42"
+    },
+    "output_file": "p228_128_Jason_0189_BackgroundNoise_4-121532-A-42.wav",
+    "original_sample_rate": 22050
+  },
+  "p330_003_Leo_0127.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198411-C-20"
+    },
+    "output_file": "p330_003_Leo_0127_BackgroundNoise_5-198411-C-20.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_200_John_0165.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-173865-A-9"
+    },
+    "output_file": "p310_200_John_0165_BackgroundNoise_4-173865-A-9.wav",
+    "original_sample_rate": 22050
+  },
+  "p232_219_Jason_0083.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-58923-A-27"
+    },
+    "output_file": "p232_219_Jason_0083_BackgroundNoise_1-58923-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p228_195_Aria_0168.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-155858-D-25"
+    },
+    "output_file": "p228_195_Aria_0168_BackgroundNoise_1-155858-D-25.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_231_John_0138.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-235593-A-23"
+    },
+    "output_file": "p261_231_John_0138_BackgroundNoise_5-235593-A-23.wav",
+    "original_sample_rate": 22050
+  },
+  "p363_229_Sofia_0198.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-146200-A-36"
+    },
+    "output_file": "p363_229_Sofia_0198_BackgroundNoise_4-146200-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p269_326_Jason_0231.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-24524-A-19"
+    },
+    "output_file": "p269_326_Jason_0231_BackgroundNoise_1-24524-A-19.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_374_Aria_0147.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-196671-A-8"
+    },
+    "output_file": "p261_374_Aria_0147_BackgroundNoise_4-196671-A-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_268_Aria_0089.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-178997-A-24"
+    },
+    "output_file": "p345_268_Aria_0089_BackgroundNoise_5-178997-A-24.wav",
+    "original_sample_rate": 22050
+  },
+  "p261_189_Jason_0001.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-51433-A-17"
+    },
+    "output_file": "p261_189_Jason_0001_BackgroundNoise_1-51433-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p281_242_Aria_0249.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-107120-A-33"
+    },
+    "output_file": "p281_242_Aria_0249_BackgroundNoise_4-107120-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p238_319_Aria_0097.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-36929-A-47"
+    },
+    "output_file": "p238_319_Aria_0097_BackgroundNoise_1-36929-A-47.wav",
+    "original_sample_rate": 22050
+  },
+  "p293_039_John_0214.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-172649-E-40"
+    },
+    "output_file": "p293_039_John_0214_BackgroundNoise_1-172649-E-40.wav",
+    "original_sample_rate": 22050
+  },
+  "p323_098_John_0196.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-202111-A-3"
+    },
+    "output_file": "p323_098_John_0196_BackgroundNoise_1-202111-A-3.wav",
+    "original_sample_rate": 22050
+  },
+  "p287_090_Aria_0069.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-179984-A-38"
+    },
+    "output_file": "p287_090_Aria_0069_BackgroundNoise_4-179984-A-38.wav",
+    "original_sample_rate": 22050
+  },
+  "p234_207_Jason_0132.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-152912-A-26"
+    },
+    "output_file": "p234_207_Jason_0132_BackgroundNoise_3-152912-A-26.wav",
+    "original_sample_rate": 22050
+  },
+  "p317_081_Sofia_0192.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-177082-A-22"
+    },
+    "output_file": "p317_081_Sofia_0192_BackgroundNoise_3-177082-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p345_325_Leo_0151.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-155568-A-32"
+    },
+    "output_file": "p345_325_Leo_0151_BackgroundNoise_3-155568-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p279_019_Sofia_0088.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-50688-A-17"
+    },
+    "output_file": "p279_019_Sofia_0088_BackgroundNoise_1-50688-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p265_128_Leo_0059.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-118559-A-17"
+    },
+    "output_file": "p265_128_Leo_0059_BackgroundNoise_1-118559-A-17.wav",
+    "original_sample_rate": 22050
+  },
+  "p295_062_Leo_0037.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-61252-A-11"
+    },
+    "output_file": "p295_062_Leo_0037_BackgroundNoise_1-61252-A-11.wav",
+    "original_sample_rate": 22050
+  },
+  "p268_236_John_0163.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-99796-A-32"
+    },
+    "output_file": "p268_236_John_0163_BackgroundNoise_2-99796-A-32.wav",
+    "original_sample_rate": 22050
+  },
+  "p280_139_Aria_0204.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-101381-A-33"
+    },
+    "output_file": "p280_139_Aria_0204_BackgroundNoise_3-101381-A-33.wav",
+    "original_sample_rate": 22050
+  },
+  "p267_178_Aria_0136.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-187201-A-4"
+    },
+    "output_file": "p267_178_Aria_0136_BackgroundNoise_5-187201-A-4.wav",
+    "original_sample_rate": 22050
+  },
+  "p274_135_John_0174.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-198891-D-8"
+    },
+    "output_file": "p274_135_John_0174_BackgroundNoise_5-198891-D-8.wav",
+    "original_sample_rate": 22050
+  },
+  "p247_275_Sofia_0213.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-188365-A-36"
+    },
+    "output_file": "p247_275_Sofia_0213_BackgroundNoise_5-188365-A-36.wav",
+    "original_sample_rate": 22050
+  },
+  "p330_068_Jason_0202.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "4-154405-B-27"
+    },
+    "output_file": "p330_068_Jason_0202_BackgroundNoise_4-154405-B-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_037_Jason_0215.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-152895-A-31"
+    },
+    "output_file": "p288_037_Jason_0215_BackgroundNoise_2-152895-A-31.wav",
+    "original_sample_rate": 22050
+  },
+  "p316_266_Sofia_0156.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-250258-A-49"
+    },
+    "output_file": "p316_266_Sofia_0156_BackgroundNoise_5-250258-A-49.wav",
+    "original_sample_rate": 22050
+  },
+  "p304_392_John_0119.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-134049-A-6"
+    },
+    "output_file": "p304_392_John_0119_BackgroundNoise_2-134049-A-6.wav",
+    "original_sample_rate": 22050
+  },
+  "p318_164_Leo_0161.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-80844-A-13"
+    },
+    "output_file": "p318_164_Leo_0161_BackgroundNoise_2-80844-A-13.wav",
+    "original_sample_rate": 22050
+  },
+  "p288_294_Aria_0067.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-108760-B-14"
+    },
+    "output_file": "p288_294_Aria_0067_BackgroundNoise_2-108760-B-14.wav",
+    "original_sample_rate": 22050
+  },
+  "p270_301_Aria_0005.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-130330-A-22"
+    },
+    "output_file": "p270_301_Aria_0005_BackgroundNoise_3-130330-A-22.wav",
+    "original_sample_rate": 22050
+  },
+  "p278_378_Aria_0228.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-65748-A-12"
+    },
+    "output_file": "p278_378_Aria_0228_BackgroundNoise_3-65748-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p362_286_Jason_0074.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-135469-A-35"
+    },
+    "output_file": "p362_286_Jason_0074_BackgroundNoise_3-135469-A-35.wav",
+    "original_sample_rate": 22050
+  },
+  "p330_381_Leo_0018.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-238938-A-27"
+    },
+    "output_file": "p330_381_Leo_0018_BackgroundNoise_5-238938-A-27.wav",
+    "original_sample_rate": 22050
+  },
+  "p277_037_Jason_0066.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-120644-A-12"
+    },
+    "output_file": "p277_037_Jason_0066_BackgroundNoise_3-120644-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p363_211_Leo_0166.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "5-103422-A-2"
+    },
+    "output_file": "p363_211_Leo_0166_BackgroundNoise_5-103422-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p275_183_Sofia_0222.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-208757-A-2"
+    },
+    "output_file": "p275_183_Sofia_0222_BackgroundNoise_1-208757-A-2.wav",
+    "original_sample_rate": 22050
+  },
+  "p278_197_Jason_0194.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-118972-B-41"
+    },
+    "output_file": "p278_197_Jason_0194_BackgroundNoise_3-118972-B-41.wav",
+    "original_sample_rate": 22050
+  },
+  "p295_240_Jason_0024.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-157187-A-12"
+    },
+    "output_file": "p295_240_Jason_0024_BackgroundNoise_3-157187-A-12.wav",
+    "original_sample_rate": 22050
+  },
+  "p335_098_Leo_0240.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "1-254507-A-43"
+    },
+    "output_file": "p335_098_Leo_0240_BackgroundNoise_1-254507-A-43.wav",
+    "original_sample_rate": 22050
+  },
+  "p246_157_Leo_0230.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "3-154378-A-30"
+    },
+    "output_file": "p246_157_Leo_0230_BackgroundNoise_3-154378-A-30.wav",
+    "original_sample_rate": 22050
+  },
+  "p310_221_Jason_0094.wav": {
+    "method": "BackgroundNoise",
+    "hyperparameters": {
+      "background_file": "2-119139-A-31"
+    },
+    "output_file": "p310_221_Jason_0094_BackgroundNoise_2-119139-A-31.wav",
+    "original_sample_rate": 22050
+  }
+}
