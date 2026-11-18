@@ -14763,14 +14763,1294 @@
         }
       ],
       "total_files": 9
+    },
+    "chatterbox-flash__not-perturbed": {
+      "display_name": "Chatterbox-Flash (not-perturbed)",
+      "year": 2026,
+      "company": "Resemble AI",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p225_123_unknown_1052_0006.wav",
+          "filename": "p225_123_unknown_1052_0006.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p225_157_Q504139_31_0245.wav",
+          "filename": "p225_157_Q504139_31_0245.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p225_315_Q1121211_104_0104.wav",
+          "filename": "p225_315_Q1121211_104_0104.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p227_138_Q861908_37_0063.wav",
+          "filename": "p227_138_Q861908_37_0063.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p227_263_unknown_9594_0180.wav",
+          "filename": "p227_263_unknown_9594_0180.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p227_271_Q600635_7_0032.wav",
+          "filename": "p227_271_Q600635_7_0032.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p228_151_Q182408_85_0115.wav",
+          "filename": "p228_151_Q182408_85_0115.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p229_387_unknown_7919_0165.wav",
+          "filename": "p229_387_unknown_7919_0165.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p230_331_Q1018612_92_0127.wav",
+          "filename": "p230_331_Q1018612_92_0127.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/chatterbox-flash/p231_120_unknown_3814_0124.wav",
+          "filename": "p231_120_unknown_3814_0124.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/ResembleAI/chatterbox-flash",
+      "description": "Block-diffusion zero-shot TTS extending Chatterbox with a parallel masked decoder"
+    },
+    "chatterbox-flash__perturbed": {
+      "display_name": "Chatterbox-Flash (perturbed)",
+      "year": 2026,
+      "company": "Resemble AI",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p225_123_unknown_1052_0006_BackgroundNoise_1-17565-A-12.wav",
+          "filename": "p225_123_unknown_1052_0006_BackgroundNoise_1-17565-A-12.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p225_157_Q504139_31_0245_BackgroundNoise_5-233645-A-37.wav",
+          "filename": "p225_157_Q504139_31_0245_BackgroundNoise_5-233645-A-37.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p225_315_Q1121211_104_0104_BackgroundNoise_1-85184-A-39.wav",
+          "filename": "p225_315_Q1121211_104_0104_BackgroundNoise_1-85184-A-39.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p227_138_Q861908_37_0063_BackgroundNoise_3-166546-A-34.wav",
+          "filename": "p227_138_Q861908_37_0063_BackgroundNoise_3-166546-A-34.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p227_263_unknown_9594_0180_BackgroundNoise_1-47250-B-41.wav",
+          "filename": "p227_263_unknown_9594_0180_BackgroundNoise_1-47250-B-41.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p227_271_Q600635_7_0032_BackgroundNoise_4-126046-A-18.wav",
+          "filename": "p227_271_Q600635_7_0032_BackgroundNoise_4-126046-A-18.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p228_151_Q182408_85_0115_BackgroundNoise_5-235644-A-30.wav",
+          "filename": "p228_151_Q182408_85_0115_BackgroundNoise_5-235644-A-30.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p229_387_unknown_7919_0165_BackgroundNoise_4-155650-B-24.wav",
+          "filename": "p229_387_unknown_7919_0165_BackgroundNoise_4-155650-B-24.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p230_331_Q1018612_92_0127_BackgroundNoise_5-215634-A-17.wav",
+          "filename": "p230_331_Q1018612_92_0127_BackgroundNoise_5-215634-A-17.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/chatterbox-flash/BackgroundNoise/p231_120_unknown_3814_0124_BackgroundNoise_2-83934-A-5.wav",
+          "filename": "p231_120_unknown_3814_0124_BackgroundNoise_2-83934-A-5.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/ResembleAI/chatterbox-flash",
+      "description": "Block-diffusion zero-shot TTS extending Chatterbox with a parallel masked decoder"
+    },
+    "dots-tts-soar__not-perturbed": {
+      "display_name": "dots.tts (soar) (not-perturbed)",
+      "year": 2026,
+      "company": "rednote (dots.studio)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p226_367_Q970008_24_0074.wav",
+          "filename": "p226_367_Q970008_24_0074.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p228_242_unknown_12178_0214.wav",
+          "filename": "p228_242_unknown_12178_0214.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p228_243_Q178112_38_0182.wav",
+          "filename": "p228_243_Q178112_38_0182.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p229_006_Q1220_35_0230.wav",
+          "filename": "p229_006_Q1220_35_0230.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_044_Q348471_56_0175.wav",
+          "filename": "p230_044_Q348471_56_0175.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_060_unknown_1043_0096.wav",
+          "filename": "p230_060_unknown_1043_0096.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_076_unknown_437_0114.wav",
+          "filename": "p230_076_unknown_437_0114.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_113_unknown_791_0055.wav",
+          "filename": "p230_113_unknown_791_0055.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_347_unknown_4500_0244.wav",
+          "filename": "p230_347_unknown_4500_0244.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/dots-tts-soar/p230_375_Q1305290_93_0154.wav",
+          "filename": "p230_375_Q1305290_93_0154.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/dots-studio/dots.tts-soar",
+      "description": "Flow-matching zero-shot TTS with self-corrective alignment post-training"
+    },
+    "dots-tts-soar__perturbed": {
+      "display_name": "dots.tts (soar) (perturbed)",
+      "year": 2026,
+      "company": "rednote (dots.studio)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p226_367_Q970008_24_0074_BackgroundNoise_4-186962-A-44.wav",
+          "filename": "p226_367_Q970008_24_0074_BackgroundNoise_4-186962-A-44.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p228_242_unknown_12178_0214_BackgroundNoise_1-105224-A-22.wav",
+          "filename": "p228_242_unknown_12178_0214_BackgroundNoise_1-105224-A-22.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p228_243_Q178112_38_0182_BackgroundNoise_3-68630-C-40.wav",
+          "filename": "p228_243_Q178112_38_0182_BackgroundNoise_3-68630-C-40.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p229_006_Q1220_35_0230_BackgroundNoise_5-235671-A-38.wav",
+          "filename": "p229_006_Q1220_35_0230_BackgroundNoise_5-235671-A-38.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_044_Q348471_56_0175_BackgroundNoise_1-19501-A-7.wav",
+          "filename": "p230_044_Q348471_56_0175_BackgroundNoise_1-19501-A-7.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_060_unknown_1043_0096_BackgroundNoise_3-146697-A-43.wav",
+          "filename": "p230_060_unknown_1043_0096_BackgroundNoise_3-146697-A-43.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_076_unknown_437_0114_BackgroundNoise_4-181955-A-3.wav",
+          "filename": "p230_076_unknown_437_0114_BackgroundNoise_4-181955-A-3.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_113_unknown_791_0055_BackgroundNoise_1-24074-A-43.wav",
+          "filename": "p230_113_unknown_791_0055_BackgroundNoise_1-24074-A-43.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_347_unknown_4500_0244_BackgroundNoise_4-165606-A-45.wav",
+          "filename": "p230_347_unknown_4500_0244_BackgroundNoise_4-165606-A-45.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/dots-tts-soar/BackgroundNoise/p230_375_Q1305290_93_0154_BackgroundNoise_4-182795-A-14.wav",
+          "filename": "p230_375_Q1305290_93_0154_BackgroundNoise_4-182795-A-14.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/dots-studio/dots.tts-soar",
+      "description": "Flow-matching zero-shot TTS with self-corrective alignment post-training"
+    },
+    "f5-tts__not-perturbed": {
+      "display_name": "F5-TTS (v1 Base) (not-perturbed)",
+      "year": 2024,
+      "company": "SJTU / SWivid (Research)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p226_178_unknown_10050_0077.wav",
+          "filename": "p226_178_unknown_10050_0077.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p227_156_Q448235_160_0172.wav",
+          "filename": "p227_156_Q448235_160_0172.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p227_358_unknown_1813_0009.wav",
+          "filename": "p227_358_unknown_1813_0009.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p228_366_Q229528_18_0189.wav",
+          "filename": "p228_366_Q229528_18_0189.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p229_100_unknown_3011_0136.wav",
+          "filename": "p229_100_unknown_3011_0136.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p229_136_Q150943_5_0153.wav",
+          "filename": "p229_136_Q150943_5_0153.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p229_241_Q2383951_23_0170.wav",
+          "filename": "p229_241_Q2383951_23_0170.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p229_322_Q336171_54_0148.wav",
+          "filename": "p229_322_Q336171_54_0148.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p230_118_Q55406_156_0051.wav",
+          "filename": "p230_118_Q55406_156_0051.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/f5-tts/p230_236_unknown_9166_0129.wav",
+          "filename": "p230_236_unknown_9166_0129.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/SWivid/F5-TTS",
+      "description": "Flow-matching non-autoregressive zero-shot TTS with Diffusion Transformer"
+    },
+    "f5-tts__perturbed": {
+      "display_name": "F5-TTS (v1 Base) (perturbed)",
+      "year": 2024,
+      "company": "SJTU / SWivid (Research)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p226_178_unknown_10050_0077_BackgroundNoise_3-151273-A-35.wav",
+          "filename": "p226_178_unknown_10050_0077_BackgroundNoise_3-151273-A-35.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p227_156_Q448235_160_0172_BackgroundNoise_4-149294-A-41.wav",
+          "filename": "p227_156_Q448235_160_0172_BackgroundNoise_4-149294-A-41.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p227_358_unknown_1813_0009_BackgroundNoise_4-185415-A-21.wav",
+          "filename": "p227_358_unknown_1813_0009_BackgroundNoise_4-185415-A-21.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p228_366_Q229528_18_0189_BackgroundNoise_5-253101-C-49.wav",
+          "filename": "p228_366_Q229528_18_0189_BackgroundNoise_5-253101-C-49.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p229_100_unknown_3011_0136_BackgroundNoise_5-263775-A-26.wav",
+          "filename": "p229_100_unknown_3011_0136_BackgroundNoise_5-263775-A-26.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p229_136_Q150943_5_0153_BackgroundNoise_1-43807-C-47.wav",
+          "filename": "p229_136_Q150943_5_0153_BackgroundNoise_1-43807-C-47.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p229_241_Q2383951_23_0170_BackgroundNoise_4-167063-A-11.wav",
+          "filename": "p229_241_Q2383951_23_0170_BackgroundNoise_4-167063-A-11.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p229_322_Q336171_54_0148_BackgroundNoise_4-210309-A-31.wav",
+          "filename": "p229_322_Q336171_54_0148_BackgroundNoise_4-210309-A-31.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p230_118_Q55406_156_0051_BackgroundNoise_2-37806-C-40.wav",
+          "filename": "p230_118_Q55406_156_0051_BackgroundNoise_2-37806-C-40.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/f5-tts/BackgroundNoise/p230_236_unknown_9166_0129_BackgroundNoise_1-9887-B-49.wav",
+          "filename": "p230_236_unknown_9166_0129_BackgroundNoise_1-9887-B-49.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/SWivid/F5-TTS",
+      "description": "Flow-matching non-autoregressive zero-shot TTS with Diffusion Transformer"
+    },
+    "kitten-tts-2__not-perturbed": {
+      "display_name": "Kitten TTS 2 (not-perturbed)",
+      "year": 2026,
+      "company": "KittenML",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p225_268_Q5494953_13_0151.wav",
+          "filename": "p225_268_Q5494953_13_0151.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p226_270_unknown_3841_0161.wav",
+          "filename": "p226_270_unknown_3841_0161.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p227_044_Q336024_47_0204.wav",
+          "filename": "p227_044_Q336024_47_0204.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p227_046_unknown_1544_0051.wav",
+          "filename": "p227_046_unknown_1544_0051.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p227_194_unknown_7072_0106.wav",
+          "filename": "p227_194_unknown_7072_0106.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p227_254_Q178112_45_0045.wav",
+          "filename": "p227_254_Q178112_45_0045.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p227_365_Q178112_59_0092.wav",
+          "filename": "p227_365_Q178112_59_0092.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p228_181_Q976445_76_0083.wav",
+          "filename": "p228_181_Q976445_76_0083.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p228_181_unknown_5781_0008.wav",
+          "filename": "p228_181_unknown_5781_0008.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/kitten-tts-2/p229_225_unknown_10880_0029.wav",
+          "filename": "p229_225_unknown_10880_0029.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/KittenML/kitten-tts-2",
+      "description": "1.7B speech language model with in-context voice cloning"
+    },
+    "kitten-tts-2__perturbed": {
+      "display_name": "Kitten TTS 2 (perturbed)",
+      "year": 2026,
+      "company": "KittenML",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p225_268_Q5494953_13_0151_BackgroundNoise_3-118658-A-41.wav",
+          "filename": "p225_268_Q5494953_13_0151_BackgroundNoise_3-118658-A-41.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p226_270_unknown_3841_0161_BackgroundNoise_3-155766-A-13.wav",
+          "filename": "p226_270_unknown_3841_0161_BackgroundNoise_3-155766-A-13.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p227_044_Q336024_47_0204_BackgroundNoise_4-185575-C-20.wav",
+          "filename": "p227_044_Q336024_47_0204_BackgroundNoise_4-185575-C-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p227_046_unknown_1544_0051_BackgroundNoise_3-117793-A-37.wav",
+          "filename": "p227_046_unknown_1544_0051_BackgroundNoise_3-117793-A-37.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p227_194_unknown_7072_0106_BackgroundNoise_1-80841-A-13.wav",
+          "filename": "p227_194_unknown_7072_0106_BackgroundNoise_1-80841-A-13.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p227_254_Q178112_45_0045_BackgroundNoise_5-251489-A-24.wav",
+          "filename": "p227_254_Q178112_45_0045_BackgroundNoise_5-251489-A-24.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p227_365_Q178112_59_0092_BackgroundNoise_4-261068-A-30.wav",
+          "filename": "p227_365_Q178112_59_0092_BackgroundNoise_4-261068-A-30.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p228_181_Q976445_76_0083_BackgroundNoise_2-52085-B-4.wav",
+          "filename": "p228_181_Q976445_76_0083_BackgroundNoise_2-52085-B-4.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p228_181_unknown_5781_0008_BackgroundNoise_1-31482-B-42.wav",
+          "filename": "p228_181_unknown_5781_0008_BackgroundNoise_1-31482-B-42.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/kitten-tts-2/BackgroundNoise/p229_225_unknown_10880_0029_BackgroundNoise_3-158476-A-12.wav",
+          "filename": "p229_225_unknown_10880_0029_BackgroundNoise_3-158476-A-12.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/KittenML/kitten-tts-2",
+      "description": "1.7B speech language model with in-context voice cloning"
+    },
+    "magpie-tts__not-perturbed": {
+      "display_name": "Magpie TTS Multilingual (357M) (not-perturbed)",
+      "year": 2026,
+      "company": "NVIDIA",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p225_150_Leo_0039.wav",
+          "filename": "p225_150_Leo_0039.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p226_013_Jason_0244.wav",
+          "filename": "p226_013_Jason_0244.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p227_152_Aria_0245.wav",
+          "filename": "p227_152_Aria_0245.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p227_299_Aria_0064.wav",
+          "filename": "p227_299_Aria_0064.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p228_128_Jason_0189.wav",
+          "filename": "p228_128_Jason_0189.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p228_195_Aria_0168.wav",
+          "filename": "p228_195_Aria_0168.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p228_264_Jason_0220.wav",
+          "filename": "p228_264_Jason_0220.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p228_307_Sofia_0242.wav",
+          "filename": "p228_307_Sofia_0242.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p228_326_Leo_0116.wav",
+          "filename": "p228_326_Leo_0116.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/magpie-tts/p229_039_John_0102.wav",
+          "filename": "p229_039_John_0102.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/nvidia/magpie_tts_multilingual_357m",
+      "description": "Multilingual encoder-decoder TTS with official speaker voices (v2607)"
+    },
+    "magpie-tts__perturbed": {
+      "display_name": "Magpie TTS Multilingual (357M) (perturbed)",
+      "year": 2026,
+      "company": "NVIDIA",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p225_150_Leo_0039_BackgroundNoise_4-182395-A-0.wav",
+          "filename": "p225_150_Leo_0039_BackgroundNoise_4-182395-A-0.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p226_013_Jason_0244_BackgroundNoise_5-198411-C-20.wav",
+          "filename": "p226_013_Jason_0244_BackgroundNoise_5-198411-C-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p227_152_Aria_0245_BackgroundNoise_4-184235-A-28.wav",
+          "filename": "p227_152_Aria_0245_BackgroundNoise_4-184235-A-28.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p227_299_Aria_0064_BackgroundNoise_5-235956-A-47.wav",
+          "filename": "p227_299_Aria_0064_BackgroundNoise_5-235956-A-47.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p228_128_Jason_0189_BackgroundNoise_4-121532-A-42.wav",
+          "filename": "p228_128_Jason_0189_BackgroundNoise_4-121532-A-42.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p228_195_Aria_0168_BackgroundNoise_1-155858-D-25.wav",
+          "filename": "p228_195_Aria_0168_BackgroundNoise_1-155858-D-25.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p228_264_Jason_0220_BackgroundNoise_2-137162-A-11.wav",
+          "filename": "p228_264_Jason_0220_BackgroundNoise_2-137162-A-11.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p228_307_Sofia_0242_BackgroundNoise_1-76831-A-42.wav",
+          "filename": "p228_307_Sofia_0242_BackgroundNoise_1-76831-A-42.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p228_326_Leo_0116_BackgroundNoise_5-188365-A-36.wav",
+          "filename": "p228_326_Leo_0116_BackgroundNoise_5-188365-A-36.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/magpie-tts/BackgroundNoise/p229_039_John_0102_BackgroundNoise_3-119120-E-48.wav",
+          "filename": "p229_039_John_0102_BackgroundNoise_3-119120-E-48.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/nvidia/magpie_tts_multilingual_357m",
+      "description": "Multilingual encoder-decoder TTS with official speaker voices (v2607)"
+    },
+    "omnivoice__not-perturbed": {
+      "display_name": "OmniVoice (not-perturbed)",
+      "year": 2026,
+      "company": "k2-fsa (Research)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p225_293_unknown_2911_0233.wav",
+          "filename": "p225_293_unknown_2911_0233.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p227_025_Q714718_145_0079.wav",
+          "filename": "p227_025_Q714718_145_0079.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p227_156_Q390321_16_0121.wav",
+          "filename": "p227_156_Q390321_16_0121.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p227_308_Q115367_12_0242.wav",
+          "filename": "p227_308_Q115367_12_0242.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p228_009_Q435060_119_0174.wav",
+          "filename": "p228_009_Q435060_119_0174.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p228_068_Q562912_49_0005.wav",
+          "filename": "p228_068_Q562912_49_0005.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p228_280_Q459814_162_0071.wav",
+          "filename": "p228_280_Q459814_162_0071.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p228_347_Q55406_308_0197.wav",
+          "filename": "p228_347_Q55406_308_0197.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p229_309_unknown_7194_0221.wav",
+          "filename": "p229_309_unknown_7194_0221.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/omnivoice/p230_096_Q1018612_77_0214.wav",
+          "filename": "p230_096_Q1018612_77_0214.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/k2-fsa/OmniVoice",
+      "description": "Omnilingual zero-shot TTS built on a diffusion language model"
+    },
+    "omnivoice__perturbed": {
+      "display_name": "OmniVoice (perturbed)",
+      "year": 2026,
+      "company": "k2-fsa (Research)",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p225_293_unknown_2911_0233_BackgroundNoise_2-39443-A-19.wav",
+          "filename": "p225_293_unknown_2911_0233_BackgroundNoise_2-39443-A-19.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p227_025_Q714718_145_0079_BackgroundNoise_5-197121-A-45.wav",
+          "filename": "p227_025_Q714718_145_0079_BackgroundNoise_5-197121-A-45.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p227_156_Q390321_16_0121_BackgroundNoise_4-128659-A-33.wav",
+          "filename": "p227_156_Q390321_16_0121_BackgroundNoise_4-128659-A-33.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p227_308_Q115367_12_0242_BackgroundNoise_4-150364-A-46.wav",
+          "filename": "p227_308_Q115367_12_0242_BackgroundNoise_4-150364-A-46.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p228_009_Q435060_119_0174_BackgroundNoise_4-144468-B-27.wav",
+          "filename": "p228_009_Q435060_119_0174_BackgroundNoise_4-144468-B-27.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p228_068_Q562912_49_0005_BackgroundNoise_2-209478-A-25.wav",
+          "filename": "p228_068_Q562912_49_0005_BackgroundNoise_2-209478-A-25.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p228_280_Q459814_162_0071_BackgroundNoise_1-91359-A-11.wav",
+          "filename": "p228_280_Q459814_162_0071_BackgroundNoise_1-91359-A-11.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p228_347_Q55406_308_0197_BackgroundNoise_2-72970-A-10.wav",
+          "filename": "p228_347_Q55406_308_0197_BackgroundNoise_2-72970-A-10.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p229_309_unknown_7194_0221_BackgroundNoise_2-83536-A-27.wav",
+          "filename": "p229_309_unknown_7194_0221_BackgroundNoise_2-83536-A-27.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/omnivoice/BackgroundNoise/p230_096_Q1018612_77_0214_BackgroundNoise_5-217158-A-0.wav",
+          "filename": "p230_096_Q1018612_77_0214_BackgroundNoise_5-217158-A-0.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/k2-fsa/OmniVoice",
+      "description": "Omnilingual zero-shot TTS built on a diffusion language model"
+    },
+    "pocket-tts__not-perturbed": {
+      "display_name": "Pocket TTS (not-perturbed)",
+      "year": 2026,
+      "company": "Kyutai",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p225_291_michael_0225.wav",
+          "filename": "p225_291_michael_0225.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p226_291_mary_0006.wav",
+          "filename": "p226_291_mary_0006.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p227_256_jane_0239.wav",
+          "filename": "p227_256_jane_0239.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p227_292_jane_0170.wav",
+          "filename": "p227_292_jane_0170.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p227_304_vera_0106.wav",
+          "filename": "p227_304_vera_0106.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p227_376_eve_0001.wav",
+          "filename": "p227_376_eve_0001.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p228_258_george_0196.wav",
+          "filename": "p228_258_george_0196.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p228_365_peter_yearsley_0134.wav",
+          "filename": "p228_365_peter_yearsley_0134.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p229_023_eponine_0205.wav",
+          "filename": "p229_023_eponine_0205.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/pocket-tts/p230_150_peter_yearsley_0044.wav",
+          "filename": "p230_150_peter_yearsley_0044.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/kyutai/pocket-tts-without-voice-cloning",
+      "description": "Lightweight CPU-friendly TTS with official preset voices"
+    },
+    "pocket-tts__perturbed": {
+      "display_name": "Pocket TTS (perturbed)",
+      "year": 2026,
+      "company": "Kyutai",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p225_291_michael_0225_BackgroundNoise_4-167063-B-11.wav",
+          "filename": "p225_291_michael_0225_BackgroundNoise_4-167063-B-11.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p226_291_mary_0006_BackgroundNoise_1-19118-A-24.wav",
+          "filename": "p226_291_mary_0006_BackgroundNoise_1-19118-A-24.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p227_256_jane_0239_BackgroundNoise_5-151085-A-20.wav",
+          "filename": "p227_256_jane_0239_BackgroundNoise_5-151085-A-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p227_292_jane_0170_BackgroundNoise_2-104168-A-32.wav",
+          "filename": "p227_292_jane_0170_BackgroundNoise_2-104168-A-32.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p227_304_vera_0106_BackgroundNoise_4-210000-B-23.wav",
+          "filename": "p227_304_vera_0106_BackgroundNoise_4-210000-B-23.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p227_376_eve_0001_BackgroundNoise_1-21934-A-38.wav",
+          "filename": "p227_376_eve_0001_BackgroundNoise_1-21934-A-38.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p228_258_george_0196_BackgroundNoise_2-117615-E-48.wav",
+          "filename": "p228_258_george_0196_BackgroundNoise_2-117615-E-48.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p228_365_peter_yearsley_0134_BackgroundNoise_1-60997-A-20.wav",
+          "filename": "p228_365_peter_yearsley_0134_BackgroundNoise_1-60997-A-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p229_023_eponine_0205_BackgroundNoise_2-114609-A-28.wav",
+          "filename": "p229_023_eponine_0205_BackgroundNoise_2-114609-A-28.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/pocket-tts/BackgroundNoise/p230_150_peter_yearsley_0044_BackgroundNoise_2-52085-B-4.wav",
+          "filename": "p230_150_peter_yearsley_0044_BackgroundNoise_2-52085-B-4.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/kyutai/pocket-tts-without-voice-cloning",
+      "description": "Lightweight CPU-friendly TTS with official preset voices"
+    },
+    "supertonic-3__not-perturbed": {
+      "display_name": "Supertonic 3 (not-perturbed)",
+      "year": 2026,
+      "company": "Supertone",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p225_144_F2_0137.wav",
+          "filename": "p225_144_F2_0137.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p225_276_M1_0000.wav",
+          "filename": "p225_276_M1_0000.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p225_337_F3_0175.wav",
+          "filename": "p225_337_F3_0175.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p226_071_F4_0048.wav",
+          "filename": "p226_071_F4_0048.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p226_161_F4_0085.wav",
+          "filename": "p226_161_F4_0085.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p227_116_F4_0046.wav",
+          "filename": "p227_116_F4_0046.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p227_209_F5_0116.wav",
+          "filename": "p227_209_F5_0116.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p227_293_M4_0059.wav",
+          "filename": "p227_293_M4_0059.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p228_083_F1_0118.wav",
+          "filename": "p228_083_F1_0118.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/supertonic-3/p228_097_F5_0135.wav",
+          "filename": "p228_097_F5_0135.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/Supertone/supertonic-3",
+      "description": "Fast on-device multilingual ONNX TTS with preset voice styles"
+    },
+    "supertonic-3__perturbed": {
+      "display_name": "Supertonic 3 (perturbed)",
+      "year": 2026,
+      "company": "Supertone",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p225_144_F2_0137_BackgroundNoise_3-144253-A-29.wav",
+          "filename": "p225_144_F2_0137_BackgroundNoise_3-144253-A-29.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p225_276_M1_0000_BackgroundNoise_4-167642-A-21.wav",
+          "filename": "p225_276_M1_0000_BackgroundNoise_4-167642-A-21.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p225_337_F3_0175_BackgroundNoise_5-234879-A-1.wav",
+          "filename": "p225_337_F3_0175_BackgroundNoise_5-234879-A-1.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p226_071_F4_0048_BackgroundNoise_4-156993-A-19.wav",
+          "filename": "p226_071_F4_0048_BackgroundNoise_4-156993-A-19.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p226_161_F4_0085_BackgroundNoise_2-59241-A-35.wav",
+          "filename": "p226_161_F4_0085_BackgroundNoise_2-59241-A-35.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p227_116_F4_0046_BackgroundNoise_1-58923-A-27.wav",
+          "filename": "p227_116_F4_0046_BackgroundNoise_1-58923-A-27.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p227_209_F5_0116_BackgroundNoise_5-244178-A-32.wav",
+          "filename": "p227_209_F5_0116_BackgroundNoise_5-244178-A-32.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p227_293_M4_0059_BackgroundNoise_3-167096-A-31.wav",
+          "filename": "p227_293_M4_0059_BackgroundNoise_3-167096-A-31.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p228_083_F1_0118_BackgroundNoise_3-95697-A-5.wav",
+          "filename": "p228_083_F1_0118_BackgroundNoise_3-95697-A-5.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/supertonic-3/BackgroundNoise/p228_097_F5_0135_BackgroundNoise_5-219318-A-31.wav",
+          "filename": "p228_097_F5_0135_BackgroundNoise_5-219318-A-31.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/Supertone/supertonic-3",
+      "description": "Fast on-device multilingual ONNX TTS with preset voice styles"
+    },
+    "voxcpm2__not-perturbed": {
+      "display_name": "VoxCPM2 (not-perturbed)",
+      "year": 2026,
+      "company": "OpenBMB",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p225_336_Q318292_19_0007.wav",
+          "filename": "p225_336_Q318292_19_0007.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p226_181_unknown_10872_0150.wav",
+          "filename": "p226_181_unknown_10872_0150.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p226_239_Q336024_83_0154.wav",
+          "filename": "p226_239_Q336024_83_0154.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p227_068_unknown_2565_0164.wav",
+          "filename": "p227_068_unknown_2565_0164.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p227_319_Q504139_13_0134.wav",
+          "filename": "p227_319_Q504139_13_0134.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p228_066_unknown_5488_0060.wav",
+          "filename": "p228_066_unknown_5488_0060.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p228_299_Q575795_390_0176.wav",
+          "filename": "p228_299_Q575795_390_0176.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p229_128_Q370155_129_0057.wav",
+          "filename": "p229_128_Q370155_129_0057.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p229_151_Q435060_55_0223.wav",
+          "filename": "p229_151_Q435060_55_0223.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxcpm2/p229_223_unknown_7680_0181.wav",
+          "filename": "p229_223_unknown_7680_0181.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/openbmb/VoxCPM2",
+      "description": "Tokenizer-free multilingual TTS with voice design and cloning"
+    },
+    "voxcpm2__perturbed": {
+      "display_name": "VoxCPM2 (perturbed)",
+      "year": 2026,
+      "company": "OpenBMB",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p225_336_Q318292_19_0007_BackgroundNoise_4-143118-A-7.wav",
+          "filename": "p225_336_Q318292_19_0007_BackgroundNoise_4-143118-A-7.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p226_181_unknown_10872_0150_BackgroundNoise_3-155584-A-14.wav",
+          "filename": "p226_181_unknown_10872_0150_BackgroundNoise_3-155584-A-14.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p226_239_Q336024_83_0154_BackgroundNoise_4-59579-B-20.wav",
+          "filename": "p226_239_Q336024_83_0154_BackgroundNoise_4-59579-B-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p227_068_unknown_2565_0164_BackgroundNoise_3-141240-B-44.wav",
+          "filename": "p227_068_unknown_2565_0164_BackgroundNoise_3-141240-B-44.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p227_319_Q504139_13_0134_BackgroundNoise_2-39945-B-19.wav",
+          "filename": "p227_319_Q504139_13_0134_BackgroundNoise_2-39945-B-19.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p228_066_unknown_5488_0060_BackgroundNoise_3-103401-A-33.wav",
+          "filename": "p228_066_unknown_5488_0060_BackgroundNoise_3-103401-A-33.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p228_299_Q575795_390_0176_BackgroundNoise_4-90014-A-42.wav",
+          "filename": "p228_299_Q575795_390_0176_BackgroundNoise_4-90014-A-42.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p229_128_Q370155_129_0057_BackgroundNoise_4-202749-A-13.wav",
+          "filename": "p229_128_Q370155_129_0057_BackgroundNoise_4-202749-A-13.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p229_151_Q435060_55_0223_BackgroundNoise_1-208757-C-2.wav",
+          "filename": "p229_151_Q435060_55_0223_BackgroundNoise_1-208757-C-2.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxcpm2/BackgroundNoise/p229_223_unknown_7680_0181_BackgroundNoise_2-50668-B-41.wav",
+          "filename": "p229_223_unknown_7680_0181_BackgroundNoise_2-50668-B-41.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/openbmb/VoxCPM2",
+      "description": "Tokenizer-free multilingual TTS with voice design and cloning"
+    },
+    "voxtral-4b-tts__not-perturbed": {
+      "display_name": "Voxtral TTS (4B) (not-perturbed)",
+      "year": 2026,
+      "company": "Mistral AI",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "not-perturbed",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p226_132_casual_male_0123.wav",
+          "filename": "p226_132_casual_male_0123.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p226_223_cheerful_female_0120.wav",
+          "filename": "p226_223_cheerful_female_0120.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p227_029_neutral_female_0067.wav",
+          "filename": "p227_029_neutral_female_0067.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p227_347_cheerful_female_0107.wav",
+          "filename": "p227_347_cheerful_female_0107.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p228_156_casual_male_0224.wav",
+          "filename": "p228_156_casual_male_0224.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p228_237_neutral_male_0010.wav",
+          "filename": "p228_237_neutral_male_0010.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p229_076_cheerful_female_0194.wav",
+          "filename": "p229_076_cheerful_female_0194.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p230_065_neutral_male_0143.wav",
+          "filename": "p230_065_neutral_male_0143.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p230_271_neutral_female_0001.wav",
+          "filename": "p230_271_neutral_female_0001.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/not-perturbed/voxtral-4b-tts/p231_001_casual_female_0094.wav",
+          "filename": "p231_001_casual_female_0094.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 250,
+      "github": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "description": "Open-weights 4B text-to-speech model with preset voices"
+    },
+    "voxtral-4b-tts__perturbed": {
+      "display_name": "Voxtral TTS (4B) (perturbed)",
+      "year": 2026,
+      "company": "Mistral AI",
+      "category": "Deepfake",
+      "subcategory": "Audio",
+      "variant": "perturbed",
+      "file_count": 750,
+      "sample_files": [
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p226_132_casual_male_0123_BackgroundNoise_3-143560-A-47.wav",
+          "filename": "p226_132_casual_male_0123_BackgroundNoise_3-143560-A-47.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p226_223_cheerful_female_0120_BackgroundNoise_5-235644-A-30.wav",
+          "filename": "p226_223_cheerful_female_0120_BackgroundNoise_5-235644-A-30.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p227_029_neutral_female_0067_BackgroundNoise_3-152007-D-20.wav",
+          "filename": "p227_029_neutral_female_0067_BackgroundNoise_3-152007-D-20.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p227_347_cheerful_female_0107_BackgroundNoise_2-209471-A-25.wav",
+          "filename": "p227_347_cheerful_female_0107_BackgroundNoise_2-209471-A-25.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p228_156_casual_male_0224_BackgroundNoise_4-211502-A-30.wav",
+          "filename": "p228_156_casual_male_0224_BackgroundNoise_4-211502-A-30.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p228_237_neutral_male_0010_BackgroundNoise_4-135439-A-18.wav",
+          "filename": "p228_237_neutral_male_0010_BackgroundNoise_4-135439-A-18.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p229_076_cheerful_female_0194_BackgroundNoise_1-7974-B-49.wav",
+          "filename": "p229_076_cheerful_female_0194_BackgroundNoise_1-7974-B-49.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p230_065_neutral_male_0143_BackgroundNoise_1-21934-A-38.wav",
+          "filename": "p230_065_neutral_male_0143_BackgroundNoise_1-21934-A-38.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p230_271_neutral_female_0001_BackgroundNoise_4-181999-A-36.wav",
+          "filename": "p230_271_neutral_female_0001_BackgroundNoise_4-181999-A-36.wav",
+          "type": "audio"
+        },
+        {
+          "path": "Deepfake_Audio/perturbed/voxtral-4b-tts/BackgroundNoise/p231_001_casual_female_0094_BackgroundNoise_2-95258-B-1.wav",
+          "filename": "p231_001_casual_female_0094_BackgroundNoise_2-95258-B-1.wav",
+          "type": "audio"
+        }
+      ],
+      "total_files": 750,
+      "github": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "description": "Open-weights 4B text-to-speech model with preset voices"
     }
   },
   "stats": {
-    "total_generators": 244,
-    "total_files": 73794,
+    "total_generators": 264,
+    "total_files": 83794,
     "categories": {
       "AI Generated": 23700,
-      "Deepfake": 50012,
+      "Deepfake": 60012,
       "In the Wild": 82
     },
     "year_range": [
@@ -14809,33 +16089,41 @@
       "Ideogram",
       "Index AI (Research)",
       "James Betker (Research)",
+      "k2-fsa (Research)",
       "Kakao Enterprise (Research)",
+      "KittenML",
       "Krea AI",
       "Kuaishou",
+      "Kyutai",
       "Luma AI",
       "Meituan",
       "Meta",
       "MetaVoice",
       "Microsoft",
       "Midjourney",
+      "Mistral AI",
       "MyShell",
       "Nari Labs",
       "NVIDIA",
       "NVIDIA / Coqui",
       "Open Source",
       "OpenAI",
+      "OpenBMB",
       "Pika Labs",
       "Playground AI",
       "Real-world",
       "Recraft",
+      "rednote (dots.studio)",
       "Research",
       "Resemble AI",
       "Reve",
       "Runway",
       "Sber AI",
       "Sesame",
+      "SJTU / SWivid (Research)",
       "Stability AI",
       "Suno AI",
+      "Supertone",
       "Tencent",
       "Tsinghua University (Research)",
       "UltraPixel (Research)",

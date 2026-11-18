@@ -1,6 +1,6 @@
 ## 🧠 AI-Generated Audio
 
-As part of the MNW Benchmark, the NSAIL lab at Northwestern University generated **40,000 synthetic audio clips** across **40 audio generation methods** spanning 2017–2025.
+As part of the MNW Benchmark, the NSAIL lab at Northwestern University generated **50,000 synthetic audio clips** across **50 audio generation methods** spanning 2017–2026.
 
 Each method produced **250 samples**, synthesized from transcripts in the [VCTK corpus](https://datashare.ed.ac.uk/handle/10283/2651), a benchmark dataset in voice synthesis. When available, official voice identities from each toolkit were used; otherwise, a reference voice was randomly chosen from our curated set of 206 deceased individuals ($DI$). 
 
@@ -16,71 +16,83 @@ These simulate malicious modifications used to evade detection models.
 
 ---
 
-### 🆕 March 2026 Update
-
-We have expanded the benchmark with **10,000 additional synthetic audio clips** across **10 new audio generation methods**, bringing the total to **50,000 clips** from **50 methods**. The new batch focuses on recent state-of-the-art TTS systems released in 2025–2026. As with the original data, each new method produced **250 samples** per variant (clean + 3 perturbations), following the same VCTK-based pipeline.
-
----
-
 ### 🎤 Included Audio Generators
 
 | AI Audio Generator                     | Folder Name                           |
 | -------------------------------------- | ------------------------------------- |
 | Bark                                   | `bark/`                               |
-| Capacitron (embedding: 50)             | `capacitron-t2-c50_blizzard2013/`     |
 | Capacitron (embedding: 150)            | `capacitron-t2-c150_v2_blizzard2013/` |
+| Capacitron (embedding: 50)             | `capacitron-t2-c50_blizzard2013/`     |
 | Chat-TTS                               | `chat-tts/`                           |
 | Chatterbox-TTS                         | `chatterbox-tts/`                     |
 | CosyVoice-v2                           | `cosyvoice/`                          |
+| CosyVoice-v3                           | `cosyvoice3/`                         |
 | CSM-1B                                 | `csm-1b/`                             |
 | Dia                                    | `dia/`                                |
 | Diff-HierVC                            | `hiervc/`                             |
 | FastPitch                              | `fast_pitch_ljspeech/`                |
+| Fish Audio S2 Pro                      | `fish-s2-pro/`                        |
 | FreeVC                                 | `freevc/`                             |
 | GlowTTS                                | `glow-tts_ljspeech/`                  |
 | IndexTTS                               | `indextts/`                           |
+| IndexTTS-2                             | `indextts2/`                          |
 | Jenny                                  | `jenny_jenny/`                        |
+| KokoClone                              | `kokoclone/`                          |
 | Kokoro                                 | `kokoro/`                             |
 | LLaSa                                  | `llasa/`                              |
+| LuxTTS                                 | `luxtts/`                             |
 | Melo-TTS                               | `melo-tts/`                           |
 | MetaVoice                              | `metavoice/`                          |
+| MOSS-TTS                               | `moss-tts/`                           |
 | Neural HMM                             | `neural_hmm_ljspeech/`                |
 | OpenVoice-v2                           | `openvoice-v2/`                       |
 | Orpheus-TTS                            | `orpheus-tts/`                        |
 | Overflow                               | `overflow_ljspeech/`                  |
 | Parler-TTS                             | `parler-tts/`                         |
+| Qwen3-TTS (12Hz-1.7B-Base)             | `Qwen3-TTS-12Hz-1.7B-Base/`           |
 | SeedVC                                 | `seedvc/`                             |
-| SpeedySpeech                           | `speedy-speech_ljspeech/`             |
 | SpeechT5-TTS                           | `speecht5-tts/`                       |
+| SpeedySpeech                           | `speedy-speech_ljspeech/`             |
 | Tacotron (SAM dataset)                 | `tacotron-DDC_sam/`                   |
 | Tacotron 2 (EK1)                       | `tacotron2_ek1/`                      |
-| Tacotron 2 (LJSpeech + DDC)            | `tacotron2-DDC_ljspeech/`             |
-| Tacotron 2 (LJSpeech + DDC + phonemes) | `tacotron2-DDC_ph_ljspeech/`          |
 | Tacotron 2 (LJSpeech + DCA)            | `tacotron2-DCA_ljspeech/`             |
+| Tacotron 2 (LJSpeech + DDC + phonemes) | `tacotron2-DDC_ph_ljspeech/`          |
+| Tacotron 2 (LJSpeech + DDC)            | `tacotron2-DDC_ljspeech/`             |
+| TADA (1B)                              | `tada-1b/`                            |
+| TADA (3B-ML)                           | `tada-3b-ml/`                         |
+| Tortoise-TTS                           | `tortoise-tts/`                       |
+| Vevo                                   | `vevo/`                               |
+| VibeVoice (1.5B)                       | `vibevoice-1.5b/`                     |
 | VITS (base model)                      | `vits_ljspeech/`                      |
 | VITS (Neon plugin)                     | `vits--neon_ljspeech/`                |
-| Vevo                                   | `vevo/`                               |
 | WhisperSpeech                          | `whisperspeech/`                      |
 | XTTS (v1.1)                            | `xtts_v1.1/`                          |
 | XTTS (v2)                              | `xtts_v2/`                            |
 | YourTTS                                | `your_tts/`                           |
 | Zonos                                  | `zonos/`                              |
-| Tortoise-TTS                           | `tortoise-tts/`                       |
 
-#### 🆕 New Methods (March 2026)
+---
 
-| AI Audio Generator                     | Folder Name                           | Model Link |
-| -------------------------------------- | ------------------------------------- | ---------- |
-| CosyVoice-v3                           | `cosyvoice3/`                         | [FunAudioLLM/Fun-CosyVoice3-0.5B-2512](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512) |
-| IndexTTS-2                             | `indextts2/`                          | [IndexTeam/IndexTTS-2](https://huggingface.co/IndexTeam/IndexTTS-2) |
-| KokoClone                              | `kokoclone/`                          | [PatnaikAshish/kokoclone](https://huggingface.co/PatnaikAshish/kokoclone) |
-| LuxTTS                                 | `luxtts/`                             | [YatharthS/LuxTTS](https://huggingface.co/YatharthS/LuxTTS) |
-| MOSS-TTS                               | `moss-tts/`                           | [OpenMOSS-Team/MOSS-TTS](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) |
-| Qwen3-TTS (12Hz-1.7B-Base)            | `Qwen3-TTS-12Hz-1.7B-Base/`          | [Qwen/Qwen3-TTS-12Hz-1.7B-Base](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
-| TADA (1B)                              | `tada-1b/`                            | [HumeAI/tada-1b](https://huggingface.co/HumeAI/tada-1b) |
-| TADA (3B-ML)                           | `tada-3b-ml/`                         | [HumeAI/tada-3b-ml](https://huggingface.co/HumeAI/tada-3b-ml) |
-| VibeVoice (1.5B)                       | `vibevoice-1.5b/`                     | [vibevoice/VibeVoice-1.5B](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
-| Fish Audio S2 Pro                      | `fish-s2-pro/`                        | [fishaudio/s2-pro](https://huggingface.co/fishaudio/s2-pro) |
+### 🆕 November 2026 Update
+
+We have expanded the benchmark with **10,000 additional synthetic audio clips** across **10 new audio generation methods**, bringing the total to **60,000 clips** from **60 methods**. The new batch covers TTS systems released on Hugging Face between late 2025 and November 2026 (plus F5-TTS, a widely used generator that the benchmark did not yet include). As before, each method produced **250 clean samples** plus **3 perturbed variants** of each (Gaussian noise, ESC-50 background noise, time-stretching), all synthesized from VCTK transcripts.
+
+Supertonic 3, Pocket TTS, Magpie TTS and Voxtral TTS do not offer open zero-shot cloning, so we drew a random official preset voice for each sample, as we did for earlier preset-voice models. For these models the file name records the voice: `{vctk_id}_{voice}_{index}.wav`.
+
+#### 🆕 New Methods (November 2026)
+
+| AI Audio Generator                     | Folder Name                           | Voice source | Model Link |
+| -------------------------------------- | ------------------------------------- | ------------ | ---------- |
+| Chatterbox-Flash                       | `chatterbox-flash/`                   | $DI$ clone   | [ResembleAI/chatterbox-flash](https://huggingface.co/ResembleAI/chatterbox-flash) |
+| dots.tts (soar)                        | `dots-tts-soar/`                      | $DI$ clone   | [dots-studio/dots.tts-soar](https://huggingface.co/dots-studio/dots.tts-soar) |
+| F5-TTS (v1 Base)                       | `f5-tts/`                             | $DI$ clone   | [SWivid/F5-TTS](https://huggingface.co/SWivid/F5-TTS) |
+| Kitten TTS 2                           | `kitten-tts-2/`                       | $DI$ clone   | [KittenML/kitten-tts-2](https://huggingface.co/KittenML/kitten-tts-2) |
+| Magpie TTS Multilingual (357M, v2607)  | `magpie-tts/`                         | Official     | [nvidia/magpie_tts_multilingual_357m](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
+| OmniVoice                              | `omnivoice/`                          | $DI$ clone   | [k2-fsa/OmniVoice](https://huggingface.co/k2-fsa/OmniVoice) |
+| Pocket TTS                             | `pocket-tts/`                         | Official     | [kyutai/pocket-tts-without-voice-cloning](https://huggingface.co/kyutai/pocket-tts-without-voice-cloning) |
+| Supertonic 3                           | `supertonic-3/`                       | Official     | [Supertone/supertonic-3](https://huggingface.co/Supertone/supertonic-3) |
+| VoxCPM2                                | `voxcpm2/`                            | $DI$ clone   | [openbmb/VoxCPM2](https://huggingface.co/openbmb/VoxCPM2) |
+| Voxtral TTS (4B)                       | `voxtral-4b-tts/`                     | Official     | [mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) |
 
 ---
 
