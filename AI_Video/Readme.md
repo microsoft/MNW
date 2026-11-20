@@ -1,46 +1,46 @@
 # AI-videos generator list :movie_camera:
 
 
-**Publication period:** Labels indicate when each generator folder was first published in this repository. Folders first added **after April 14, 2026** are part of the **Fall 2026 update**; folders added on or before that date are part of the **Spring 2026 update**.
+**Publication period:** Generator folders first added **after April 14, 2026** are flagged as **Fall 2026 update**. Earlier generators are intentionally left blank.
 
 | AI Video                      | Publication        |
 | ----------------------------- | ------------------ |
-| Adobe Firefly video           | Spring 2026 update |
+| Adobe Firefly video           |                    |
 | Alibaba Wan 3.0               | Fall 2026 update   |
 | Alibaba Wan 3.0 Prime         | Fall 2026 update   |
 | Black Forest Labs FLUX 3 Max  | Fall 2026 update   |
 | ByteDance Seedance 2.0 Fast   | Fall 2026 update   |
 | ByteDance Seedance 2.5 Flash  | Fall 2026 update   |
 | ByteDance Seedance 2.5 US     | Fall 2026 update   |
-| CogVideoX-2B                  | Spring 2026 update |
+| CogVideoX-2B                  |                    |
 | Google Gemini Omni Flash v1.1 | Fall 2026 update   |
 | Google Gemini Omni Flash v1.2 | Fall 2026 update   |
-| Google VEO3                   | Spring 2026 update |
-| Google VEO3.1 Lite            | Spring 2026 update |
-| Google VEO3.1 Fast            | Spring 2026 update |
-| Grok Imagine                  | Spring 2026 update |
+| Google VEO3                   |                    |
+| Google VEO3.1 Lite            |                    |
+| Google VEO3.1 Fast            |                    |
+| Grok Imagine                  |                    |
 | HeyGen Video                  | Fall 2026 update   |
-| Kling 1.6                     | Spring 2026 update |
-| Kling 2.0 Master              | Spring 2026 update |
-| Kling 2.1                     | Spring 2026 update |
-| Kling 2.1 Master              | Spring 2026 update |
-| Kling 3                       | Spring 2026 update |
+| Kling 1.6                     |                    |
+| Kling 2.0 Master              |                    |
+| Kling 2.1                     |                    |
+| Kling 2.1 Master              |                    |
+| Kling 3                       |                    |
 | Kling Video v3 Pro            | Fall 2026 update   |
 | Kling v4                      | Fall 2026 update   |
 | Kling v4 Flash                | Fall 2026 update   |
 | Lightricks LTX 2.5 Fast       | Fall 2026 update   |
-| Midjourney Video              | Spring 2026 update |
+| Midjourney Video              |                    |
 | MiniMax H3 Max                | Fall 2026 update   |
 | MiniMax H3 Max Turbo          | Fall 2026 update   |
-| OpenAI Sora                   | Spring 2026 update |
-| OpenAI Sora2                  | Spring 2026 update |
-| Pika 1.5                      | Spring 2026 update |
-| Pika 2.1                      | Spring 2026 update |
-| Pika 2.2                      | Spring 2026 update |
+| OpenAI Sora                   |                    |
+| OpenAI Sora2                  |                    |
+| Pika 1.5                      |                    |
+| Pika 2.1                      |                    |
+| Pika 2.2                      |                    |
 | PixVerse v6                   | Fall 2026 update   |
-| Runway Gen4                   | Spring 2026 update |
-| Seedance 2                    | Spring 2026 update |
-| Wan 2.7                       | Spring 2026 update |
+| Runway Gen4                   |                    |
+| Seedance 2                    |                    |
+| Wan 2.7                       |                    |
 | xAI Grok Imagine Video v1.5   | Fall 2026 update   |
 ---
 

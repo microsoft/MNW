@@ -2,59 +2,59 @@
 # Image generators list :framed_picture:
 
 
-**Publication period:** Labels indicate when each generator folder was first published in this repository. Folders first added **after April 14, 2026** are part of the **Fall 2026 update**; folders added on or before that date are part of the **Spring 2026 update**.
+**Publication period:** Generator folders first added **after April 14, 2026** are flagged as **Fall 2026 update**. Earlier generators are intentionally left blank.
 
 | AI Images                                | Publication        |
 | ---------------------------------------- | ------------------ |
-| Adobe Firefly v2                         | Spring 2026 update |
-| Adobe Firefly v3                         | Spring 2026 update |
-| Adobe Firefly v4                         | Spring 2026 update |
-| Adversarial images                       | Spring 2026 update |
-| Amazon Titan v2                          | Spring 2026 update |
-| Aura flow                                | Spring 2026 update |
-| Baidu                                    | Spring 2026 update |
+| Adobe Firefly v2                         |                    |
+| Adobe Firefly v3                         |                    |
+| Adobe Firefly v4                         |                    |
+| Adversarial images                       |                    |
+| Amazon Titan v2                          |                    |
+| Aura flow                                |                    |
+| Baidu                                    |                    |
 | Baidu Ernie                              | Fall 2026 update   |
 | Baidu Ernie Turbo                        | Fall 2026 update   |
 | Boogu Image                              | Fall 2026 update   |
 | Boogu Image Edit                         | Fall 2026 update   |
-| ByteDance Seedream v3                    | Spring 2026 update |
-| ByteDance Seedream v4                    | Spring 2026 update |
-| Civitai v6                               | Spring 2026 update |
+| ByteDance Seedream v3                    |                    |
+| ByteDance Seedream v4                    |                    |
+| Civitai v6                               |                    |
 | Fibo Gen 1.5 Text to Image               | Fall 2026 update   |
-| Flux 2 dev                               | Spring 2026 update |
-| Flux 2 pro                               | Spring 2026 update |
+| Flux 2 dev                               |                    |
+| Flux 2 pro                               |                    |
 | Flux 3                                   | Fall 2026 update   |
 | Flux 3 Edit                              | Fall 2026 update   |
-| Flux Dev                                 | Spring 2026 update |
-| Flux Kontext Pro                         | Spring 2026 update |
-| Flux inpainting                          | Spring 2026 update |
-| Flux pro1.1                              | Spring 2026 update |
-| Gemini 2.5 flash (Nano banana)           | Spring 2026 update |
-| Google Imagen3                           | Spring 2026 update |
-| Google Imagen4                           | Spring 2026 update |
+| Flux Dev                                 |                    |
+| Flux Kontext Pro                         |                    |
+| Flux inpainting                          |                    |
+| Flux pro1.1                              |                    |
+| Gemini 2.5 flash (Nano banana)           |                    |
+| Google Imagen3                           |                    |
+| Google Imagen4                           |                    |
 | OpenAI GPT Image 1.5                     | Fall 2026 update   |
 | GPT image1 Edits                         | Fall 2026 update   |
 | GPT image1 Inpaintings                   | Fall 2026 update   |
-| Grok imagine                             | Spring 2026 update |
+| Grok imagine                             |                    |
 | Grok Imagine Image v2.0                  | Fall 2026 update   |
 | Grok Imagine Image v2.0 Edit             | Fall 2026 update   |
-| HunyuanDiT                               | Spring 2026 update |
-| HyperSD bytedance Flux                   | Spring 2026 update |
-| HyperSD bytedance SD3                    | Spring 2026 update |
-| Ideogram                                 | Spring 2026 update |
+| HunyuanDiT                               |                    |
+| HyperSD bytedance Flux                   |                    |
+| HyperSD bytedance SD3                    |                    |
+| Ideogram                                 |                    |
 | Ideogram v4 Fast                         | Fall 2026 update   |
 | Ideogram v4 Instant                      | Fall 2026 update   |
 | Ideogram v4.5                            | Fall 2026 update   |
 | Ideogram v4.5 Edit                       | Fall 2026 update   |
-| Kandinsky                                | Spring 2026 update |
-| Kling v2 image                           | Spring 2026 update |
-| Kling v2.1 image                         | Spring 2026 update |
-| Kling v2 new image                       | Spring 2026 update |
-| Kling v3 image                           | Spring 2026 update |
-| Krea 1                                   | Spring 2026 update |
-| Kuaishou Kolors                          | Spring 2026 update |
-| Luma Photon                              | Spring 2026 update |
-| Lumina                                   | Spring 2026 update |
+| Kandinsky                                |                    |
+| Kling v2 image                           |                    |
+| Kling v2.1 image                         |                    |
+| Kling v2 new image                       |                    |
+| Kling v3 image                           |                    |
+| Krea 1                                   |                    |
+| Kuaishou Kolors                          |                    |
+| Luma Photon                              |                    |
+| Lumina                                   |                    |
 | MAI image1                               | Fall 2026 update   |
 | MAI image2                               | Fall 2026 update   |
 | MAI image2e1                             | Fall 2026 update   |
@@ -67,16 +67,16 @@
 | MAI Image 2.7 Flash                      | Fall 2026 update   |
 | MAI Image 2.7 Flash Edit                 | Fall 2026 update   |
 | Meituan LongCat Image                    | Fall 2026 update   |
-| Meta Imagine                             | Spring 2026 update |
+| Meta Imagine                             |                    |
 | Meta Muse                                | Fall 2026 update   |
 | Meta Muse Image Edit                     | Fall 2026 update   |
-| Midjourney v5                            | Spring 2026 update |
-| Midjourney v6                            | Spring 2026 update |
-| Midjourney v7                            | Spring 2026 update |
-| Midjourney v8                            | Spring 2026 update |
-| Nvidia Sana                              | Spring 2026 update |
-| OpenAI Dalle2                            | Spring 2026 update |
-| OpenAI Dalle3                            | Spring 2026 update |
+| Midjourney v5                            |                    |
+| Midjourney v6                            |                    |
+| Midjourney v7                            |                    |
+| Midjourney v8                            |                    |
+| Nvidia Sana                              |                    |
+| OpenAI Dalle2                            |                    |
+| OpenAI Dalle3                            |                    |
 | OpenAI GPTo4 image                       | Fall 2026 update   |
 | OpenAI GPTimage2                         | Fall 2026 update   |
 | OpenAI GPTimage2 edit                    | Fall 2026 update   |
@@ -84,27 +84,27 @@
 | OpenAI GPT Image 2.5 Flare Inpainting    | Fall 2026 update   |
 | OpenAI GPT Image 2.5 Sunburst            | Fall 2026 update   |
 | OpenAI GPT Image 2.5 Sunburst Inpainting | Fall 2026 update   |
-| Pixart alpha XL                          | Spring 2026 update |
-| Playground-v2.5Ae                        | Spring 2026 update |
-| PlaygroundAI                             | Spring 2026 update |
-| Qwen image                               | Spring 2026 update |
+| Pixart alpha XL                          |                    |
+| Playground-v2.5Ae                        |                    |
+| PlaygroundAI                             |                    |
+| Qwen image                               |                    |
 | Qwen Image 3                             | Fall 2026 update   |
 | Qwen Image 3 Edit                        | Fall 2026 update   |
-| Recraft v3                               | Spring 2026 update |
+| Recraft v3                               |                    |
 | Recraft v4.1 Text to Image               | Fall 2026 update   |
-| Reve AI                                  | Spring 2026 update |
+| Reve AI                                  |                    |
 | Seedream v5 Flash Text to Image          | Fall 2026 update   |
 | Seedream v5 Pro Text to Image            | Fall 2026 update   |
-| Stable diffusion v2.1                    | Spring 2026 update |
-| Stable diffusion v3                      | Spring 2026 update |
-| Stable diffusion v35 Large               | Spring 2026 update |
-| Stable diffusion v35 large turbo         | Spring 2026 update |
-| Stable diffusion XL img reference        | Spring 2026 update |
-| Stable diffusion XL inpainting           | Spring 2026 update |
-| Ultrapixel                               | Spring 2026 update |
-| Wuerstchen                               | Spring 2026 update |
+| Stable diffusion v2.1                    |                    |
+| Stable diffusion v3                      |                    |
+| Stable diffusion v35 Large               |                    |
+| Stable diffusion v35 large turbo         |                    |
+| Stable diffusion XL img reference        |                    |
+| Stable diffusion XL inpainting           |                    |
+| Ultrapixel                               |                    |
+| Wuerstchen                               |                    |
 | Z images                                 | Fall 2026 update   |
-| Z Image Turbo                            | Spring 2026 update |
+| Z Image Turbo                            |                    |
 ---
 
 
