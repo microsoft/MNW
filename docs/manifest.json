@@ -7056,6 +7056,1043 @@
       ],
       "total_files": 10
     },
+    "alibaba-wan-3.0": {
+      "display_name": "Alibaba Wan 3.0",
+      "year": 2026,
+      "company": "Alibaba",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_22b7239ce90d4f8fac8f7ab72.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_22b7239ce90d4f8fac8f7ab72.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_2b9e7e6cc01c45e58aecc7756.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_2b9e7e6cc01c45e58aecc7756.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_3737e7d83e8545e397a4b2870.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_3737e7d83e8545e397a4b2870.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_7315342a117545d6930170c61.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_7315342a117545d6930170c61.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_75d029dd72684362877d4944f.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_75d029dd72684362877d4944f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_a20fbf7f144a458286c4e8caa.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_a20fbf7f144a458286c4e8caa.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_ba2e57eda931443a89a6d4cab.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_ba2e57eda931443a89a6d4cab.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_cac8334c258c413b94a8fd541.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_cac8334c258c413b94a8fd541.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_d6139e13bc334aad943d957a6.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_d6139e13bc334aad943d957a6.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0/alibaba-wan-3.0-text-to-video_fda022482bae45a9aff7d2ae8.mp4",
+          "filename": "alibaba-wan-3.0-text-to-video_fda022482bae45a9aff7d2ae8.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "alibaba-wan-3.0-prime": {
+      "display_name": "Alibaba Wan 3.0 Prime",
+      "year": 2026,
+      "company": "Alibaba",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_0fe588cd97dc4c09b993a3d96.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_0fe588cd97dc4c09b993a3d96.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_10611292ad324c9389c4e686d.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_10611292ad324c9389c4e686d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_3988ce17dffb4208bebdb2658.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_3988ce17dffb4208bebdb2658.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_40152f35c639450fa1c607acc.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_40152f35c639450fa1c607acc.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_59f883e5058640438c67c3922.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_59f883e5058640438c67c3922.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_933f6718ddd14112ab12a043d.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_933f6718ddd14112ab12a043d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_ae5ae42990594ac4a77a52d89.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_ae5ae42990594ac4a77a52d89.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_bcdc8ff6270446198f01dd177.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_bcdc8ff6270446198f01dd177.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_d26ce125206c4cb38d1705f5b.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_d26ce125206c4cb38d1705f5b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/alibaba-wan-3.0-prime/alibaba-wan-3.0-prime-text-to-video_d6cd1fa6fe03414680de6daab.mp4",
+          "filename": "alibaba-wan-3.0-prime-text-to-video_d6cd1fa6fe03414680de6daab.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "blackforestlabs-flux-3-max": {
+      "display_name": "Black Forest Labs FLUX 3 Max",
+      "year": 2026,
+      "company": "Black Forest Labs",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_067456764fea471fb5fc9f6c1.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_067456764fea471fb5fc9f6c1.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_0cca8379ebab490cb2a77f39f.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_0cca8379ebab490cb2a77f39f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_5c8242cdd8544530933ffb711.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_5c8242cdd8544530933ffb711.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_7bce8bac3718418b82d2c26af.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_7bce8bac3718418b82d2c26af.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_a198092a43de41169de242d23.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_a198092a43de41169de242d23.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_a754b93c065640ae88b8e0e60.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_a754b93c065640ae88b8e0e60.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_bd60bad458a1441397ae6d7f3.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_bd60bad458a1441397ae6d7f3.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_ccf1731aa5a74d2ca2c42aff3.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_ccf1731aa5a74d2ca2c42aff3.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_eeeb33c80091405987399ebac.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_eeeb33c80091405987399ebac.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/blackforestlabs-flux-3-max/blackforestlabs-flux-3-max-text-to-video_f09104036a164ce8a27af9dfc.mp4",
+          "filename": "blackforestlabs-flux-3-max-text-to-video_f09104036a164ce8a27af9dfc.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "bytedance-seedance-2.0-fast": {
+      "display_name": "ByteDance Seedance 2.0 Fast",
+      "year": 2026,
+      "company": "ByteDance",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_153cd5513ff24a808fde647ee.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_153cd5513ff24a808fde647ee.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_4d3690a37e034229b76fc6842.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_4d3690a37e034229b76fc6842.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_5fd2c3da2cdb42898d6a2dc4c.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_5fd2c3da2cdb42898d6a2dc4c.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_6ed716fd87fb40d99edec7997.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_6ed716fd87fb40d99edec7997.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_6fa48997a69e4eb4bb82a4172.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_6fa48997a69e4eb4bb82a4172.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_762b5a08bddd4df48d9cfc9ac.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_762b5a08bddd4df48d9cfc9ac.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_8d9f6d7f0cda4013bd9ca3f99.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_8d9f6d7f0cda4013bd9ca3f99.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_a96f0f17b60640d7aaad2adeb.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_a96f0f17b60640d7aaad2adeb.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_dc7a9393640e4f58b7296f0a2.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_dc7a9393640e4f58b7296f0a2.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.0-fast/bytedance-seedance-2.0-fast-text-to-video_f4162ddfd410490f81dcbbad3.mp4",
+          "filename": "bytedance-seedance-2.0-fast-text-to-video_f4162ddfd410490f81dcbbad3.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "bytedance-seedance-2.5-flash": {
+      "display_name": "ByteDance Seedance 2.5 Flash",
+      "year": 2026,
+      "company": "ByteDance",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_1294ee5133194e91aa57b6877.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_1294ee5133194e91aa57b6877.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_26f51f3894a64fab83f2396ac.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_26f51f3894a64fab83f2396ac.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_2b61375dcb6c45618193fe386.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_2b61375dcb6c45618193fe386.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_7914d58e443f471bb6ede3380.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_7914d58e443f471bb6ede3380.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_840cf5e62ce545b49b7f2ea42.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_840cf5e62ce545b49b7f2ea42.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_8f263e7c6bb043c2a341d571c.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_8f263e7c6bb043c2a341d571c.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_975e53d972e34d23a6d1ae46a.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_975e53d972e34d23a6d1ae46a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_bb5e407765414ec196f0d6093.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_bb5e407765414ec196f0d6093.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_bca4c14227f444f9a0d8d898d.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_bca4c14227f444f9a0d8d898d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-flash/bytedance-seedance-2.5-flash-text-to-video_dfeb70f8f1ee4fff982c38e4a.mp4",
+          "filename": "bytedance-seedance-2.5-flash-text-to-video_dfeb70f8f1ee4fff982c38e4a.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "bytedance-seedance-2.5-us": {
+      "display_name": "ByteDance Seedance 2.5 US",
+      "year": 2026,
+      "company": "ByteDance",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_04e0b06521e4479b90ecf9036.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_04e0b06521e4479b90ecf9036.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_092be99434fd47f4b0dbe2473.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_092be99434fd47f4b0dbe2473.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_09e1194c168c46058c2fb327a.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_09e1194c168c46058c2fb327a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_1031a3a6b03441ea8921d8c8d.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_1031a3a6b03441ea8921d8c8d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_263abe8445f2447dbe1dafe22.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_263abe8445f2447dbe1dafe22.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_7614d01a333842569645550d2.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_7614d01a333842569645550d2.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_7e89039a25ae480387ff11b5b.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_7e89039a25ae480387ff11b5b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_dfdbba42851a4b9381defde52.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_dfdbba42851a4b9381defde52.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_e644b66eb602455aa1ec1fbe7.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_e644b66eb602455aa1ec1fbe7.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/bytedance-seedance-2.5-us/bytedance-seedance-2.5-us-text-to-video_ed9d20c5ca944ec186f612f24.mp4",
+          "filename": "bytedance-seedance-2.5-us-text-to-video_ed9d20c5ca944ec186f612f24.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "google-gemini-omni-flash-v1.1": {
+      "display_name": "Google Gemini Omni Flash v1.1",
+      "year": 2026,
+      "company": "Google DeepMind",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_407633701eda457e9943d619f.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_407633701eda457e9943d619f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_4b018fdb038c4e8fa31a4bf5f.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_4b018fdb038c4e8fa31a4bf5f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_4eb3f2a950954f0796f8385ce.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_4eb3f2a950954f0796f8385ce.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_5a5ce992b1844b8096263c0da.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_5a5ce992b1844b8096263c0da.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_7f62324766e043818798e855b.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_7f62324766e043818798e855b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_9d834599561c4f2bb06434099.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_9d834599561c4f2bb06434099.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_c7fb5696b91e4ab8b877f8a75.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_c7fb5696b91e4ab8b877f8a75.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_d0bd11a46ebf4b76b8d9071b0.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_d0bd11a46ebf4b76b8d9071b0.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_d5710366971741b48a35b4e90.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_d5710366971741b48a35b4e90.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.1/google-gemini-omni-flash-v1.1-text-to-video_fe8edb3d4d294b7fadc28cdd5.mp4",
+          "filename": "google-gemini-omni-flash-v1.1-text-to-video_fe8edb3d4d294b7fadc28cdd5.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "google-gemini-omni-flash-v1.2": {
+      "display_name": "Google Gemini Omni Flash v1.2",
+      "year": 2026,
+      "company": "Google DeepMind",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_110bb0410c1649fabafefdb94.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_110bb0410c1649fabafefdb94.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_13c6e9b7e69b41be871d3f19e.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_13c6e9b7e69b41be871d3f19e.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_26f8680eb885409982a05b507.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_26f8680eb885409982a05b507.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_403ee9f0333a49a789dbc8cdb.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_403ee9f0333a49a789dbc8cdb.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_411c4de960114830bafb04d5a.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_411c4de960114830bafb04d5a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_73d370b4ede047cc862d2fa2f.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_73d370b4ede047cc862d2fa2f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_92f6083e14094c78a828e8c2f.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_92f6083e14094c78a828e8c2f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_bfccc2f67b014571867872926.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_bfccc2f67b014571867872926.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_c555539bcfd64634ac9d92436.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_c555539bcfd64634ac9d92436.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/google-gemini-omni-flash-v1.2/google-gemini-omni-flash-v1.2-text-to-video_f770a1a7083541f1ac87d52c6.mp4",
+          "filename": "google-gemini-omni-flash-v1.2-text-to-video_f770a1a7083541f1ac87d52c6.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "heygen-heygen-video": {
+      "display_name": "HeyGen Video",
+      "year": 2026,
+      "company": "HeyGen",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_00c1b55662c6488599f7fbd12.mp4",
+          "filename": "heygen-heygen-video-text-to-video_00c1b55662c6488599f7fbd12.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_4de4ea61489a4740806725b74.mp4",
+          "filename": "heygen-heygen-video-text-to-video_4de4ea61489a4740806725b74.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_546b196520f64c7991c51dcea.mp4",
+          "filename": "heygen-heygen-video-text-to-video_546b196520f64c7991c51dcea.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_5a5af8d69a464ea995712e486.mp4",
+          "filename": "heygen-heygen-video-text-to-video_5a5af8d69a464ea995712e486.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_6e5e6bcecfca405e8e1f7fc22.mp4",
+          "filename": "heygen-heygen-video-text-to-video_6e5e6bcecfca405e8e1f7fc22.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_89734c47faf346e3b855846b7.mp4",
+          "filename": "heygen-heygen-video-text-to-video_89734c47faf346e3b855846b7.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_b4e10e3669cf42c19af02bfd0.mp4",
+          "filename": "heygen-heygen-video-text-to-video_b4e10e3669cf42c19af02bfd0.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_c44c0187e00c42949880a5b4f.mp4",
+          "filename": "heygen-heygen-video-text-to-video_c44c0187e00c42949880a5b4f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_d96a3c7e7b3a411b92f545cdd.mp4",
+          "filename": "heygen-heygen-video-text-to-video_d96a3c7e7b3a411b92f545cdd.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/heygen-heygen-video/heygen-heygen-video-text-to-video_dbca22c3774c43e58202bb375.mp4",
+          "filename": "heygen-heygen-video-text-to-video_dbca22c3774c43e58202bb375.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "kling-video-v3-pro": {
+      "display_name": "Kling Video v3 Pro",
+      "year": 2026,
+      "company": "Kuaishou",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_1cdeb6de69a74f97b78e07440.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_1cdeb6de69a74f97b78e07440.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_1e41d865505a475bbd137b631.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_1e41d865505a475bbd137b631.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_24032698090c423eaf38ac799.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_24032698090c423eaf38ac799.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_429feafc83ba4c6f811f8e739.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_429feafc83ba4c6f811f8e739.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_7d025ec368ec4b1283b71244e.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_7d025ec368ec4b1283b71244e.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_7fff83d6877f40fc842690ee5.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_7fff83d6877f40fc842690ee5.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_8e922637b299478c8d4105620.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_8e922637b299478c8d4105620.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_bf86b9517b9c47a8aef1a35ca.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_bf86b9517b9c47a8aef1a35ca.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_e06ca2270bbf49149e509f9d4.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_e06ca2270bbf49149e509f9d4.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-video-v3-pro/kling-video-v3-pro-text-to-video_fa63957f8110454eaff7fdb4e.mp4",
+          "filename": "kling-video-v3-pro-text-to-video_fa63957f8110454eaff7fdb4e.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "kling-v4": {
+      "display_name": "Kling v4",
+      "year": 2026,
+      "company": "Kuaishou",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_080a0aaca0ca4123a320f6142.mp4",
+          "filename": "kling-v4-text-to-video_080a0aaca0ca4123a320f6142.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_0d81618c04584e89b0f6f560a.mp4",
+          "filename": "kling-v4-text-to-video_0d81618c04584e89b0f6f560a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_13b50a578efc43a189c5b808f.mp4",
+          "filename": "kling-v4-text-to-video_13b50a578efc43a189c5b808f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_2a19f07178fd4a8b8648c633f.mp4",
+          "filename": "kling-v4-text-to-video_2a19f07178fd4a8b8648c633f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_2c06bd2c173543eb842c09298.mp4",
+          "filename": "kling-v4-text-to-video_2c06bd2c173543eb842c09298.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_398eff78ef87401ab0a667f31.mp4",
+          "filename": "kling-v4-text-to-video_398eff78ef87401ab0a667f31.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_603d20fb29f64d82a2c0b3633.mp4",
+          "filename": "kling-v4-text-to-video_603d20fb29f64d82a2c0b3633.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_7d01a1b0c742428aa1b02d561.mp4",
+          "filename": "kling-v4-text-to-video_7d01a1b0c742428aa1b02d561.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_cc79f1e5770a45ea822c6f299.mp4",
+          "filename": "kling-v4-text-to-video_cc79f1e5770a45ea822c6f299.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4/kling-v4-text-to-video_dc0d1aec94814e91b1f0a72ce.mp4",
+          "filename": "kling-v4-text-to-video_dc0d1aec94814e91b1f0a72ce.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "kling-v4-flash": {
+      "display_name": "Kling v4 Flash",
+      "year": 2026,
+      "company": "Kuaishou",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_01236b86cf9d435ca60217c2a.mp4",
+          "filename": "kling-v4-flash-text-to-video_01236b86cf9d435ca60217c2a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_29325445b67849cd95b6d0e8b.mp4",
+          "filename": "kling-v4-flash-text-to-video_29325445b67849cd95b6d0e8b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_4d2b037177064487849117ddd.mp4",
+          "filename": "kling-v4-flash-text-to-video_4d2b037177064487849117ddd.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_65d63b7924f4456aa23a3fe7a.mp4",
+          "filename": "kling-v4-flash-text-to-video_65d63b7924f4456aa23a3fe7a.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_66ee1696f8a8486e8a36d1b54.mp4",
+          "filename": "kling-v4-flash-text-to-video_66ee1696f8a8486e8a36d1b54.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_71a53e4770234abe91dd45da9.mp4",
+          "filename": "kling-v4-flash-text-to-video_71a53e4770234abe91dd45da9.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_9fe55d899f3448d99426703db.mp4",
+          "filename": "kling-v4-flash-text-to-video_9fe55d899f3448d99426703db.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_b72e4d3203ba4660b9724b5fc.mp4",
+          "filename": "kling-v4-flash-text-to-video_b72e4d3203ba4660b9724b5fc.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_c7941a7c3fcb48fe954c29caf.mp4",
+          "filename": "kling-v4-flash-text-to-video_c7941a7c3fcb48fe954c29caf.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/kling-v4-flash/kling-v4-flash-text-to-video_e1160f282fa942fa86cbcab26.mp4",
+          "filename": "kling-v4-flash-text-to-video_e1160f282fa942fa86cbcab26.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "lightricks-ltx-2.5-fast": {
+      "display_name": "Lightricks LTX 2.5 Fast",
+      "year": 2026,
+      "company": "Lightricks",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_093f78113cd84316b4a147055.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_093f78113cd84316b4a147055.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_1cd0c9e51f6145d8b8438ffb9.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_1cd0c9e51f6145d8b8438ffb9.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_1fd2021532a940c8a0e974b35.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_1fd2021532a940c8a0e974b35.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_3bdc07c4e0ce4ac484a0feda9.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_3bdc07c4e0ce4ac484a0feda9.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_6336c5a5b29c42408bb578948.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_6336c5a5b29c42408bb578948.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_8485ae474ea945e0891057415.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_8485ae474ea945e0891057415.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_b4552f5b2da744e3a4025242d.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_b4552f5b2da744e3a4025242d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_df15719ff2e44951a1240e67e.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_df15719ff2e44951a1240e67e.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_df8958fb9e82485985e23ec5c.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_df8958fb9e82485985e23ec5c.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/lightricks-ltx-2.5-fast/lightricks-ltx-2.5-text-to-video-fast_f383918b13974f0ea9f928f87.mp4",
+          "filename": "lightricks-ltx-2.5-text-to-video-fast_f383918b13974f0ea9f928f87.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "minimax-h3-max": {
+      "display_name": "MiniMax H3 Max",
+      "year": 2026,
+      "company": "MiniMax",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_0ce0c56dba6b4b448f51d6f0b.mp4",
+          "filename": "minimax-h3-max-text-to-video_0ce0c56dba6b4b448f51d6f0b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_1ff25df8110d4c67beb929d0b.mp4",
+          "filename": "minimax-h3-max-text-to-video_1ff25df8110d4c67beb929d0b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_57220956d42145e0bd00cd404.mp4",
+          "filename": "minimax-h3-max-text-to-video_57220956d42145e0bd00cd404.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_579387cb692e4c9e87b33d286.mp4",
+          "filename": "minimax-h3-max-text-to-video_579387cb692e4c9e87b33d286.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_6530c5fcfbc94e159d6651f1d.mp4",
+          "filename": "minimax-h3-max-text-to-video_6530c5fcfbc94e159d6651f1d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_78579ea6ff9947cf9ee847e98.mp4",
+          "filename": "minimax-h3-max-text-to-video_78579ea6ff9947cf9ee847e98.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_83a470a7f5954d0883a629d40.mp4",
+          "filename": "minimax-h3-max-text-to-video_83a470a7f5954d0883a629d40.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_aa0f33b024ae42bc9fefbce3f.mp4",
+          "filename": "minimax-h3-max-text-to-video_aa0f33b024ae42bc9fefbce3f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_af8651140be949889087a1197.mp4",
+          "filename": "minimax-h3-max-text-to-video_af8651140be949889087a1197.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max/minimax-h3-max-text-to-video_ca69b98529514e96a2ade0acd.mp4",
+          "filename": "minimax-h3-max-text-to-video_ca69b98529514e96a2ade0acd.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "minimax-h3-max-turbo": {
+      "display_name": "MiniMax H3 Max Turbo",
+      "year": 2026,
+      "company": "MiniMax",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_0beb75b3dcd44a39a0a1efb25.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_0beb75b3dcd44a39a0a1efb25.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_2711048398434075866915f04.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_2711048398434075866915f04.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_32808cf978f142b5ac8c9d42d.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_32808cf978f142b5ac8c9d42d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_3584bd2cfb9f41adb38096b6b.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_3584bd2cfb9f41adb38096b6b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_527808dbc1884a77b8ac5ba4c.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_527808dbc1884a77b8ac5ba4c.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_5b671926ee204f8fa7184bdfd.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_5b671926ee204f8fa7184bdfd.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_9465afaad3494c1aa8598ec52.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_9465afaad3494c1aa8598ec52.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_b99b37dda02147bd87da68eb8.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_b99b37dda02147bd87da68eb8.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_c591c56d40bd4ad588f46d400.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_c591c56d40bd4ad588f46d400.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/minimax-h3-max-turbo/minimax-h3-max-turbo-text-to-video_eafd71e5f2b845a783ad1e441.mp4",
+          "filename": "minimax-h3-max-turbo-text-to-video_eafd71e5f2b845a783ad1e441.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "pixverse-v6": {
+      "display_name": "PixVerse v6",
+      "year": 2026,
+      "company": "PixVerse",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_08e720ceac22471695cefcbbb.mp4",
+          "filename": "pixverse-v6-text-to-video_08e720ceac22471695cefcbbb.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_09621f9d64cb441785a361ee1.mp4",
+          "filename": "pixverse-v6-text-to-video_09621f9d64cb441785a361ee1.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_58144a3a6b724d1594331fe11.mp4",
+          "filename": "pixverse-v6-text-to-video_58144a3a6b724d1594331fe11.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_886033c43bf64dbf9db90920d.mp4",
+          "filename": "pixverse-v6-text-to-video_886033c43bf64dbf9db90920d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_88cc3e2d270a4ed581a1a0656.mp4",
+          "filename": "pixverse-v6-text-to-video_88cc3e2d270a4ed581a1a0656.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_8bb706ebfa2a43b3939220deb.mp4",
+          "filename": "pixverse-v6-text-to-video_8bb706ebfa2a43b3939220deb.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_8e6e9007105943de94ea82888.mp4",
+          "filename": "pixverse-v6-text-to-video_8e6e9007105943de94ea82888.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_9dc8502c809d4da988226d6b9.mp4",
+          "filename": "pixverse-v6-text-to-video_9dc8502c809d4da988226d6b9.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_b902d4db37ca4dbbbd11f979f.mp4",
+          "filename": "pixverse-v6-text-to-video_b902d4db37ca4dbbbd11f979f.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/pixverse-v6/pixverse-v6-text-to-video_fa8c36faf265459cab1776404.mp4",
+          "filename": "pixverse-v6-text-to-video_fa8c36faf265459cab1776404.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
+    "xai-grok-imagine-video-v1.5": {
+      "display_name": "xAI Grok Imagine Video v1.5",
+      "year": 2026,
+      "company": "xAI",
+      "category": "AI Generated",
+      "subcategory": "Video",
+      "file_count": 10,
+      "sample_files": [
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_1ba7e12365244eeba31749b46.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_1ba7e12365244eeba31749b46.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_33841a96bec043578876c261b.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_33841a96bec043578876c261b.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_351da173a1b94316bfcfa11cb.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_351da173a1b94316bfcfa11cb.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_3a5d351901f7428e8dc35867d.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_3a5d351901f7428e8dc35867d.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_3f9528baf95d4b3dab5208452.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_3f9528baf95d4b3dab5208452.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_6ce9cfde846b43cfa8716a484.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_6ce9cfde846b43cfa8716a484.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_6f519af1131747d68a0340b21.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_6f519af1131747d68a0340b21.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_88a4870e08cc42b59084e9094.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_88a4870e08cc42b59084e9094.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_d27349ea080c41db9b17305d4.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_d27349ea080c41db9b17305d4.mp4",
+          "type": "video"
+        },
+        {
+          "path": "AI_Video/xai-grok-imagine-video-v1.5/xai-grok-imagine-video-v1.5-text-to-video_faa11ae627f4482b9010a6ac1.mp4",
+          "filename": "xai-grok-imagine-video-v1.5-text-to-video_faa11ae627f4482b9010a6ac1.mp4",
+          "type": "video"
+        }
+      ],
+      "total_files": 10
+    },
     "Diff2lip": {
       "display_name": "Diff2Lip",
       "year": 2023,
@@ -16046,10 +17083,10 @@
     }
   },
   "stats": {
-    "total_generators": 264,
-    "total_files": 83794,
+    "total_generators": 281,
+    "total_files": 83964,
     "categories": {
-      "AI Generated": 23700,
+      "AI Generated": 23870,
       "Deepfake": 60012,
       "In the Wild": 82
     },
@@ -16095,12 +17132,14 @@
       "Krea AI",
       "Kuaishou",
       "Kyutai",
+      "Lightricks",
       "Luma AI",
       "Meituan",
       "Meta",
       "MetaVoice",
       "Microsoft",
       "Midjourney",
+      "MiniMax",
       "Mistral AI",
       "MyShell",
       "Nari Labs",
@@ -16110,6 +17149,7 @@
       "OpenAI",
       "OpenBMB",
       "Pika Labs",
+      "PixVerse",
       "Playground AI",
       "Real-world",
       "Recraft",

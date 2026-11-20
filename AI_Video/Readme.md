@@ -3,25 +3,42 @@
 | AI Video           |
 |--------------------|
 | Adobe Firefly video|
+| Alibaba Wan 3.0    |
+| Alibaba Wan 3.0 Prime |
+| Black Forest Labs FLUX 3 Max |
+| ByteDance Seedance 2.0 Fast |
+| ByteDance Seedance 2.5 Flash |
+| ByteDance Seedance 2.5 US |
 | CogVideoX-2B       |
+| Google Gemini Omni Flash v1.1 |
+| Google Gemini Omni Flash v1.2 |
 | Google VEO3        |
 | Google VEO3.1 Lite |
 | Google VEO3.1 Fast |
 | Grok Imagine       |
+| HeyGen Video       |
 | Kling 1.6          |
 | Kling 2.0 Master   |
 | Kling 2.1          |
 | Kling 2.1 Master   |
 | Kling 3            |
+| Kling Video v3 Pro |
+| Kling v4           |
+| Kling v4 Flash     |
+| Lightricks LTX 2.5 Fast |
 | Midjourney Video   |
+| MiniMax H3 Max     |
+| MiniMax H3 Max Turbo |
 | OpenAI Sora        |
 | OpenAI Sora2       |
 | Pika 1.5           |
 | Pika 2.1           |
 | Pika 2.2           |
+| PixVerse v6        |
 | Runway Gen4        |
 | Seedance 2         |
 | Wan 2.7            |
+| xAI Grok Imagine Video v1.5 |
 ---
 
 ## :fountain_pen: Cite us!
