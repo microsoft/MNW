@@ -1,8 +1,5 @@
 # AI-videos generator list :movie_camera:
 
-
-**Publication period:** Generator folders whose local creation date on the repository-maintenance machine is **after April 14, 2026** are flagged as **Fall 2026 update**. Folders created on or before April 14 are intentionally left blank.
-
 | AI Video                      | Publication      |
 | ----------------------------- | ---------------- |
 | Adobe Firefly video           |                  |
