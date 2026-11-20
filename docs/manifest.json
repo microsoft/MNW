@@ -3437,6 +3437,250 @@
       ],
       "total_files": 250
     },
+    "MAI-image-2.7": {
+      "display_name": "MAI Image 2.7",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_0449899e590243ffa35dfb6de.jpg",
+          "filename": "MAI-image-2.7_0449899e590243ffa35dfb6de.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_05eec67c57b94d12ad4f47f0b.jpg",
+          "filename": "MAI-image-2.7_05eec67c57b94d12ad4f47f0b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_06ee366f762c4ecda0deff46c.jpg",
+          "filename": "MAI-image-2.7_06ee366f762c4ecda0deff46c.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_06f9eef8d2d94cb8b763e27ba.jpg",
+          "filename": "MAI-image-2.7_06f9eef8d2d94cb8b763e27ba.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_07528a69fa2a4a38bdb0fcd35.jpg",
+          "filename": "MAI-image-2.7_07528a69fa2a4a38bdb0fcd35.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_0987cd0001c24fd9a04c14f07.jpg",
+          "filename": "MAI-image-2.7_0987cd0001c24fd9a04c14f07.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_09aa7b4497ca452394acba1d7.jpg",
+          "filename": "MAI-image-2.7_09aa7b4497ca452394acba1d7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_09eb521c2c484073b67d0f77b.jpg",
+          "filename": "MAI-image-2.7_09eb521c2c484073b67d0f77b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_0a7064cdad6a4720ba7775765.jpg",
+          "filename": "MAI-image-2.7_0a7064cdad6a4720ba7775765.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7/MAI-image-2.7_0a99b12983b84dec8a06e4768.jpg",
+          "filename": "MAI-image-2.7_0a99b12983b84dec8a06e4768.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "MAI-image-2.7-edit": {
+      "display_name": "MAI Image 2.7 Edit",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_00PLCrIowo9aZBS83FQi5AQ7Z.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_00PLCrIowo9aZBS83FQi5AQ7Z.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_02S3SPWOoMJMLNZuNGrHw5cM2.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_02S3SPWOoMJMLNZuNGrHw5cM2.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_02sLrzLiolDJG3PinQd13mUqp.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_02sLrzLiolDJG3PinQd13mUqp.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_03roGfAYkrMGAaQqn8HK9wpxb.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_03roGfAYkrMGAaQqn8HK9wpxb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_04IkWuLqEpl0cPfOuroHYjoLu.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_04IkWuLqEpl0cPfOuroHYjoLu.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_0ANi7dL0eIoSc08AsyFlrhMoM.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_0ANi7dL0eIoSc08AsyFlrhMoM.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_0BDiK2IMQLENEXwGZJmM7gdCb.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_0BDiK2IMQLENEXwGZJmM7gdCb.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_0BfXPKF4jaH6UEjr0Ao2zaqKz.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_0BfXPKF4jaH6UEjr0Ao2zaqKz.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_0DILahmop79Esd4UFG2ajF3Cz.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_0DILahmop79Esd4UFG2ajF3Cz.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-edit/mai-image-2.7-edit_FOUNDRY_0HCEiEos35jGAIelsUqQwFxlh.jpg",
+          "filename": "mai-image-2.7-edit_FOUNDRY_0HCEiEos35jGAIelsUqQwFxlh.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "MAI-image-2.7-flash": {
+      "display_name": "MAI Image 2.7 Flash",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_00a219efbe1a46feaf687c3f5.jpg",
+          "filename": "MAI-image-2.7-flash_00a219efbe1a46feaf687c3f5.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_02862886c9384ab3a47abbdd7.jpg",
+          "filename": "MAI-image-2.7-flash_02862886c9384ab3a47abbdd7.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_0461ebe0e8574f30bf1d0175a.jpg",
+          "filename": "MAI-image-2.7-flash_0461ebe0e8574f30bf1d0175a.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_04ec81f4bdaf48308aba77010.jpg",
+          "filename": "MAI-image-2.7-flash_04ec81f4bdaf48308aba77010.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_072240e4e4af44c6aed218ec0.jpg",
+          "filename": "MAI-image-2.7-flash_072240e4e4af44c6aed218ec0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_0797f423c8b546819b21247b0.jpg",
+          "filename": "MAI-image-2.7-flash_0797f423c8b546819b21247b0.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_0934d34785eb4bd5b1fc50544.jpg",
+          "filename": "MAI-image-2.7-flash_0934d34785eb4bd5b1fc50544.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_096837d66dd04f608f91020da.jpg",
+          "filename": "MAI-image-2.7-flash_096837d66dd04f608f91020da.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_09a7b4402ca6428690c33e42b.jpg",
+          "filename": "MAI-image-2.7-flash_09a7b4402ca6428690c33e42b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash/MAI-image-2.7-flash_09f2912d0679496db7a352ccb.jpg",
+          "filename": "MAI-image-2.7-flash_09f2912d0679496db7a352ccb.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
+    "MAI-image-2.7-flash-edit": {
+      "display_name": "MAI Image 2.7 Flash Edit",
+      "year": 2026,
+      "company": "Microsoft",
+      "category": "AI Generated",
+      "subcategory": "Image",
+      "file_count": 250,
+      "sample_files": [
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_00rXz9OypHeo0ZEBBPkQgfwdM.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_00rXz9OypHeo0ZEBBPkQgfwdM.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_02J5cwasyZ6OwDGefoP9lhLKx.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_02J5cwasyZ6OwDGefoP9lhLKx.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_02JmIyaZH4XyS6UQ20kzPrO4b.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_02JmIyaZH4XyS6UQ20kzPrO4b.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_02e2MMo3bMKG07BsLDyemUmCq.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_02e2MMo3bMKG07BsLDyemUmCq.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_03P2sqOLIFJdrs1YjqEOL4KoC.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_03P2sqOLIFJdrs1YjqEOL4KoC.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_03oBGGo1CbIbO9o3NkoLRZygo.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_03oBGGo1CbIbO9o3NkoLRZygo.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_04QZRGaFNWsUozNlL1FuWcZEo.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_04QZRGaFNWsUozNlL1FuWcZEo.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_0A2cMOUj3kZ5JgxSGr22J0zWm.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_0A2cMOUj3kZ5JgxSGr22J0zWm.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_0A7NFO7LC84EF2uP5kQ4rJgYY.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_0A7NFO7LC84EF2uP5kQ4rJgYY.jpg",
+          "type": "image"
+        },
+        {
+          "path": "AI_Images/MAI-image-2.7-flash-edit/mai-image-2.7-flash-edit_FOUNDRY_0ACFyrms9wrdMroS2Z8ZymwWg.jpg",
+          "filename": "mai-image-2.7-flash-edit_FOUNDRY_0ACFyrms9wrdMroS2Z8ZymwWg.jpg",
+          "type": "image"
+        }
+      ],
+      "total_files": 250
+    },
     "Meituan_LongCat_Image": {
       "display_name": "Meituan LongCat Image",
       "year": 2026,
@@ -17083,10 +17327,10 @@
     }
   },
   "stats": {
-    "total_generators": 281,
-    "total_files": 83964,
+    "total_generators": 285,
+    "total_files": 84964,
     "categories": {
-      "AI Generated": 23870,
+      "AI Generated": 24870,
       "Deepfake": 60012,
       "In the Wild": 82
     },
