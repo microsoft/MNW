@@ -1,4 +1,4 @@
-## AI Deep and Cheap Fakes Africa – from Thraets
+### AI Deep and Cheap Fakes Africa – from Thraets
 A collection of AI-generated and manipulated media (deepfakes and cheapfakes) found on social media across Africa, with the original post link, an archived copy, the country, and the type of fake for each item. The layout follows the *AI media in the wild* section of the [MNW benchmark](https://github.com/microsoft/MNW/tree/main/AI_media_in_the_wild).
 
 ## Contents
