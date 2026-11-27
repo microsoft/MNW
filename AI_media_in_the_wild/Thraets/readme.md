@@ -13,6 +13,8 @@ Each folder has a `likely_manipulated/` subfolder with the files and a `readme.m
 ## Labels
 - Deepfakes
 - Cheapfakes
+  
+All the content included here is AI-generated. The classification between * *deepfakes* * and * *cheapfakes* * depends on how costly they were to create. These labels can be reviewed in [`metadata/shortlist.csv`](metadata/shortlist.csv) and [`metadata/shortlist.xlsx`](metadata/shortlist.xlsx). 
 
 ## Countries
 
