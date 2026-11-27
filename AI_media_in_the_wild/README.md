@@ -1,4 +1,9 @@
-### Intro
+# AI media *in-the-wild*
+
+### 📣 Announcement!  
+**🆕 NEW!** As of November 2026, *in-the-wild* portion of the MNW Dataset has been expanded by examples provided by [Thraets](https://thraets.org/), a non-profit pro-democracy civic-tech research lab dedicated to combating digital threats against truth, democracy, and social unity. They contribute a collection of AI-generated and manipulated media (deepfakes and cheapfakes) found on social media across Africa. To access their examples, head to the [Thraets folder](https://github.com/microsoft/MNW/tree/main/AI_media_in_the_wild/Thraets).     
+
+## WITNESS' Deepfakes Rapid Response Force
 
 The AI media *in-the-wild* examples were collected through the work of the [Deepfakes Rapid Response Force](https://www.gen-ai.witness.org/deepfakes-rapid-response-force/). This WITNESS initiative connects frontline fact-checkers, journalists, and civil society actors with leading media forensics and deepfake detection experts who provide a timely, evidence-based analysis of potentially AI-manipulated or generated content threatening democracy and human rights.
 
